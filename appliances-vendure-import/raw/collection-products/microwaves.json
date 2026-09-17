@@ -1,0 +1,903 @@
+{
+  "collection": {
+    "id": 287249530934,
+    "title": "MICROWAVES",
+    "handle": "microwaves",
+    "description": "",
+    "published_at": "2024-09-17T10:04:31-04:00",
+    "updated_at": "2026-06-03T21:28:17-04:00",
+    "image": {
+      "id": 1611592925238,
+      "created_at": "2024-09-17T16:43:22-04:00",
+      "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/collections/MICROWAVES_PNG_ICON_8d6bad9f-87e4-450f-8bfd-4f98b8114547.png?v=1726605803",
+      "alt": null
+    },
+    "products_count": 35
+  },
+  "products": [
+    {
+      "id": 8125802086454,
+      "title": "BRAND NEW (JVM3160RFSS) GE® 1.6 Cu. Ft. Over-the-Range Microwave Oven",
+      "handle": "brand-new-jvm3160rfss-ge®-1-6-cu-ft-over-the-range-microwave-oven",
+      "body_html": "<p><strong>Over-the-Range Microwave Oven with 1.6 cu. ft. Capacity</strong></p>\n<p><br><span>This over-the-range microwave is the perfect addition to your kitchen. Featuring 10 power levels and 1,000 cooking watts, preparing your meals will be a breeze. Defrosting times and convenience features are programmed automatically or manually for optimal results. Select among several convenience cooking options including potato, popcorn, and reheat. The two-speed, 300-CFM venting system removes smoke, steam, and odors.</span></p>",
+      "published_at": "2025-12-29T15:39:59-05:00",
+      "created_at": "2025-12-29T15:35:51-05:00",
+      "updated_at": "2026-06-05T12:01:33-04:00",
+      "vendor": "GENERAL ELECTRIC",
+      "product_type": "",
+      "tags": [
+        "General electric",
+        "microwaves"
+      ],
+      "variants": [
+        {
+          "id": 44641222983734,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "199.99",
+          "grams": 0,
+          "compare_at_price": "279.99",
+          "position": 1,
+          "product_id": 8125802086454,
+          "created_at": "2025-12-29T15:35:52-05:00",
+          "updated_at": "2026-06-05T12:01:33-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38327079272502,
+          "created_at": "2025-12-29T15:38:24-05:00",
+          "position": 1,
+          "updated_at": "2025-12-29T15:40:01-05:00",
+          "product_id": 8125802086454,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/109C949F-A8D8-4FEB-9771-747C7EFECA83.jpg?v=1767040801",
+          "width": 1053,
+          "height": 768
+        },
+        {
+          "id": 38327079305270,
+          "created_at": "2025-12-29T15:38:24-05:00",
+          "position": 2,
+          "updated_at": "2025-12-29T15:38:25-05:00",
+          "product_id": 8125802086454,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/9663F7A0-3AAA-447D-89BF-D5CF1807D2EC.jpg?v=1767040705",
+          "width": 2400,
+          "height": 2367
+        },
+        {
+          "id": 38327079239734,
+          "created_at": "2025-12-29T15:38:24-05:00",
+          "position": 3,
+          "updated_at": "2025-12-29T15:38:25-05:00",
+          "product_id": 8125802086454,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/C3DCBE08-688F-4011-9EF2-DF78A4B0540E.jpg?v=1767040705",
+          "width": 600,
+          "height": 600
+        },
+        {
+          "id": 38327079206966,
+          "created_at": "2025-12-29T15:38:24-05:00",
+          "position": 4,
+          "updated_at": "2025-12-29T15:38:25-05:00",
+          "product_id": 8125802086454,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/4688741D-703B-4B03-AFAE-193961AA8C57.png?v=1767040705",
+          "width": 500,
+          "height": 500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8125788028982,
+      "title": "BRAND NEW Dacor (DMO30U970SS) - 1.1 Cu. Ft. Over-The-Range 30\" Slim Microwave with Sensor Cooking and Bar LED Lighting - Silver Stainless Steel",
+      "handle": "brand-new-dacor-dmo30u970ss-1-1-cu-ft-over-the-range-30-slim-microwave-with-sensor-cooking-and-bar-led-lighting-silver-stainless-steel",
+      "body_html": "<p><strong>30 Inch SLIM Over-the-Range Smart Microwave with 1.1 Cu. Ft. Capacity</strong></p>\n<p><br><span>Slim OTR design on the outside and powerful preset functionality, including sensor cook and auto cook, on the inside. An intelligent system monitors interior air humidity and automatically adjusts cook time and power levels. Bar LED is added to illuminate the cooking surface.</span></p>",
+      "published_at": "2025-12-29T15:28:06-05:00",
+      "created_at": "2025-12-29T15:23:07-05:00",
+      "updated_at": "2026-06-05T12:01:33-04:00",
+      "vendor": "The Appliances Outlet",
+      "product_type": "",
+      "tags": [
+        "microwaves"
+      ],
+      "variants": [
+        {
+          "id": 44641139458102,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "299.99",
+          "grams": 0,
+          "compare_at_price": "949.99",
+          "position": 1,
+          "product_id": 8125788028982,
+          "created_at": "2025-12-29T15:23:08-05:00",
+          "updated_at": "2026-06-05T12:01:33-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38326992928822,
+          "created_at": "2025-12-29T15:27:44-05:00",
+          "position": 1,
+          "updated_at": "2025-12-29T15:27:46-05:00",
+          "product_id": 8125788028982,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/9CA6B81F-4351-46AA-8E4E-602AE2842FED.png?v=1767040066",
+          "width": 515,
+          "height": 410
+        },
+        {
+          "id": 38326992863286,
+          "created_at": "2025-12-29T15:27:44-05:00",
+          "position": 2,
+          "updated_at": "2025-12-29T15:27:45-05:00",
+          "product_id": 8125788028982,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/E2940C95-D957-4011-BA85-374BBCBEF3BD.jpg?v=1767040065",
+          "width": 747,
+          "height": 267
+        },
+        {
+          "id": 38326992896054,
+          "created_at": "2025-12-29T15:27:44-05:00",
+          "position": 3,
+          "updated_at": "2025-12-29T15:27:46-05:00",
+          "product_id": 8125788028982,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/D7FF8656-B806-4B61-9843-38EAD66F6A44.png?v=1767040066",
+          "width": 428,
+          "height": 241
+        },
+        {
+          "id": 38326992797750,
+          "created_at": "2025-12-29T15:27:44-05:00",
+          "position": 4,
+          "updated_at": "2025-12-29T15:27:46-05:00",
+          "product_id": 8125788028982,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/1029A25F-A9CB-44CB-BDC6-577D323A7756.jpg?v=1767040066",
+          "width": 500,
+          "height": 290
+        },
+        {
+          "id": 38326992830518,
+          "created_at": "2025-12-29T15:27:44-05:00",
+          "position": 5,
+          "updated_at": "2025-12-29T15:27:46-05:00",
+          "product_id": 8125788028982,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/370D788F-BA58-4813-9EF2-BA85D362198D.png?v=1767040066",
+          "width": 1275,
+          "height": 1650
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7665311580214,
+      "title": "BRAND NEW SAMSUNG MICROWAVE (ME19CB704112/AA) - BESPOKE Smart 1.9 cu. ft. Over-the-Range Microwave with Sensor Cook - White Glass",
+      "handle": "microwave-me19cb704112-aa-samsung-bespoke-smart-1-9-cu-ft-over-the-range-microwave-with-sensor-cook-white-glass",
+      "body_html": "<div style=\"text-align: center;\"><img style=\"float: none;\" alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0622/9449/1190/files/BRAND_NEW_LOGO_240x240.png?v=1725737689\"></div>\n<div style=\"text-align: center;\">This Over-the-Range microwave includes smart technology that makes microwave cooking even easier. Powerful ventilation used while cooking keeps your kitchen virtually odorless. Bespoke kitchen appliances are available in complementary colors to the Bespoke refrigerator.</div>\n<div style=\"text-align: center;\"><br></div>\n<div style=\"text-align: center;\">\n<h1 class=\"font-bold no-margin\">Features</h1>\n<ul class=\"p-l-15 small\">\n<li>Bespoke Smart Over-the-Range Microwave in White Glass with a sizeable 1.9 cu. ft. capacity.</li>\n<li>This smart microwave is Wi-Fi and voice enabled, featuring Sensor Cook technology that will automatically adjust cooking times for optimal results.</li>\n<li>Beautifully complements other Bespoke White Glass kitchen appliances.</li>\n</ul>\n<p> </p>\n<p><strong>Convenience</strong></p>\n<p><br>• Eco Mode (Reduces Standby Power)<br>• Clock (12 hr/24 hr) with<br>Daylight Saving Time Adjustment<br>• Kitchen Timer<br>• End Signal<br>• Interior Light: Incandescent (1)<br>• Cooktop Lighting (Halogen): High/Low/Off<br>• Vent Fan Control: Boost/Hi/Mid/Lo/Off<br>• Child Safety Lock<br>• Sound On/Off</p>\n<h3><br></h3>\n<h3><strong>Specifications</strong></h3>\n<p><br>• Oven Cavity: 1.9 cu. ft.<br>• Power Output: 1000W<br>• Power Consumption: 1700W/14.5 A<br>• Power Source: 120V/60 Hz<br>• Control Method: Glass Touch<br>• Display: White LED<br>• Cooking Control: 10 Power Levels Including<br>Defrost and Sensor Cook<br>• Cooking Timer: Digital, up to 99 Minutes, 99 Seconds<br>• Microwave Distribution System: Turntable<br>• Glass Turntable Diameter: 14 3⁄16\"<br>• Vent Fan: 4-Speed/400 CFM<br>• Vent Fan Control: Boost/Hi/Mid/Lo/Off<br>• Cooktop Lighting: High/Low/Off<br>• Incandescent Interior Light</p>\n<p> </p>\n<p><strong>Product Dimensions &amp; Weight (WxHxD)</strong><br>Cavity Dimensions: 22 1/8\" x 10 13/16\" x 14 27/32\"<br>Outside Net Dimensions: 29 7/8\" x 17 1/16\" x 16 1/2\"<br><strong>Weight:</strong> 60.0 lbs</p>\n<p><br><strong>Shipping Dimensions &amp; Weight (WxHxD)</strong><br>Dimensions: 33 11/32\" x 20 25/32\" x 19 3/8\"<br><strong>Weight:</strong> 67.2 lbs</p>\n<p> </p>\n</div>",
+      "published_at": "2025-12-29T15:48:41-05:00",
+      "created_at": "2024-09-18T03:00:20-04:00",
+      "updated_at": "2026-06-05T12:01:33-04:00",
+      "vendor": "SAMSUNG",
+      "product_type": "MICROWAVE",
+      "tags": [
+        "microwaves",
+        "samsung",
+        "SAMSUNG BRAND NEW"
+      ],
+      "variants": [
+        {
+          "id": 43059976273974,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "MI-BR-SA-WH84",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "299.99",
+          "grams": 30481,
+          "compare_at_price": "429.99",
+          "position": 1,
+          "product_id": 7665311580214,
+          "created_at": "2024-09-18T03:00:22-04:00",
+          "updated_at": "2026-06-05T12:01:33-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 34678967992374,
+          "created_at": "2024-09-18T02:54:53-04:00",
+          "position": 1,
+          "updated_at": "2024-09-18T02:54:55-04:00",
+          "product_id": 7665311580214,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/1_a155b43f-5275-4d9a-942b-3b27243de2a8.jpg?v=1726642495",
+          "width": 550,
+          "height": 550
+        },
+        {
+          "id": 34678968025142,
+          "created_at": "2024-09-18T02:54:53-04:00",
+          "position": 2,
+          "updated_at": "2024-09-18T02:54:55-04:00",
+          "product_id": 7665311580214,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/2_dd073795-c577-4f62-8703-cd5673680b98.jpg?v=1726642495",
+          "width": 550,
+          "height": 550
+        },
+        {
+          "id": 34678968057910,
+          "created_at": "2024-09-18T02:54:53-04:00",
+          "position": 3,
+          "updated_at": "2024-09-18T02:54:55-04:00",
+          "product_id": 7665311580214,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/3_ab2ad044-b203-4384-ad21-7c50fb198540.jpg?v=1726642495",
+          "width": 550,
+          "height": 550
+        },
+        {
+          "id": 34678968090678,
+          "created_at": "2024-09-18T02:54:53-04:00",
+          "position": 4,
+          "updated_at": "2024-09-18T02:54:55-04:00",
+          "product_id": 7665311580214,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/5_88ecfcab-c95d-4cad-a504-48f5c4113ecf.jpg?v=1726642495",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 34678968123446,
+          "created_at": "2024-09-18T02:54:53-04:00",
+          "position": 5,
+          "updated_at": "2024-09-18T02:54:55-04:00",
+          "product_id": 7665311580214,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/6_439a016b-1ae4-4a00-87a5-e651ffccc13d.jpg?v=1726642495",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 34678968156214,
+          "created_at": "2024-09-18T02:54:53-04:00",
+          "position": 6,
+          "updated_at": "2024-09-18T02:54:55-04:00",
+          "product_id": 7665311580214,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/7_cae41050-72da-4859-9d33-bace497a9e9d.jpg?v=1726642495",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 34678968188982,
+          "created_at": "2024-09-18T02:54:53-04:00",
+          "position": 7,
+          "updated_at": "2024-09-18T02:54:55-04:00",
+          "product_id": 7665311580214,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/8_66239e58-1077-4c71-89d0-56cb49ae7e23.jpg?v=1726642495",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 34678968221750,
+          "created_at": "2024-09-18T02:54:53-04:00",
+          "position": 8,
+          "updated_at": "2024-09-18T02:54:55-04:00",
+          "product_id": 7665311580214,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/9_8dde9395-e01d-4323-b742-bf6c72630015.jpg?v=1726642495",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8125817520182,
+      "title": "BRAND NEW SAMSUNG MICROWAVE (ME21DB630012AA) Samsung - Bespoke 2.1 Cu. Ft. Over-the-Range Microwave with Sensor Cooking and Wi-Fi Connectivity - White Glass",
+      "handle": "samsung-microwave-me21db630012aa-samsung-bespoke-2-1-cu-ft-over-the-range-microwave-with-sensor-cooking-and-wi-fi-connectivity-white-glass",
+      "body_html": "<h1 style=\"text-align: center;\"><br></h1>\n<h1 style=\"text-align: center;\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0622/9449/1190/files/ORIGINAL.png?v=1725737689\" width=\"167\" height=\"167\"></h1>\n<h1 style=\"text-align: center;\"> Features</h1>\n<p style=\"text-align: center;\"><br> • Auto Connectivity<br> • LED Display<br> • SmartThings Cooking<br> • Glass Touch Controls<br> • Home Dessert<br> • Ceramic Enamel Interior</p>\n<p style=\"text-align: center;\"><strong> Wi-Fi Connectivity</strong></p>\n<p style=\"text-align: center;\"> </p>\n<h1 style=\"text-align: center;\"> Convenience</h1>\n<p style=\"text-align: center;\">• Voice-Enabled<br> •  Clock (12 hr/24 hr) with <br>Daylight Savings Time Adjustment<br> • Reminder End Signal<br> • LED Cooktop Lighting<br> • Halogen Interior Lighting<br> • Vent Fan Control: On/Off/Delay Off<br> • Sound On/Off<br> • Eco Mode</p>\n<h1 style=\"text-align: center;\"><br></h1>\n<h1 style=\"text-align: center;\">Functions</h1>\n<p style=\"text-align: center;\"><br> • Kitchen Timer<br> • +30 Seconds<br> • Sensor Cook<br> • Auto Cook<br> • Keep Warm<br> • Defrost</p>\n<h1 style=\"text-align: center;\"><br></h1>\n<h1 style=\"text-align: center;\">Specifications </h1>\n<p style=\"text-align: center;\"><br>• Capacity: 2.1 cu.ft.<br> • 400 CFM Ventilation<br> • Power Output: 1000W<br> • Power Consumption: 1700W</p>\n<h1 style=\"text-align: center;\"><br></h1>\n<h1 style=\"text-align: center;\">Product Dimensions (WxHxD)</h1>\n<p style=\"text-align: center;\"><br> Dimensions: 297/8\" x 171/16\" x 161/2\" <br>Weight: 58.0 lbs</p>\n<h1 style=\"text-align: center;\">\n<br> Shipping Dimensions &amp; Weight (WxHxD)</h1>\n<p style=\"text-align: center;\"><br> Dimensions: 3311/32\" x 2013/16\" x 193/8\" <br>Weight: 64.6 lbs</p>",
+      "published_at": "2025-12-29T16:04:56-05:00",
+      "created_at": "2025-12-29T16:04:56-05:00",
+      "updated_at": "2026-06-05T12:01:33-04:00",
+      "vendor": "SAMSUNG",
+      "product_type": "MICROWAVE",
+      "tags": [
+        "microwaves",
+        "samsung",
+        "SAMSUNG BRAND NEW"
+      ],
+      "variants": [
+        {
+          "id": 44641258930230,
+          "title": "Stainless Steel",
+          "option1": "Stainless Steel",
+          "option2": null,
+          "option3": null,
+          "sku": "MI-BR-SA-ST08",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "380.00",
+          "grams": 29302,
+          "compare_at_price": "420.00",
+          "position": 1,
+          "product_id": 8125817520182,
+          "created_at": "2025-12-29T16:04:56-05:00",
+          "updated_at": "2026-06-05T12:01:33-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38327215783990,
+          "created_at": "2025-12-29T16:05:46-05:00",
+          "position": 1,
+          "updated_at": "2025-12-29T16:05:48-05:00",
+          "product_id": 8125817520182,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/69981DF8-F037-4A64-BABD-8F3AD19D54D1.jpg?v=1767042348",
+          "width": 800,
+          "height": 600
+        },
+        {
+          "id": 38327215718454,
+          "created_at": "2025-12-29T16:05:46-05:00",
+          "position": 2,
+          "updated_at": "2025-12-29T16:06:02-05:00",
+          "product_id": 8125817520182,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/35B601AB-B209-446C-BB6B-6274680D20F6.jpg?v=1767042362",
+          "width": 800,
+          "height": 600
+        },
+        {
+          "id": 38327215685686,
+          "created_at": "2025-12-29T16:05:46-05:00",
+          "position": 3,
+          "updated_at": "2025-12-29T16:06:02-05:00",
+          "product_id": 8125817520182,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/CD106D82-2ED1-47FE-832F-8D8C99AD1526.jpg?v=1767042362",
+          "width": 800,
+          "height": 600
+        },
+        {
+          "id": 38327215751222,
+          "created_at": "2025-12-29T16:05:46-05:00",
+          "position": 4,
+          "updated_at": "2025-12-29T16:05:48-05:00",
+          "product_id": 8125817520182,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/20674445-4B51-4D7B-8556-4F00EDA271E9.jpg?v=1767042348",
+          "width": 646,
+          "height": 646
+        },
+        {
+          "id": 38327215652918,
+          "created_at": "2025-12-29T16:05:46-05:00",
+          "position": 5,
+          "updated_at": "2025-12-29T16:05:48-05:00",
+          "product_id": 8125817520182,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/A27C76A3-2BD0-4D7C-9F01-EFC50210AC51.jpg?v=1767042348",
+          "width": 800,
+          "height": 600
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Stainless Steel"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7655874920502,
+      "title": "BRAND NEW SAMSUNG MICROWAVE (ME21DG6300SRAA) 2.1 cu. ft. Over-the-Range Microwave with Wi-Fi in Fingerprint Resistant Stainless Steel",
+      "handle": "microwave-me21dg6300sraa-2-1-cu-ft-over-the-range-microwave-with-wi-fi-in-fingerprint-resistant-stainless-steel",
+      "body_html": "<h1 style=\"text-align: center;\"><br></h1>\n<h1 style=\"text-align: center;\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0622/9449/1190/files/ORIGINAL.png?v=1725737689\" width=\"167\" height=\"167\"></h1>\n<h1 style=\"text-align: center;\"> Features</h1>\n<p style=\"text-align: center;\"><br> • Auto Connectivity<br> • LED Display<br> • SmartThings Cooking<br> • Glass Touch Controls<br> • Home Dessert<br> • Ceramic Enamel Interior</p>\n<p style=\"text-align: center;\"><strong> Wi-Fi Connectivity</strong></p>\n<p style=\"text-align: center;\"> </p>\n<h1 style=\"text-align: center;\"> Convenience</h1>\n<p style=\"text-align: center;\">• Voice-Enabled<br> •  Clock (12 hr/24 hr) with <br>Daylight Savings Time Adjustment<br> • Reminder End Signal<br> • LED Cooktop Lighting<br> • Halogen Interior Lighting<br> • Vent Fan Control: On/Off/Delay Off<br> • Sound On/Off<br> • Eco Mode</p>\n<h1 style=\"text-align: center;\"><br></h1>\n<h1 style=\"text-align: center;\">Functions</h1>\n<p style=\"text-align: center;\"><br> • Kitchen Timer<br> • +30 Seconds<br> • Sensor Cook<br> • Auto Cook<br> • Keep Warm<br> • Defrost</p>\n<h1 style=\"text-align: center;\"><br></h1>\n<h1 style=\"text-align: center;\">Specifications </h1>\n<p style=\"text-align: center;\"><br>• Capacity: 2.1 cu.ft.<br> • 400 CFM Ventilation<br> • Power Output: 1000W<br> • Power Consumption: 1700W</p>\n<h1 style=\"text-align: center;\"><br></h1>\n<h1 style=\"text-align: center;\">Product Dimensions (WxHxD)</h1>\n<p style=\"text-align: center;\"><br> Dimensions: 297/8\" x 171/16\" x 161/2\" <br>Weight: 58.0 lbs</p>\n<h1 style=\"text-align: center;\">\n<br> Shipping Dimensions &amp; Weight (WxHxD)</h1>\n<p style=\"text-align: center;\"><br> Dimensions: 3311/32\" x 2013/16\" x 193/8\" <br>Weight: 64.6 lbs</p>",
+      "published_at": "2025-12-29T15:58:05-05:00",
+      "created_at": "2024-09-07T15:38:16-04:00",
+      "updated_at": "2026-06-05T12:01:33-04:00",
+      "vendor": "SAMSUNG",
+      "product_type": "MICROWAVE",
+      "tags": [
+        "microwaves",
+        "samsung",
+        "SAMSUNG BRAND NEW"
+      ],
+      "variants": [
+        {
+          "id": 43033141870646,
+          "title": "Stainless Steel",
+          "option1": "Stainless Steel",
+          "option2": null,
+          "option3": null,
+          "sku": "MI-BR-SA-ST08",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 34620285124662,
+            "product_id": 7655874920502,
+            "position": 1,
+            "created_at": "2024-09-07T15:37:12-04:00",
+            "updated_at": "2024-09-07T15:37:13-04:00",
+            "alt": null,
+            "width": 800,
+            "height": 600,
+            "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/1.webp?v=1725737833",
+            "variant_ids": [
+              43033141870646
+            ]
+          },
+          "available": true,
+          "price": "274.99",
+          "grams": 29302,
+          "compare_at_price": "420.00",
+          "position": 1,
+          "product_id": 7655874920502,
+          "created_at": "2024-09-07T15:38:18-04:00",
+          "updated_at": "2026-06-05T12:01:33-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 34620285124662,
+          "created_at": "2024-09-07T15:37:12-04:00",
+          "position": 1,
+          "updated_at": "2024-09-07T15:37:13-04:00",
+          "product_id": 7655874920502,
+          "variant_ids": [
+            43033141870646
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/1.webp?v=1725737833",
+          "width": 800,
+          "height": 600
+        },
+        {
+          "id": 34620285157430,
+          "created_at": "2024-09-07T15:37:12-04:00",
+          "position": 2,
+          "updated_at": "2024-09-07T15:37:13-04:00",
+          "product_id": 7655874920502,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/2.webp?v=1725737833",
+          "width": 800,
+          "height": 600
+        },
+        {
+          "id": 34620285190198,
+          "created_at": "2024-09-07T15:37:12-04:00",
+          "position": 3,
+          "updated_at": "2024-09-07T15:37:13-04:00",
+          "product_id": 7655874920502,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/3.webp?v=1725737833",
+          "width": 800,
+          "height": 600
+        },
+        {
+          "id": 34620285222966,
+          "created_at": "2024-09-07T15:37:12-04:00",
+          "position": 4,
+          "updated_at": "2024-09-07T15:37:13-04:00",
+          "product_id": 7655874920502,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/4.webp?v=1725737833",
+          "width": 800,
+          "height": 600
+        },
+        {
+          "id": 34620285255734,
+          "created_at": "2024-09-07T15:37:12-04:00",
+          "position": 5,
+          "updated_at": "2024-09-07T15:37:13-04:00",
+          "product_id": 7655874920502,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/6.webp?v=1725737833",
+          "width": 800,
+          "height": 600
+        },
+        {
+          "id": 34620285288502,
+          "created_at": "2024-09-07T15:37:12-04:00",
+          "position": 6,
+          "updated_at": "2024-09-07T15:37:13-04:00",
+          "product_id": 7655874920502,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/7.webp?v=1725737833",
+          "width": 800,
+          "height": 600
+        },
+        {
+          "id": 34620285321270,
+          "created_at": "2024-09-07T15:37:12-04:00",
+          "position": 7,
+          "updated_at": "2024-09-07T15:37:13-04:00",
+          "product_id": 7655874920502,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/8.webp?v=1725737833",
+          "width": 800,
+          "height": 600
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Stainless Steel"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7665319084086,
+      "title": "BRAND NEW SAMSUNG MICROWAVE (ME21DG6700SRAA) Over-The-Range 2.1 Cu. Ft. Bespoke In Fingerprint Resistant Stainless Steel",
+      "handle": "microwave-me21dg6700sraa-samsung-over-the-range-2-1-cu-ft-bespoke-in-fingerprint-resistant-stainless-steel",
+      "body_html": "<div style=\"text-align: center;\"><img style=\"float: none;\" alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0622/9449/1190/files/BRAND_NEW_LOGO_240x240.png?v=1725737689\"></div>\n<div style=\"text-align: center;\"></div>\n<div style=\"text-align: center;\">\n<h1 class=\"product_section_title\">Features</h1>\n<p><strong>Auto Connectivity</strong><br>Auto Connectivity conveniently syncs your microwave and compatible range or cooktop by using the SmartThings App.* The hood fan and LED lighting will automatically turn on and off when you turn your cooktop on or off, saving you time and extra effort.*</p>\n<p><strong>Wi-Fi Connectivity</strong><br>Connect your microwave to Wi-Fi and the SmartThings app to remotely adjust ventilation speed, lighting, and cook time right from your smartphone, and receive alerts when heating or cooking is finished.*</p>\n<p><strong>Auto-Dimming Glass Touch Controls</strong><br>Auto-dimming glass touch controls illuminate with a simple touch when opening the door, and then dim when not in use for a clean and seamless look.</p>\n<p><strong>Bespoke Design</strong><br>Give your kitchen a modern boost with this stylish and contemporary Bespoke design. Enhance the look of your kitchen with an elegant accent color and edge to edge glass controls that seamlessly blend into your kitchen.</p>\n<p><strong>2.1 Cu. Ft. Oven Capacity</strong><br>The 2.1 cu. ft. capacity has plenty of room to hold larger serving sizes and prepare a variety of foods quickly and easily.</p>\n<p><strong>Sensor Cook</strong><br>Sensor Cook takes the guesswork out of your cooking by automatically adjusting cooking time for optimal results.</p>\n<p><strong>400 CFM Ventilation</strong><br>Extra power ventilation refreshes air quickly to remove steam and odors that result from cooking and ensures a comfortable and healthy cooking environment.</p>\n<p><strong>SmartThings Cooking</strong><br>Enjoy a smarter way to cook with the SmartThings App*. SmartThings Cooking provides recipe recommendations and a guided cooking experience to make meal time easy.</p>\n<p><strong>SmartThings Energy</strong><br>SmartThings lets you monitor and manage your power usage. Get energy saving tips and alerts to help lower your electric bill.*</p>\n<p><strong>Voice Control</strong><br>Control your microwave using voice control.* With Samsung Bixby,** Amazon Alexa or Google Assistant, you can turn your microwave’s ventilation and lighting on and off with a simple command.</p>\n<p><strong>Fingerprint Resistant</strong><br>Fingerprint resistant* for an everyday, beautiful finish.</p>\n<p>Bespoke White Glass finish is not fingerprint resistant.</p>\n<p><strong>Ceramic Enamel Interior</strong><br>The beautiful ceramic blue enamel interior is scratch resistant and easy to clean. This durable ceramic enamel interior provides a polished surface that’s easy to maintain. Effortlessly remove grease or oil from surfaces and protect against scratches that occur from daily use.</p>\n<p><strong>Eco Mode</strong><br>The Eco Mode button conserves power by turning off the display when not in use, so there's no need to unplug with this energy saving microwave.</p>\n<p><strong>Home Dessert</strong><br>The home dessert preset menu includes a wide selection of cooking options, so you can have easy sweets right at your fingertips.</p>\n<p> </p>\n<h2>Dimensions</h2>\n<p><br><strong>Cavity Dimensions (WxHxD)</strong><br>Dimensions: 22 1/8\" x 10 13/16\" x 14 7/8\"</p>\n<p><br><strong>Product Dimensions (WxHxD)</strong><br>Dimensions: 29 7/8\" x 17 1/16\" x 16 1/2\"<br><strong>Weight</strong>: 60.6 lbs</p>\n<p><br><strong>Shipping Dimensions &amp; Weight (WxHxD)</strong><br>Dimensions: 33 11/32\" x 20 13/16\" x 19 3/8\"<br><strong>Weight</strong>: 67.2 lbs</p>\n<p> </p>\n<p><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0622/9449/1190/files/samsung.png?v=1725837006\"></p>\n</div>",
+      "published_at": "2025-12-29T16:22:51-05:00",
+      "created_at": "2024-09-18T03:39:18-04:00",
+      "updated_at": "2026-06-05T12:01:33-04:00",
+      "vendor": "SAMSUNG",
+      "product_type": "MICROWAVE",
+      "tags": [
+        "microwaves",
+        "samsung",
+        "SAMSUNG BRAND NEW"
+      ],
+      "variants": [
+        {
+          "id": 43060006191158,
+          "title": "Stainless Steel",
+          "option1": "Stainless Steel",
+          "option2": null,
+          "option3": null,
+          "sku": "MI-BR-SA-ST77",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 34679091396662,
+            "product_id": 7665319084086,
+            "position": 8,
+            "created_at": "2024-09-18T03:31:27-04:00",
+            "updated_at": "2024-09-18T03:31:28-04:00",
+            "alt": null,
+            "width": 800,
+            "height": 600,
+            "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/STAINLEES_STEEL_8633fb4e-36aa-48a3-93ec-30772e89d2a9.jpg?v=1726644688",
+            "variant_ids": [
+              43060006191158
+            ]
+          },
+          "available": true,
+          "price": "380.00",
+          "grams": 30481,
+          "compare_at_price": "429.99",
+          "position": 1,
+          "product_id": 7665319084086,
+          "created_at": "2024-09-18T03:39:20-04:00",
+          "updated_at": "2026-06-05T12:01:33-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 34679091134518,
+          "created_at": "2024-09-18T03:29:40-04:00",
+          "position": 1,
+          "updated_at": "2024-09-18T03:29:42-04:00",
+          "product_id": 7665319084086,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/1_787e8285-10df-4f37-9d73-6bbaa008e684.jpg?v=1726644582",
+          "width": 550,
+          "height": 305
+        },
+        {
+          "id": 34679091167286,
+          "created_at": "2024-09-18T03:29:41-04:00",
+          "position": 2,
+          "updated_at": "2024-09-18T03:29:42-04:00",
+          "product_id": 7665319084086,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/3_01f5508f-7384-40a9-8bad-eb0ba5d3dc57.jpg?v=1726644582",
+          "width": 550,
+          "height": 550
+        },
+        {
+          "id": 34679091200054,
+          "created_at": "2024-09-18T03:29:41-04:00",
+          "position": 3,
+          "updated_at": "2024-09-18T03:29:42-04:00",
+          "product_id": 7665319084086,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/4_ff71a14e-62d8-42ec-9df9-ee2c254bc30b.jpg?v=1726644582",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 34679091232822,
+          "created_at": "2024-09-18T03:29:41-04:00",
+          "position": 4,
+          "updated_at": "2024-09-18T03:29:42-04:00",
+          "product_id": 7665319084086,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/5_00d6be54-9b46-4e88-80d2-9630248fb154.jpg?v=1726644582",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 34679091265590,
+          "created_at": "2024-09-18T03:29:41-04:00",
+          "position": 5,
+          "updated_at": "2024-09-18T03:29:42-04:00",
+          "product_id": 7665319084086,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/6_73f84cb0-fdf9-48b5-9176-b3bf4dfd7a80.jpg?v=1726644582",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 34679091298358,
+          "created_at": "2024-09-18T03:29:41-04:00",
+          "position": 6,
+          "updated_at": "2024-09-18T03:29:42-04:00",
+          "product_id": 7665319084086,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/7_aa916f3a-6f34-434b-a21a-2935d7202714.jpg?v=1726644582",
+          "width": 1225,
+          "height": 817
+        },
+        {
+          "id": 34679091331126,
+          "created_at": "2024-09-18T03:29:41-04:00",
+          "position": 7,
+          "updated_at": "2024-09-18T03:29:42-04:00",
+          "product_id": 7665319084086,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/8_3b5b0d4a-f906-47d8-978d-2b46ac6d8a9f.jpg?v=1726644582",
+          "width": 1280,
+          "height": 782
+        },
+        {
+          "id": 34679091396662,
+          "created_at": "2024-09-18T03:31:27-04:00",
+          "position": 8,
+          "updated_at": "2024-09-18T03:31:28-04:00",
+          "product_id": 7665319084086,
+          "variant_ids": [
+            43060006191158
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/STAINLEES_STEEL_8633fb4e-36aa-48a3-93ec-30772e89d2a9.jpg?v=1726644688",
+          "width": 800,
+          "height": 600
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Stainless Steel"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7655875706934,
+      "title": "BRAND NEW SAMSUNG MICROWAVE (NQ70M7770DS)  30\" Microwave Combination Wall Oven",
+      "handle": "microwave-nq70m7770ds-30-microwave-combination-wall-oven",
+      "body_html": "<p> <img style=\"display: block; margin-left: auto; margin-right: auto;\" alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0622/9449/1190/files/ORIGINAL.png?v=1725737689\" width=\"174\" height=\"174\" data-mce-style=\"display: block; margin-left: auto; margin-right: auto;\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0622/9449/1190/files/ORIGINAL.png?v=1725737689\"></p>\n<p> </p>\n<h1 style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><strong> Signature Features</strong></h1>\n<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br><strong> Steam Cook (Oven)</strong><br> •  Delivers moisture at precise times for a crisp, browned outside  <br>and tender inside.</p>\n<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br> <strong>Speed Cook (Microwave)</strong><br> •  Cook food faster and more evenly by using power convection. </p>\n<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br><strong>Flex Duo™ (Oven)</strong><br> •  Cook two dishes at different temperatures simultaneously <br>with the Smart Divider.</p>\n<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"> </p>\n<h1 style=\"text-align: center;\" data-mce-style=\"text-align: center;\"> Features<br>\n</h1>\n<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Digital-Analog Controls<br> •  1.9/5.1 cu. ft. Capacity<br> •  Hybrid Clean and Self-Clean (Oven)<br> •  Gourmet Cook (Oven)<br> •   Dual Convection (Oven)<br> •   Wi-Fi Connectivity<br> •  Wi-Fi Enabled Temperature Probe (Oven)<br> •  LED Spotlights (Oven)<br> •  Easy View Window<br> •   3 Heavy-Duty Racks including  <br>a Gliding Rack (Oven)</p>\n<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">•  Ceramic Plate (Microwave)<br> •  Rapid Preheat (Oven)<br> •  Auto Latch Microwave Door<br> •   6 Oven Modes including  <br>Steam Bake and Steam Roast<br> •  Blue LED Illuminated Knobs<br> •  Broil Element<br> •   Smart Control Key (Oven)<br> •  6 Rack Positions (Oven)<br> •  Drop-Down Door Design<br> •  LCD Display</p>\n<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"> </p>\n<h1 style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Convenience</h1>\n<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">•  Hidden Heating Element (Oven)<br> •  Sabbath Mode (Oven)<br> •  Delay Start (Oven)<br> •  Proofing (Oven)<br> •  Warming Mode (Oven)<br> •  Kitchen Timer<br> •  Child Safety Lock<br> •  Convection Conversion</p>\n<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"> </p>\n<h1 style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><strong> Total Capacity: </strong></h1>\n<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">1.9/5.1 cu. ft.<br> • Microwave: 1.9 cu. ft.<br> • Wall Oven: 5.1 cu. ft. total, 2.8/2.2 cu. ft.<br> • Hidden Bake Element<br> • Bake: 175°F–550°F<br> • Convection Bake: 175°F–550°F<br> • Convection Roast: 175°F–550°F<br> • Broil: Low-High<br> • Steam Bake: 230°F–550°F<br> • Steam Roast: 230°F–550°F<br> • Proofing<br> • Sabbath Mode</p>\n<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"> </p>\n<h2 style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Product Dimensions &amp; Weight (WxHxD)</h2>\n<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br> Outside (Max) Combination Oven Dimensions: <br>297/8\" x 431/4\" x 2511/16\"  </p>\n<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br>Combination Oven Cut-Out Dimensions: <br>281/2\" x 421/4\" x 231/2\" <br>Weight: 262.4 lbs.</p>\n<h2 style=\"text-align: center;\" data-mce-style=\"text-align: center;\">\n<br> Shipping Dimensions &amp; Weight (WxHxD)</h2>\n<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br> Dimensions: <br>335/8\" x 483/16\" x 2951/64\" <br>Weight: 291.1 lbs.</p>\n<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"> </p>",
+      "published_at": "2025-12-29T12:13:04-05:00",
+      "created_at": "2024-09-07T16:01:43-04:00",
+      "updated_at": "2026-06-05T12:01:33-04:00",
+      "vendor": "SAMSUNG",
+      "product_type": "MICROWAVE",
+      "tags": [
+        "microwaves",
+        "samsung",
+        "SAMSUNG BRAND NEW"
+      ],
+      "variants": [
+        {
+          "id": 43033154224182,
+          "title": "Stainless Steel",
+          "option1": "Stainless Steel",
+          "option2": null,
+          "option3": null,
+          "sku": "MI-BR-SA-ST86",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 34620302426166,
+            "product_id": 7655875706934,
+            "position": 1,
+            "created_at": "2024-09-07T15:59:32-04:00",
+            "updated_at": "2024-09-07T15:59:33-04:00",
+            "alt": null,
+            "width": 800,
+            "height": 600,
+            "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/1_6fc53214-77f2-42ad-978c-41684c859d16.webp?v=1725739173",
+            "variant_ids": [
+              43033154224182
+            ]
+          },
+          "available": true,
+          "price": "1799.99",
+          "grams": 132041,
+          "compare_at_price": "2899.99",
+          "position": 1,
+          "product_id": 7655875706934,
+          "created_at": "2024-09-07T16:01:44-04:00",
+          "updated_at": "2026-06-05T12:01:33-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 34620302426166,
+          "created_at": "2024-09-07T15:59:32-04:00",
+          "position": 1,
+          "updated_at": "2024-09-07T15:59:33-04:00",
+          "product_id": 7655875706934,
+          "variant_ids": [
+            43033154224182
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/1_6fc53214-77f2-42ad-978c-41684c859d16.webp?v=1725739173",
+          "width": 800,
+          "height": 600
+        },
+        {
+          "id": 34620302458934,
+          "created_at": "2024-09-07T15:59:32-04:00",
+          "position": 2,
+          "updated_at": "2024-09-07T15:59:33-04:00",
+          "product_id": 7655875706934,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/2_27e04814-b4b7-4ea1-9298-4a69e453e4cc.webp?v=1725739173",
+          "width": 800,
+          "height": 600
+        },
+        {
+          "id": 34620302491702,
+          "created_at": "2024-09-07T15:59:32-04:00",
+          "position": 3,
+          "updated_at": "2024-09-07T15:59:33-04:00",
+          "product_id": 7655875706934,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/3_6596ba50-190f-4279-8963-cb3297a8c3ae.webp?v=1725739173",
+          "width": 800,
+          "height": 600
+        },
+        {
+          "id": 34620302524470,
+          "created_at": "2024-09-07T15:59:32-04:00",
+          "position": 4,
+          "updated_at": "2024-09-07T15:59:33-04:00",
+          "product_id": 7655875706934,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/4_9de66afc-e128-47a7-b0d3-1d5fd1a3a2dd.webp?v=1725739173",
+          "width": 800,
+          "height": 600
+        },
+        {
+          "id": 34620302557238,
+          "created_at": "2024-09-07T15:59:32-04:00",
+          "position": 5,
+          "updated_at": "2024-09-07T15:59:33-04:00",
+          "product_id": 7655875706934,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/5.webp?v=1725739173",
+          "width": 800,
+          "height": 600
+        },
+        {
+          "id": 34620302590006,
+          "created_at": "2024-09-07T15:59:32-04:00",
+          "position": 6,
+          "updated_at": "2024-09-07T15:59:33-04:00",
+          "product_id": 7655875706934,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/6_f7efbda1-9007-4bee-9a13-570356d25ca7.webp?v=1725739173",
+          "width": 800,
+          "height": 600
+        },
+        {
+          "id": 34620302622774,
+          "created_at": "2024-09-07T15:59:32-04:00",
+          "position": 7,
+          "updated_at": "2024-09-07T15:59:33-04:00",
+          "product_id": 7655875706934,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/7_331cecd6-1aa0-4e74-b2a6-83fb68992d73.webp?v=1725739173",
+          "width": 800,
+          "height": 600
+        },
+        {
+          "id": 34620302655542,
+          "created_at": "2024-09-07T15:59:32-04:00",
+          "position": 8,
+          "updated_at": "2024-09-07T15:59:33-04:00",
+          "product_id": 7655875706934,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/8_a38a5ee4-7fae-4ada-9326-b0f40a228606.webp?v=1725739173",
+          "width": 800,
+          "height": 600
+        },
+        {
+          "id": 34620302753846,
+          "created_at": "2024-09-07T15:58:46-04:00",
+          "position": 9,
+          "updated_at": "2024-09-07T15:58:47-04:00",
+          "product_id": 7655875706934,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/STAINLEES_STEEL.jpg?v=1725739127",
+          "width": 800,
+          "height": 600
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Stainless Steel"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+import { ProductGridSkeleton } from '@/components/shared/product-grid-skeleton';
+
+export default function CollectionLoading() {
+    return (
+        <div className="eh-wrap py-8 md:py-12">
+            <div className="grid grid-cols-1 lg:grid-cols-4 gap-8">
+                {/* Filters Sidebar Skeleton */}
+                <aside className="lg:col-span-1">
+                    <div className="h-64 animate-pulse bg-muted rounded-lg" />
+                </aside>
+
+                {/* Product Grid Skeleton */}
+                <div className="lg:col-span-3">
+                    <ProductGridSkeleton />
+                </div>
+            </div>
+        </div>
+    );
+}

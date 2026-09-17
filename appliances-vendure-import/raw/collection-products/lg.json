@@ -1,0 +1,227 @@
+{
+  "collection": {
+    "id": 287122489398,
+    "title": "LG",
+    "handle": "lg",
+    "description": "",
+    "published_at": "2024-09-13T14:01:48-04:00",
+    "updated_at": "2026-06-03T21:26:43-04:00",
+    "image": {
+      "id": 1611592204342,
+      "created_at": "2024-09-17T16:31:57-04:00",
+      "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/collections/LG.png?v=1726605118",
+      "alt": null
+    },
+    "products_count": 7
+  },
+  "products": [
+    {
+      "id": 8125578641462,
+      "title": "BRAND NEW (LWC3063ST) 1.7/4.7 cu. ft. Smart Wi-Fi Enabled Combination Double Wall Oven",
+      "handle": "brand-new-lwc3063st-1-7-4-7-cu-ft-smart-wi-fi-enabled-combination-double-wall-oven",
+      "body_html": "<p><strong>30 Smart Inch Combination Wall Oven with Smartthinq® Technology</strong></p>\n<p> </p>\n<p><br><span>LG presents the 30\" Combination wall oven, marrying the speed and convenience of a microwave speed oven with the precision and versatility of a convection oven. The units offer over 2 dozen cooking options between them, and is ready to tackle any task. Control all tasks with a the sleek and easy to use SmoothTouch™ glass panel controls. The WideView™ Window provides a complete view of whatever you have in the oven, and paired with halogen interior lighting makes it easy to keep an eye on your dish(es).</span></p>",
+      "published_at": "2025-12-29T12:30:38-05:00",
+      "created_at": "2025-12-29T12:15:16-05:00",
+      "updated_at": "2026-06-05T11:57:03-04:00",
+      "vendor": "LG",
+      "product_type": "OVEN",
+      "tags": [
+        "lg",
+        "LG BRAND NEW",
+        "Oven",
+        "Wall oven"
+      ],
+      "variants": [
+        {
+          "id": 44640831340598,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "1699.99",
+          "grams": 0,
+          "compare_at_price": "2899.99",
+          "position": 1,
+          "product_id": 8125578641462,
+          "created_at": "2025-12-29T12:15:16-05:00",
+          "updated_at": "2026-06-05T11:57:03-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38326331801654,
+          "created_at": "2025-12-29T12:29:56-05:00",
+          "position": 1,
+          "updated_at": "2025-12-29T12:30:42-05:00",
+          "product_id": 8125578641462,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/7509F881-E036-43CE-AC90-C9BFF7E98EDA.jpg?v=1767029442",
+          "width": 549,
+          "height": 364
+        },
+        {
+          "id": 38326331768886,
+          "created_at": "2025-12-29T12:29:56-05:00",
+          "position": 2,
+          "updated_at": "2025-12-29T12:30:42-05:00",
+          "product_id": 8125578641462,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/072A1BA8-0C42-404A-995D-ADC5563C9515.jpg?v=1767029442",
+          "width": 350,
+          "height": 350
+        },
+        {
+          "id": 38326331736118,
+          "created_at": "2025-12-29T12:29:56-05:00",
+          "position": 3,
+          "updated_at": "2025-12-29T12:30:42-05:00",
+          "product_id": 8125578641462,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/EEF552C9-645D-4A6C-9815-C454C8D211A8.jpg?v=1767029442",
+          "width": 933,
+          "height": 1146
+        },
+        {
+          "id": 38326331834422,
+          "created_at": "2025-12-29T12:29:56-05:00",
+          "position": 4,
+          "updated_at": "2025-12-29T12:30:42-05:00",
+          "product_id": 8125578641462,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/32ADB6F5-0831-40CF-8A44-C6722F162E20.jpg?v=1767029442",
+          "width": 1100,
+          "height": 730
+        },
+        {
+          "id": 38326331670582,
+          "created_at": "2025-12-29T12:29:56-05:00",
+          "position": 5,
+          "updated_at": "2025-12-29T12:30:42-05:00",
+          "product_id": 8125578641462,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/BC73EEBF-CDA5-4DD7-926C-55B1D88A02BA.jpg?v=1767029442",
+          "width": 1290,
+          "height": 1634
+        },
+        {
+          "id": 38326331703350,
+          "created_at": "2025-12-29T12:29:56-05:00",
+          "position": 6,
+          "updated_at": "2025-12-29T12:29:57-05:00",
+          "product_id": 8125578641462,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/0D17D28F-DFCE-447D-9166-2B14611D7081.jpg?v=1767029397",
+          "width": 1290,
+          "height": 1628
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8138548084790,
+      "title": "BRAND NEW LG  (LDFC2423V)\n24 Inch Full Console Dishwasher with 15 Place Settings, 52 dBA, 5 Wash Cycles, Nylon Coated Racks, Dynamic Dry™, and ENERGY STAR® Qualified: Stainless Steel Look",
+      "handle": "brand-new-lg-ldfc2423v-24-inch-full-console-dishwasher-with-15-place-settings-52-dba-5-wash-cycles-nylon-coated-racks-dynamic-dry™-and-energy-star®-qualified-stainless-steel-look",
+      "body_html": "<h2 class=\"border-bottom mt2\">Description</h2>\n<div class=\"mb2\"><strong>24 Inch Full Console Dishwasher with 15 Place Setting Capacity</strong></div>\n<div class=\"mb2\">\n<br>Make cleanup easy with this spacious dishwasher. Fit all the plates, bowls, and stemware in with space for up to 15 place settings of dishes. Enjoy powerful cleaning and leave nothing behind with SenseClean™ Wash System, Dynamic Dry, 5-wash cycles, 6-options, and 3-spray arms. It also includes LG's EasyRack™ Plus system allowing you to change the racks around easily to fit any load. Finally, there's a dishwasher that gets the job done.</div>",
+      "published_at": "2026-01-08T12:42:52-05:00",
+      "created_at": "2026-01-08T12:40:13-05:00",
+      "updated_at": "2026-06-05T11:57:03-04:00",
+      "vendor": "LG",
+      "product_type": "DISHWASHER",
+      "tags": [
+        "Brand new",
+        "Dishwasher",
+        "lg",
+        "LG BRAND NEW"
+      ],
+      "variants": [
+        {
+          "id": 44673036779574,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "479.99",
+          "grams": 0,
+          "compare_at_price": "649.99",
+          "position": 1,
+          "product_id": 8138548084790,
+          "created_at": "2026-01-08T12:40:14-05:00",
+          "updated_at": "2026-06-05T11:57:03-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38404883087414,
+          "created_at": "2026-01-08T12:42:04-05:00",
+          "position": 1,
+          "updated_at": "2026-01-08T12:42:06-05:00",
+          "product_id": 8138548084790,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/DBF2A0F7-178D-4326-9613-9C3E1704F89B.jpg?v=1767894126",
+          "width": 447,
+          "height": 447
+        },
+        {
+          "id": 38404883054646,
+          "created_at": "2026-01-08T12:42:04-05:00",
+          "position": 2,
+          "updated_at": "2026-01-08T12:42:06-05:00",
+          "product_id": 8138548084790,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/457F20D2-78E2-476F-B525-57B376EAA318.jpg?v=1767894126",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 38404883021878,
+          "created_at": "2026-01-08T12:42:04-05:00",
+          "position": 3,
+          "updated_at": "2026-01-08T12:42:06-05:00",
+          "product_id": 8138548084790,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/B390BA6C-71D5-41C5-9832-378B26AAD57B.jpg?v=1767894126",
+          "width": 600,
+          "height": 600
+        },
+        {
+          "id": 38404882989110,
+          "created_at": "2026-01-08T12:42:04-05:00",
+          "position": 4,
+          "updated_at": "2026-01-08T12:42:06-05:00",
+          "product_id": 8138548084790,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/48B91E35-6A73-498F-8F36-C68AA4B85D7E.jpg?v=1767894126",
+          "width": 728,
+          "height": 1500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "baseUrl": "https://www.theappliancesoutlet.com",
+  "generatedAt": "2026-06-05T16:01:41.043Z",
+  "totalProducts": 44,
+  "totalCollections": 22,
+  "totalCsvRows": 44,
+  "productsWithCollections": 43,
+  "outputFiles": [
+    "vendure-products.csv",
+    "vendure-initial-data.ts",
+    "raw/all-products.json",
+    "raw/collections.json",
+    "raw/product-collection-map.json",
+    "raw/import-summary.json"
+  ]
+}

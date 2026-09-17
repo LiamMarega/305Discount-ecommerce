@@ -1,0 +1,23 @@
+{
+  "name": "easy-home-appliance",
+  "version": "0.1.0",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ],
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "dev:server": "npm run dev -w server",
+    "dev:storefront": "npm run dev -w storefront",
+    "build": "npm run build:server && npm run build:storefront",
+    "build:server": "npm run build -w server",
+    "build:storefront": "npm run build -w storefront",
+    "start": "npm run start:server",
+    "start:server": "npm run start -w server",
+    "start:storefront": "npm run start -w storefront",
+    "start:all": "concurrently -n server,storefront -c blue,magenta \"npm run start:server\" \"npm run start:storefront\""
+  },
+  "devDependencies": {
+    "concurrently": "^9.0.0"
+  }
+}

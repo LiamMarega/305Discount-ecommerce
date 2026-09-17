@@ -1,0 +1,476 @@
+{
+  "collection": {
+    "id": 287245238326,
+    "title": "WHIRLPOOL",
+    "handle": "whirlpool",
+    "description": "",
+    "published_at": "2024-09-17T07:57:48-04:00",
+    "updated_at": "2026-06-03T21:28:13-04:00",
+    "image": {
+      "id": 1611592826934,
+      "created_at": "2024-09-17T16:35:38-04:00",
+      "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/collections/Whirlpool.jpg?v=1726605339",
+      "alt": null
+    },
+    "products_count": 12
+  },
+  "products": [
+    {
+      "id": 8138550280246,
+      "title": "BRAND NEW Whirlpool (WSR57R18DM)\n30 Inch All-Refrigerator with In-Door Pizza Pocket, 18.0 cu. ft. Capacity",
+      "handle": "brand-new-whirlpool-wsr57r18dm-30-inch-all-refrigerator-with-in-door-pizza-pocket-18-0-cu-ft-capacity",
+      "body_html": "<h2 class=\"border-bottom mt2\">Description</h2>\n<div class=\"mb2\">\n<strong>18.0 cu. ft. All Refrigerator</strong><br>Enjoy even more space for your fresh food with this large all refrigerator from Whirlpool. With 5 full-width glass shelves you enough room for anything you might need, and with 4 humidity-controlled drawers you can keep fresh fruits and vegetables fresher, longer.</div>",
+      "published_at": "2026-01-08T13:12:26-05:00",
+      "created_at": "2026-01-08T12:44:27-05:00",
+      "updated_at": "2026-06-05T12:01:40-04:00",
+      "vendor": "WHIRLPOOL",
+      "product_type": "FRIDGE",
+      "tags": [
+        "Brand new",
+        "Whirlpool"
+      ],
+      "variants": [
+        {
+          "id": 44673049165878,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "1149.99",
+          "grams": 0,
+          "compare_at_price": "1799.99",
+          "position": 1,
+          "product_id": 8138550280246,
+          "created_at": "2026-01-08T12:44:28-05:00",
+          "updated_at": "2026-06-05T12:01:40-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38404984897590,
+          "created_at": "2026-01-08T13:11:41-05:00",
+          "position": 1,
+          "updated_at": "2026-01-08T13:11:43-05:00",
+          "product_id": 8138550280246,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/0285E1D4-ED90-41E1-831E-D4C97BCA6B28.webp?v=1767895903",
+          "width": 500,
+          "height": 500
+        },
+        {
+          "id": 38404984864822,
+          "created_at": "2026-01-08T13:11:41-05:00",
+          "position": 2,
+          "updated_at": "2026-01-08T13:11:43-05:00",
+          "product_id": 8138550280246,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/042B3375-CEAB-41A0-A5B2-30C2DDE150AF.jpg?v=1767895903",
+          "width": 750,
+          "height": 550
+        },
+        {
+          "id": 38404984832054,
+          "created_at": "2026-01-08T13:11:41-05:00",
+          "position": 3,
+          "updated_at": "2026-01-08T13:11:43-05:00",
+          "product_id": 8138550280246,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/2C009488-3673-4EC5-8C17-DAC866C11A27.webp?v=1767895903",
+          "width": 1920,
+          "height": 2246
+        },
+        {
+          "id": 38404984799286,
+          "created_at": "2026-01-08T13:11:41-05:00",
+          "position": 4,
+          "updated_at": "2026-01-08T13:11:43-05:00",
+          "product_id": 8138550280246,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/362836DE-2834-4469-807F-BD823188CF61.jpg?v=1767895903",
+          "width": 1280,
+          "height": 913
+        },
+        {
+          "id": 38404984766518,
+          "created_at": "2026-01-08T13:11:41-05:00",
+          "position": 5,
+          "updated_at": "2026-01-08T13:11:43-05:00",
+          "product_id": 8138550280246,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/81710401-4DA2-47A5-BF17-FC8835FE266E.jpg?v=1767895903",
+          "width": 447,
+          "height": 447
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8362239426614,
+      "title": "Brand New (Whirlpool) Gas Stove (WFG525S0JB)",
+      "handle": "brand-new-whirlpool-gas-stove-wfg525s0jb",
+      "body_html": "<p><strong>30 Inch Freestanding Gas Range with Frozen Bake™ Technology</strong><br><span>Skip preheating and cook frozen favorites like pizza and lasagna faster with Frozen Bake™ - pre-programmed settings that automatically adjust cooking times for you. The SpeedHeat™ burner generates 15,000 BTUs, the high heat needed to sear and boil quickly. This unit also comes equipped with an 8,000 BTU center oval burner that can easily fit large griddles and other longer cookware so they heat evenly on the range top. With the upswept SpillGuard™ cooktop, spills are contained by its raised edges and cleanup is a breeze. If you want to get dinner to the table faster with an easy cleanup, then this unit is for you.</span></p>",
+      "published_at": "2026-03-26T15:19:45-04:00",
+      "created_at": "2026-03-26T15:12:19-04:00",
+      "updated_at": "2026-06-05T12:01:40-04:00",
+      "vendor": "WHIRLPOOL",
+      "product_type": "STOVE",
+      "tags": [
+        "Brand new",
+        "stove",
+        "Whirlpool"
+      ],
+      "variants": [
+        {
+          "id": 45165669875766,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "499.99",
+          "grams": 0,
+          "compare_at_price": "899.99",
+          "position": 1,
+          "product_id": 8362239426614,
+          "created_at": "2026-03-26T15:12:19-04:00",
+          "updated_at": "2026-06-05T12:01:40-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 39111088799798,
+          "created_at": "2026-03-26T15:16:51-04:00",
+          "position": 1,
+          "updated_at": "2026-03-26T15:16:53-04:00",
+          "product_id": 8362239426614,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/FEB31714-74E0-4D71-8D25-52E4433D8D24.jpg?v=1774552613",
+          "width": 1290,
+          "height": 1107
+        },
+        {
+          "id": 39111088767030,
+          "created_at": "2026-03-26T15:16:51-04:00",
+          "position": 2,
+          "updated_at": "2026-03-26T15:16:53-04:00",
+          "product_id": 8362239426614,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/B2B976F8-B8A9-4A4B-877B-28069CAD39BB.jpg?v=1774552613",
+          "width": 1290,
+          "height": 1106
+        },
+        {
+          "id": 39111088734262,
+          "created_at": "2026-03-26T15:16:51-04:00",
+          "position": 3,
+          "updated_at": "2026-03-26T15:16:53-04:00",
+          "product_id": 8362239426614,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/84BF3FE4-B3E6-4DF3-BCE1-ACDCC6C4D59D.jpg?v=1774552613",
+          "width": 1290,
+          "height": 1124
+        },
+        {
+          "id": 39111088701494,
+          "created_at": "2026-03-26T15:16:51-04:00",
+          "position": 4,
+          "updated_at": "2026-03-26T15:16:53-04:00",
+          "product_id": 8362239426614,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/89921FE0-79D1-48A2-811D-9F66F9D34A30.jpg?v=1774552613",
+          "width": 646,
+          "height": 646
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8362055139382,
+      "title": "Brand New (Whirlpool) Electric Stove (WFE515S0JB)",
+      "handle": "sin-nombre-26mar_14-23",
+      "body_html": "<p><strong>30 Inch Freestanding Electric Range with FlexHeat™ Dual Radiant Element</strong></p>\n<p><br><span>With the FlexHeat™ dual radiant element you get two elements in one with a 6\" inner ring that's great for smaller pots and pans and a 9\" expandable outer ring that makes room for larger cookware. Frozen Bake™ technology allows you to skip preheating and cook frozen favorites like pizza and lasagna faster with preprogrammed settings that automatically adjust cooking times for you. Adjustable self-cleaning helps you clean without harsh chemicals or special cleaners by running this high-temperature setting that automatically cleans the oven according to a preprogrammed cycle.</span><br><br><span>The upswept SpillGuard™ cooktop makes clean up easier with a cooktop that has raised edges to help contain spills. Keep dishes ready to serve while you work on the rest of the meal by using the Keep Warm setting. This setting delivers low heat to the oven to keep prepared dishes from getting cold. Get evenly-baked food with a temperature sensor that monitors oven temperature and adjusts the cooking elements. Closed door broiling maintains the optimal cooking temperature for food while still keeping the kitchen comfortable and cool using this broiling temperature management system that helps prevent overheating.</span></p>",
+      "published_at": "2026-03-26T15:20:27-04:00",
+      "created_at": "2026-03-26T14:23:55-04:00",
+      "updated_at": "2026-06-05T12:01:40-04:00",
+      "vendor": "WHIRLPOOL",
+      "product_type": "STOVE",
+      "tags": [
+        "Brand new",
+        "stove",
+        "Whirlpool"
+      ],
+      "variants": [
+        {
+          "id": 45165426901046,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "499.99",
+          "grams": 0,
+          "compare_at_price": "899.99",
+          "position": 1,
+          "product_id": 8362055139382,
+          "created_at": "2026-03-26T14:23:55-04:00",
+          "updated_at": "2026-06-05T12:01:40-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 39111045808182,
+          "created_at": "2026-03-26T15:06:59-04:00",
+          "position": 1,
+          "updated_at": "2026-03-26T15:07:01-04:00",
+          "product_id": 8362055139382,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/A28C4982-4F1D-4BD9-A3C7-F1333B293C75.jpg?v=1774552021",
+          "width": 646,
+          "height": 1064
+        },
+        {
+          "id": 39111057342518,
+          "created_at": "2026-03-26T15:10:15-04:00",
+          "position": 2,
+          "updated_at": "2026-03-26T15:10:16-04:00",
+          "product_id": 8362055139382,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/0F3EC361-4C45-42F7-9A96-2FAC3826962C.jpg?v=1774552216",
+          "width": 1290,
+          "height": 1481
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8138566434870,
+      "title": "BRAND NEW Whirlpool SET  (WSR57R18DM y WSZ57L18DM) 30 Inch Freestanding Upright Freezer with 18.0 cu. ft. Capacity each. Stainless Steel",
+      "handle": "brand-new-whirlpool-set-wsr57r18dm-y-wsz57l18dm-30-inch-freestanding-upright-freezer-with-18-0-cu-ft-capacity-each-stainless-steel",
+      "body_html": "<h2 class=\"border-bottom mt2\">Description</h2>\n<div class=\"mb2\"><strong>30 Inch Freestanding Upright Freezer with 18.0 cu. ft. Capacity</strong></div>\n<div class=\"mb2\">\n<br>Enjoy the convenience and simplicity of an all-freezer from Whirlpool. Activate fast freeze to rapidly drop the freezer's temperature to its lowest setting helping lock in freshness and flavor. With frost-free defrost you'll never have to empty your freezer for a manual defrost again, saving you time.</div>",
+      "published_at": "2026-01-08T13:18:31-05:00",
+      "created_at": "2026-01-08T13:18:31-05:00",
+      "updated_at": "2026-06-05T12:01:40-04:00",
+      "vendor": "WHIRLPOOL",
+      "product_type": "FRIDGE",
+      "tags": [
+        "Brand new",
+        "Whirlpool"
+      ],
+      "variants": [
+        {
+          "id": 44673110671414,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "2300.00",
+          "grams": 0,
+          "compare_at_price": "3650.00",
+          "position": 1,
+          "product_id": 8138566434870,
+          "created_at": "2026-01-08T13:18:31-05:00",
+          "updated_at": "2026-06-05T12:01:40-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38404984832054,
+          "created_at": "2026-01-08T13:11:41-05:00",
+          "position": 1,
+          "updated_at": "2026-01-08T13:11:43-05:00",
+          "product_id": 8138566434870,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/2C009488-3673-4EC5-8C17-DAC866C11A27.webp?v=1767895903",
+          "width": 1920,
+          "height": 2246
+        },
+        {
+          "id": 38404984799286,
+          "created_at": "2026-01-08T13:11:41-05:00",
+          "position": 2,
+          "updated_at": "2026-01-08T13:11:43-05:00",
+          "product_id": 8138566434870,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/362836DE-2834-4469-807F-BD823188CF61.jpg?v=1767895903",
+          "width": 1280,
+          "height": 913
+        },
+        {
+          "id": 38404984766518,
+          "created_at": "2026-01-08T13:11:41-05:00",
+          "position": 3,
+          "updated_at": "2026-01-08T13:11:43-05:00",
+          "product_id": 8138566434870,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/81710401-4DA2-47A5-BF17-FC8835FE266E.jpg?v=1767895903",
+          "width": 447,
+          "height": 447
+        },
+        {
+          "id": 38404997480502,
+          "created_at": "2026-01-08T13:16:17-05:00",
+          "position": 4,
+          "updated_at": "2026-01-08T13:16:18-05:00",
+          "product_id": 8138566434870,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/2E2F8209-8167-48EA-8D65-EE7AC3FD6C08.jpg?v=1767896178",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8138565779510,
+      "title": "BRAND NEW Whirlpool Sidekicks (WSZ57L18DM)\n30 Inch Freestanding Upright Freezer with 18.0 cu. ft. Capacity. Stainless Steel",
+      "handle": "brand-new-whirlpool-sidekicks-wsz57l18dm-30-inch-freestanding-upright-freezer-with-18-0-cu-ft-capacity-stainless-steel",
+      "body_html": "<h2 class=\"border-bottom mt2\">Description</h2>\n<div class=\"mb2\"><strong>30 Inch Freestanding Upright Freezer with 18.0 cu. ft. Capacity</strong></div>\n<div class=\"mb2\">\n<br>Enjoy the convenience and simplicity of an all-freezer from Whirlpool. Activate fast freeze to rapidly drop the freezer's temperature to its lowest setting helping lock in freshness and flavor. With frost-free defrost you'll never have to empty your freezer for a manual defrost again, saving you time.</div>",
+      "published_at": "2026-01-08T13:17:33-05:00",
+      "created_at": "2026-01-08T13:13:33-05:00",
+      "updated_at": "2026-06-05T12:01:40-04:00",
+      "vendor": "WHIRLPOOL",
+      "product_type": "FRIDGE",
+      "tags": [
+        "Brand new",
+        "Whirlpool"
+      ],
+      "variants": [
+        {
+          "id": 44673109983286,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "1149.99",
+          "grams": 0,
+          "compare_at_price": "1749.99",
+          "position": 1,
+          "product_id": 8138565779510,
+          "created_at": "2026-01-08T13:13:34-05:00",
+          "updated_at": "2026-06-05T12:01:40-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38404996497462,
+          "created_at": "2026-01-08T13:16:00-05:00",
+          "position": 1,
+          "updated_at": "2026-01-08T13:16:02-05:00",
+          "product_id": 8138565779510,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/F9126CA7-0283-461A-8C8F-6E1FAD91F480.jpg?v=1767896162",
+          "width": 1910,
+          "height": 1000
+        },
+        {
+          "id": 38404996464694,
+          "created_at": "2026-01-08T13:16:00-05:00",
+          "position": 2,
+          "updated_at": "2026-01-08T13:16:02-05:00",
+          "product_id": 8138565779510,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/866208D5-99A5-41DB-8A88-B280F4CCED24.jpg?v=1767896162",
+          "width": 417,
+          "height": 528
+        },
+        {
+          "id": 38404997480502,
+          "created_at": "2026-01-08T13:16:17-05:00",
+          "position": 3,
+          "updated_at": "2026-01-08T13:16:18-05:00",
+          "product_id": 8138565779510,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/2E2F8209-8167-48EA-8D65-EE7AC3FD6C08.jpg?v=1767896178",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 38404984832054,
+          "created_at": "2026-01-08T13:11:41-05:00",
+          "position": 4,
+          "updated_at": "2026-01-08T13:11:43-05:00",
+          "product_id": 8138565779510,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/2C009488-3673-4EC5-8C17-DAC866C11A27.webp?v=1767895903",
+          "width": 1920,
+          "height": 2246
+        },
+        {
+          "id": 38404984799286,
+          "created_at": "2026-01-08T13:11:41-05:00",
+          "position": 5,
+          "updated_at": "2026-01-08T13:11:43-05:00",
+          "product_id": 8138565779510,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/362836DE-2834-4469-807F-BD823188CF61.jpg?v=1767895903",
+          "width": 1280,
+          "height": 913
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    }
+  ]
+}

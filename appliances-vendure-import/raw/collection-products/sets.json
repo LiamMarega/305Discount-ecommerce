@@ -1,0 +1,110 @@
+{
+  "collection": {
+    "id": 287279579190,
+    "title": "SETS",
+    "handle": "sets",
+    "description": "<p>ALL IN ONE SET OF APPLIANCES FOR YOU</p>",
+    "published_at": "2024-09-18T04:51:38-04:00",
+    "updated_at": "2026-04-02T14:11:26-04:00",
+    "image": {
+      "id": 1611608195126,
+      "created_at": "2024-09-18T04:51:37-04:00",
+      "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/collections/photo_5140871099792338367_m.jpg?v=1726649497",
+      "alt": null
+    },
+    "products_count": 18
+  },
+  "products": [
+    {
+      "id": 8138566434870,
+      "title": "BRAND NEW Whirlpool SET  (WSR57R18DM y WSZ57L18DM) 30 Inch Freestanding Upright Freezer with 18.0 cu. ft. Capacity each. Stainless Steel",
+      "handle": "brand-new-whirlpool-set-wsr57r18dm-y-wsz57l18dm-30-inch-freestanding-upright-freezer-with-18-0-cu-ft-capacity-each-stainless-steel",
+      "body_html": "<h2 class=\"border-bottom mt2\">Description</h2>\n<div class=\"mb2\"><strong>30 Inch Freestanding Upright Freezer with 18.0 cu. ft. Capacity</strong></div>\n<div class=\"mb2\">\n<br>Enjoy the convenience and simplicity of an all-freezer from Whirlpool. Activate fast freeze to rapidly drop the freezer's temperature to its lowest setting helping lock in freshness and flavor. With frost-free defrost you'll never have to empty your freezer for a manual defrost again, saving you time.</div>",
+      "published_at": "2026-01-08T13:18:31-05:00",
+      "created_at": "2026-01-08T13:18:31-05:00",
+      "updated_at": "2026-06-05T11:57:09-04:00",
+      "vendor": "WHIRLPOOL",
+      "product_type": "FRIDGE",
+      "tags": [
+        "Brand new",
+        "Whirlpool"
+      ],
+      "variants": [
+        {
+          "id": 44673110671414,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "2300.00",
+          "grams": 0,
+          "compare_at_price": "3650.00",
+          "position": 1,
+          "product_id": 8138566434870,
+          "created_at": "2026-01-08T13:18:31-05:00",
+          "updated_at": "2026-06-05T11:57:09-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38404984832054,
+          "created_at": "2026-01-08T13:11:41-05:00",
+          "position": 1,
+          "updated_at": "2026-01-08T13:11:43-05:00",
+          "product_id": 8138566434870,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/2C009488-3673-4EC5-8C17-DAC866C11A27.webp?v=1767895903",
+          "width": 1920,
+          "height": 2246
+        },
+        {
+          "id": 38404984799286,
+          "created_at": "2026-01-08T13:11:41-05:00",
+          "position": 2,
+          "updated_at": "2026-01-08T13:11:43-05:00",
+          "product_id": 8138566434870,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/362836DE-2834-4469-807F-BD823188CF61.jpg?v=1767895903",
+          "width": 1280,
+          "height": 913
+        },
+        {
+          "id": 38404984766518,
+          "created_at": "2026-01-08T13:11:41-05:00",
+          "position": 3,
+          "updated_at": "2026-01-08T13:11:43-05:00",
+          "product_id": 8138566434870,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/81710401-4DA2-47A5-BF17-FC8835FE266E.jpg?v=1767895903",
+          "width": 447,
+          "height": 447
+        },
+        {
+          "id": 38404997480502,
+          "created_at": "2026-01-08T13:16:17-05:00",
+          "position": 4,
+          "updated_at": "2026-01-08T13:16:18-05:00",
+          "product_id": 8138566434870,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/2E2F8209-8167-48EA-8D65-EE7AC3FD6C08.jpg?v=1767896178",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    }
+  ]
+}

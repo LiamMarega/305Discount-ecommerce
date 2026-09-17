@@ -1,0 +1,284 @@
+{
+  "collections": [
+    {
+      "id": 292424548406,
+      "title": "Bosh Fridge",
+      "handle": "bosh-fridge",
+      "description": "",
+      "published_at": "2025-02-10T12:03:21-05:00",
+      "updated_at": "2026-06-03T22:42:01-04:00",
+      "image": null,
+      "products_count": 2
+    },
+    {
+      "id": 286784389174,
+      "title": "BRAND NEW",
+      "handle": "brand-new",
+      "description": "",
+      "published_at": "2024-09-07T14:55:59-04:00",
+      "updated_at": "2026-06-02T11:13:34-04:00",
+      "image": {
+        "id": 1611337760822,
+        "created_at": "2024-09-07T15:05:00-04:00",
+        "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/collections/BRAND_NEW_LOGO.png?v=1726504092",
+        "alt": null
+      },
+      "products_count": 61
+    },
+    {
+      "id": 287249301558,
+      "title": "DRYERS",
+      "handle": "dryers-1",
+      "description": "",
+      "published_at": "2024-09-17T10:02:31-04:00",
+      "updated_at": "2026-06-03T21:28:17-04:00",
+      "image": {
+        "id": 1611592859702,
+        "created_at": "2024-09-17T16:41:07-04:00",
+        "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/collections/DRYER_ICON_fbaf0150-a9af-4701-8af6-2331f8331a89.png?v=1726605667",
+        "alt": null
+      },
+      "products_count": 6
+    },
+    {
+      "id": 287249039414,
+      "title": "FRIDGE",
+      "handle": "frezzer",
+      "description": "",
+      "published_at": "2024-09-17T09:59:15-04:00",
+      "updated_at": "2026-06-03T21:28:17-04:00",
+      "image": {
+        "id": 1611592958006,
+        "created_at": "2024-09-17T16:45:51-04:00",
+        "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/collections/FRIDGE_PNG_ICON_2.png?v=1726605952",
+        "alt": null
+      },
+      "products_count": 33
+    },
+    {
+      "id": 287245434934,
+      "title": "KENMORE",
+      "handle": "kenmore",
+      "description": "<p> </p>\n<p> </p>\n<p> </p>",
+      "published_at": "2024-09-17T08:08:22-04:00",
+      "updated_at": "2026-06-03T21:28:13-04:00",
+      "image": {
+        "id": 1611592990774,
+        "created_at": "2024-09-17T16:46:15-04:00",
+        "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/collections/KENMORE.jpg?v=1726605976",
+        "alt": null
+      },
+      "products_count": 2
+    },
+    {
+      "id": 287684001846,
+      "title": "KENMORE BRAND NEW",
+      "handle": "kenmore-brand-new",
+      "description": "",
+      "published_at": "2024-09-28T14:57:32-04:00",
+      "updated_at": "2026-06-03T21:34:25-04:00",
+      "image": null,
+      "products_count": 1
+    },
+    {
+      "id": 289244282934,
+      "title": "KENMORE OPEN BOX",
+      "handle": "kenmore-open-box",
+      "description": "",
+      "published_at": "2024-11-13T21:32:09-05:00",
+      "updated_at": "2026-06-03T21:58:16-04:00",
+      "image": null,
+      "products_count": 1
+    },
+    {
+      "id": 287122489398,
+      "title": "LG",
+      "handle": "lg",
+      "description": "",
+      "published_at": "2024-09-13T14:01:48-04:00",
+      "updated_at": "2026-06-03T21:26:43-04:00",
+      "image": {
+        "id": 1611592204342,
+        "created_at": "2024-09-17T16:31:57-04:00",
+        "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/collections/LG.png?v=1726605118",
+        "alt": null
+      },
+      "products_count": 7
+    },
+    {
+      "id": 287683870774,
+      "title": "LG BRAND NEW",
+      "handle": "lg-brand-new",
+      "description": "",
+      "published_at": "2024-09-28T14:53:42-04:00",
+      "updated_at": "2026-06-03T21:34:35-04:00",
+      "image": null,
+      "products_count": 4
+    },
+    {
+      "id": 287683903542,
+      "title": "LG OPEN BOX",
+      "handle": "lg-open-box",
+      "description": "",
+      "published_at": "2024-09-28T14:53:57-04:00",
+      "updated_at": "2026-06-03T21:34:39-04:00",
+      "image": null,
+      "products_count": 2
+    },
+    {
+      "id": 287249530934,
+      "title": "MICROWAVES",
+      "handle": "microwaves",
+      "description": "",
+      "published_at": "2024-09-17T10:04:31-04:00",
+      "updated_at": "2026-06-03T21:28:17-04:00",
+      "image": {
+        "id": 1611592925238,
+        "created_at": "2024-09-17T16:43:22-04:00",
+        "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/collections/MICROWAVES_PNG_ICON_8d6bad9f-87e4-450f-8bfd-4f98b8114547.png?v=1726605803",
+        "alt": null
+      },
+      "products_count": 35
+    },
+    {
+      "id": 287501910070,
+      "title": "OPEN BOX",
+      "handle": "open-box",
+      "description": "<p><span>An open box product is a product that has been previously purchased and returned, and is up for sale once again. These items come at a deep discount and are just of the one single quantity, so they go fast. Each open box item has been inspected by our returns team and is final sale only.</span></p>",
+      "published_at": "2024-09-24T18:54:05-04:00",
+      "updated_at": "2026-06-03T21:32:02-04:00",
+      "image": {
+        "id": 1611807686710,
+        "created_at": "2024-09-24T18:54:04-04:00",
+        "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/collections/OPEN_BOX.jpg?v=1727218445",
+        "alt": null
+      },
+      "products_count": 47
+    },
+    {
+      "id": 287122456630,
+      "title": "SAMSUNG",
+      "handle": "samsung",
+      "description": "",
+      "published_at": "2024-09-13T14:01:22-04:00",
+      "updated_at": "2026-06-03T21:26:32-04:00",
+      "image": {
+        "id": 1611592237110,
+        "created_at": "2024-09-17T16:32:12-04:00",
+        "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/collections/SAMSUNG.png?v=1726605133",
+        "alt": null
+      },
+      "products_count": 77
+    },
+    {
+      "id": 287683805238,
+      "title": "SAMSUNG BRAND NEW",
+      "handle": "samsung-brand-new",
+      "description": "",
+      "published_at": "2024-09-28T14:52:56-04:00",
+      "updated_at": "2026-06-03T21:34:25-04:00",
+      "image": null,
+      "products_count": 38
+    },
+    {
+      "id": 292427989046,
+      "title": "SAMSUNG FRIDGE OPEN BOX",
+      "handle": "samsung-fridge-open-box",
+      "description": "",
+      "published_at": "2025-02-10T14:46:48-05:00",
+      "updated_at": "2026-06-03T22:42:03-04:00",
+      "image": null,
+      "products_count": 32
+    },
+    {
+      "id": 287683838006,
+      "title": "SAMSUNG OPEN BOX",
+      "handle": "samsung-open-box",
+      "description": "",
+      "published_at": "2024-09-28T14:53:19-04:00",
+      "updated_at": "2026-06-03T21:34:25-04:00",
+      "image": null,
+      "products_count": 35
+    },
+    {
+      "id": 287279579190,
+      "title": "SETS",
+      "handle": "sets",
+      "description": "<p>ALL IN ONE SET OF APPLIANCES FOR YOU</p>",
+      "published_at": "2024-09-18T04:51:38-04:00",
+      "updated_at": "2026-04-02T14:11:26-04:00",
+      "image": {
+        "id": 1611608195126,
+        "created_at": "2024-09-18T04:51:37-04:00",
+        "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/collections/photo_5140871099792338367_m.jpg?v=1726649497",
+        "alt": null
+      },
+      "products_count": 18
+    },
+    {
+      "id": 287121145910,
+      "title": "SHOP BY BRAND",
+      "handle": "shop-by-brand",
+      "description": "",
+      "published_at": "2024-09-13T12:59:24-04:00",
+      "updated_at": "2026-05-26T07:14:58-04:00",
+      "image": {
+        "id": 1611593023542,
+        "created_at": "2024-09-17T16:48:26-04:00",
+        "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/collections/SHOP.png?v=1726606107",
+        "alt": null
+      },
+      "products_count": 42
+    },
+    {
+      "id": 287249465398,
+      "title": "STOVES",
+      "handle": "stove",
+      "description": "",
+      "published_at": "2024-09-17T10:04:08-04:00",
+      "updated_at": "2026-06-03T21:28:17-04:00",
+      "image": {
+        "id": 1611592892470,
+        "created_at": "2024-09-17T16:42:28-04:00",
+        "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/collections/STOVE_PNG_ICON_7cbee1d7-6ffb-4ee7-ade5-8a5fb0bcc467.png?v=1726605748",
+        "alt": null
+      },
+      "products_count": 30
+    },
+    {
+      "id": 300248432694,
+      "title": "Washer",
+      "handle": "washer",
+      "description": "",
+      "published_at": "2025-08-26T12:14:15-04:00",
+      "updated_at": "2026-06-04T00:30:30-04:00",
+      "image": null,
+      "products_count": 6
+    },
+    {
+      "id": 287245238326,
+      "title": "WHIRLPOOL",
+      "handle": "whirlpool",
+      "description": "",
+      "published_at": "2024-09-17T07:57:48-04:00",
+      "updated_at": "2026-06-03T21:28:13-04:00",
+      "image": {
+        "id": 1611592826934,
+        "created_at": "2024-09-17T16:35:38-04:00",
+        "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/collections/Whirlpool.jpg?v=1726605339",
+        "alt": null
+      },
+      "products_count": 12
+    },
+    {
+      "id": 289244315702,
+      "title": "WHIRLPOOL OPEN BOX",
+      "handle": "whirlpool-open-box",
+      "description": "",
+      "published_at": "2024-11-13T21:33:09-05:00",
+      "updated_at": "2026-06-03T21:58:16-04:00",
+      "image": null,
+      "products_count": 1
+    }
+  ]
+}

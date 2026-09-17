@@ -1,0 +1,1404 @@
+{
+  "collection": {
+    "id": 287249465398,
+    "title": "STOVES",
+    "handle": "stove",
+    "description": "",
+    "published_at": "2024-09-17T10:04:08-04:00",
+    "updated_at": "2026-06-03T21:28:17-04:00",
+    "image": {
+      "id": 1611592892470,
+      "created_at": "2024-09-17T16:42:28-04:00",
+      "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/collections/STOVE_PNG_ICON_7cbee1d7-6ffb-4ee7-ade5-8a5fb0bcc467.png?v=1726605748",
+      "alt": null
+    },
+    "products_count": 30
+  },
+  "products": [
+    {
+      "id": 8125390553142,
+      "title": "BRAND NEW (NSE6DB870012) Samsung BESPOKE 30\" Slide-In Electric Smart Range",
+      "handle": "brand-new-nse6db870012-samsung-bespoke-30-slide-in-electric-smart-range",
+      "body_html": "<p data-start=\"157\" data-end=\"417\"><strong>30 Inch Slide-In Electric Smart Range with 5 Elements</strong><br><span>Samsung's Smart Electric Range features an integrated Smart Oven Camera that lets you monitor your food closely and make and share time-lapse videos to your social media to show off your culinary skills.* Illuminated Precision Knobs let you know if your cooktop is on from a distance and precisely control your cooktop. This range's Bespoke design with a recessed handle will seamlessly blend into your kitchen for an elegant and minimalist look. This Electric Range features Wi-Fi Connectivity and is voice-enabled, giving you the tools you need to simplify your cooking experience in the kitchen.</span></p>",
+      "published_at": "2025-12-29T10:35:53-05:00",
+      "created_at": "2025-12-29T10:25:16-05:00",
+      "updated_at": "2026-06-05T11:57:11-04:00",
+      "vendor": "SAMSUNG",
+      "product_type": "STOVE",
+      "tags": [
+        "samsung",
+        "stove"
+      ],
+      "variants": [
+        {
+          "id": 44640499892278,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "NSE6DG8700SR",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "1099.99",
+          "grams": 0,
+          "compare_at_price": "2449.99",
+          "position": 1,
+          "product_id": 8125390553142,
+          "created_at": "2025-12-29T10:25:16-05:00",
+          "updated_at": "2026-06-05T11:57:11-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38326027911222,
+          "created_at": "2025-12-29T10:38:18-05:00",
+          "position": 1,
+          "updated_at": "2025-12-29T10:38:32-05:00",
+          "product_id": 8125390553142,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/15D04CFA-4228-488F-B0C7-9225DA399771.jpg?v=1767022712",
+          "width": 500,
+          "height": 500
+        },
+        {
+          "id": 38326025682998,
+          "created_at": "2025-12-29T10:37:05-05:00",
+          "position": 2,
+          "updated_at": "2025-12-29T10:38:32-05:00",
+          "product_id": 8125390553142,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/IMG-0400.webp?v=1767022712",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "id": 38326007234614,
+          "created_at": "2025-12-29T10:30:06-05:00",
+          "position": 3,
+          "updated_at": "2025-12-29T10:38:32-05:00",
+          "product_id": 8125390553142,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/61B98EF3-7F14-46AC-920A-F31E6B97E84E.jpg?v=1767022712",
+          "width": 1290,
+          "height": 886
+        },
+        {
+          "id": 37005533937718,
+          "created_at": "2025-09-26T13:48:05-04:00",
+          "position": 4,
+          "updated_at": "2025-12-29T11:45:56-05:00",
+          "product_id": 8125390553142,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/nse6dg8700sr_ready2fit_pc65f2d76971f675.webp?v=1767026756",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 37005533904950,
+          "created_at": "2025-09-26T13:48:05-04:00",
+          "position": 5,
+          "updated_at": "2025-12-29T11:45:56-05:00",
+          "product_id": 8125390553142,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/nse6dg8700sr_05_rcom65de6809cb3475.webp?v=1767026756",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 38326007332918,
+          "created_at": "2025-12-29T10:30:06-05:00",
+          "position": 6,
+          "updated_at": "2025-12-29T10:38:32-05:00",
+          "product_id": 8125390553142,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/DB4E2BF2-6C0C-4663-BE7D-E11F4C44AAA8.jpg?v=1767022712",
+          "width": 800,
+          "height": 600
+        },
+        {
+          "id": 38326007300150,
+          "created_at": "2025-12-29T10:30:06-05:00",
+          "position": 7,
+          "updated_at": "2025-12-29T10:38:32-05:00",
+          "product_id": 8125390553142,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/66D9EF79-F71E-4A27-853B-B7A89677E029.jpg?v=1767022712",
+          "width": 1290,
+          "height": 1125
+        },
+        {
+          "id": 38326007267382,
+          "created_at": "2025-12-29T10:30:06-05:00",
+          "position": 8,
+          "updated_at": "2025-12-29T10:38:32-05:00",
+          "product_id": 8125390553142,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/0B7E22EA-2970-4E53-B1D1-05A1AC5F1ED6.jpg?v=1767022712",
+          "width": 1290,
+          "height": 1096
+        },
+        {
+          "id": 38326007201846,
+          "created_at": "2025-12-29T10:30:06-05:00",
+          "position": 9,
+          "updated_at": "2025-12-29T10:38:32-05:00",
+          "product_id": 8125390553142,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/551BBFE3-5153-4CAD-AC29-06A00B73D03E.jpg?v=1767022712",
+          "width": 1290,
+          "height": 951
+        },
+        {
+          "id": 38326007365686,
+          "created_at": "2025-12-29T10:30:06-05:00",
+          "position": 10,
+          "updated_at": "2025-12-29T10:38:32-05:00",
+          "product_id": 8125390553142,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/41B03993-074D-4FE9-AEF4-783F4D1A3FFF.jpg?v=1767022712",
+          "width": 500,
+          "height": 500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8362055139382,
+      "title": "Brand New (Whirlpool) Electric Stove (WFE515S0JB)",
+      "handle": "sin-nombre-26mar_14-23",
+      "body_html": "<p><strong>30 Inch Freestanding Electric Range with FlexHeat™ Dual Radiant Element</strong></p>\n<p><br><span>With the FlexHeat™ dual radiant element you get two elements in one with a 6\" inner ring that's great for smaller pots and pans and a 9\" expandable outer ring that makes room for larger cookware. Frozen Bake™ technology allows you to skip preheating and cook frozen favorites like pizza and lasagna faster with preprogrammed settings that automatically adjust cooking times for you. Adjustable self-cleaning helps you clean without harsh chemicals or special cleaners by running this high-temperature setting that automatically cleans the oven according to a preprogrammed cycle.</span><br><br><span>The upswept SpillGuard™ cooktop makes clean up easier with a cooktop that has raised edges to help contain spills. Keep dishes ready to serve while you work on the rest of the meal by using the Keep Warm setting. This setting delivers low heat to the oven to keep prepared dishes from getting cold. Get evenly-baked food with a temperature sensor that monitors oven temperature and adjusts the cooking elements. Closed door broiling maintains the optimal cooking temperature for food while still keeping the kitchen comfortable and cool using this broiling temperature management system that helps prevent overheating.</span></p>",
+      "published_at": "2026-03-26T15:20:27-04:00",
+      "created_at": "2026-03-26T14:23:55-04:00",
+      "updated_at": "2026-06-05T11:57:11-04:00",
+      "vendor": "WHIRLPOOL",
+      "product_type": "STOVE",
+      "tags": [
+        "Brand new",
+        "stove",
+        "Whirlpool"
+      ],
+      "variants": [
+        {
+          "id": 45165426901046,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "499.99",
+          "grams": 0,
+          "compare_at_price": "899.99",
+          "position": 1,
+          "product_id": 8362055139382,
+          "created_at": "2026-03-26T14:23:55-04:00",
+          "updated_at": "2026-06-05T11:57:11-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 39111045808182,
+          "created_at": "2026-03-26T15:06:59-04:00",
+          "position": 1,
+          "updated_at": "2026-03-26T15:07:01-04:00",
+          "product_id": 8362055139382,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/A28C4982-4F1D-4BD9-A3C7-F1333B293C75.jpg?v=1774552021",
+          "width": 646,
+          "height": 1064
+        },
+        {
+          "id": 39111057342518,
+          "created_at": "2026-03-26T15:10:15-04:00",
+          "position": 2,
+          "updated_at": "2026-03-26T15:10:16-04:00",
+          "product_id": 8362055139382,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/0F3EC361-4C45-42F7-9A96-2FAC3826962C.jpg?v=1774552216",
+          "width": 1290,
+          "height": 1481
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8362239426614,
+      "title": "Brand New (Whirlpool) Gas Stove (WFG525S0JB)",
+      "handle": "brand-new-whirlpool-gas-stove-wfg525s0jb",
+      "body_html": "<p><strong>30 Inch Freestanding Gas Range with Frozen Bake™ Technology</strong><br><span>Skip preheating and cook frozen favorites like pizza and lasagna faster with Frozen Bake™ - pre-programmed settings that automatically adjust cooking times for you. The SpeedHeat™ burner generates 15,000 BTUs, the high heat needed to sear and boil quickly. This unit also comes equipped with an 8,000 BTU center oval burner that can easily fit large griddles and other longer cookware so they heat evenly on the range top. With the upswept SpillGuard™ cooktop, spills are contained by its raised edges and cleanup is a breeze. If you want to get dinner to the table faster with an easy cleanup, then this unit is for you.</span></p>",
+      "published_at": "2026-03-26T15:19:45-04:00",
+      "created_at": "2026-03-26T15:12:19-04:00",
+      "updated_at": "2026-06-05T11:57:11-04:00",
+      "vendor": "WHIRLPOOL",
+      "product_type": "STOVE",
+      "tags": [
+        "Brand new",
+        "stove",
+        "Whirlpool"
+      ],
+      "variants": [
+        {
+          "id": 45165669875766,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "499.99",
+          "grams": 0,
+          "compare_at_price": "899.99",
+          "position": 1,
+          "product_id": 8362239426614,
+          "created_at": "2026-03-26T15:12:19-04:00",
+          "updated_at": "2026-06-05T11:57:11-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 39111088799798,
+          "created_at": "2026-03-26T15:16:51-04:00",
+          "position": 1,
+          "updated_at": "2026-03-26T15:16:53-04:00",
+          "product_id": 8362239426614,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/FEB31714-74E0-4D71-8D25-52E4433D8D24.jpg?v=1774552613",
+          "width": 1290,
+          "height": 1107
+        },
+        {
+          "id": 39111088767030,
+          "created_at": "2026-03-26T15:16:51-04:00",
+          "position": 2,
+          "updated_at": "2026-03-26T15:16:53-04:00",
+          "product_id": 8362239426614,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/B2B976F8-B8A9-4A4B-877B-28069CAD39BB.jpg?v=1774552613",
+          "width": 1290,
+          "height": 1106
+        },
+        {
+          "id": 39111088734262,
+          "created_at": "2026-03-26T15:16:51-04:00",
+          "position": 3,
+          "updated_at": "2026-03-26T15:16:53-04:00",
+          "product_id": 8362239426614,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/84BF3FE4-B3E6-4DF3-BCE1-ACDCC6C4D59D.jpg?v=1774552613",
+          "width": 1290,
+          "height": 1124
+        },
+        {
+          "id": 39111088701494,
+          "created_at": "2026-03-26T15:16:51-04:00",
+          "position": 4,
+          "updated_at": "2026-03-26T15:16:53-04:00",
+          "product_id": 8362239426614,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/89921FE0-79D1-48A2-811D-9F66F9D34A30.jpg?v=1774552613",
+          "width": 646,
+          "height": 646
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7948036014134,
+      "title": "BRAND NEW SAMSUNG (NSE6DG8700SR) 30 Inch Slide-In Electric Smart Range with 5 Elements, 6.3 cu. ft. Convection+ Oven, Express Boil™, Warming Zone, Storage Drawer, Air Fry, Self & Steam Clean, and ADA Compliant: Stainless Steel",
+      "handle": "samsung-bespoke-nse6dg8700sr-30-slide-in-electric-smart-range",
+      "body_html": "<p data-start=\"157\" data-end=\"417\">The Samsung BESPOKE NSE6DG8700SR offers advanced cooking technology with elegant design. Featuring a <strong data-start=\"258\" data-end=\"290\">6.3 cu. ft. Convection+ oven</strong>, <strong data-start=\"292\" data-end=\"314\">5 powerful burners</strong>, and <strong data-start=\"320\" data-end=\"341\">Smart Oven Camera</strong>, it transforms your kitchen into a connected and versatile cooking space.</p>\n<p data-start=\"419\" data-end=\"438\"><strong data-start=\"419\" data-end=\"436\">Key Features:</strong></p>\n<ul data-start=\"439\" data-end=\"1128\">\n<li data-start=\"439\" data-end=\"509\">\n<p data-start=\"441\" data-end=\"509\"><strong data-start=\"441\" data-end=\"460\">Bespoke Design:</strong> Minimalist, modern style with recessed handle.</p>\n</li>\n<li data-start=\"510\" data-end=\"601\">\n<p data-start=\"512\" data-end=\"601\"><strong data-start=\"512\" data-end=\"534\">Smart Oven Camera:</strong> Monitor cooking and share time-lapse videos via SmartThings app.</p>\n</li>\n<li data-start=\"602\" data-end=\"680\">\n<p data-start=\"604\" data-end=\"680\"><strong data-start=\"604\" data-end=\"630\">Wi-Fi &amp; Voice Control:</strong> Works with Alexa, Google Home, and SmartThings.</p>\n</li>\n<li data-start=\"681\" data-end=\"749\">\n<p data-start=\"683\" data-end=\"749\"><strong data-start=\"683\" data-end=\"715\">Illuminated Precision Knobs:</strong> Easily see when burners are on.</p>\n</li>\n<li data-start=\"750\" data-end=\"847\">\n<p data-start=\"752\" data-end=\"847\"><strong data-start=\"752\" data-end=\"781\">5 Burners + Warming Zone:</strong> Includes 3,600W Express Boil and flexible dual/triple elements.</p>\n</li>\n<li data-start=\"848\" data-end=\"933\">\n<p data-start=\"850\" data-end=\"933\"><strong data-start=\"850\" data-end=\"883\">6.3 cu. ft. Convection+ Oven:</strong> Bake, roast, air fry, and proof with precision.</p>\n</li>\n<li data-start=\"934\" data-end=\"1003\">\n<p data-start=\"936\" data-end=\"1003\"><strong data-start=\"936\" data-end=\"959\">Air Fry Technology:</strong> Healthier meals with no preheat required.</p>\n</li>\n<li data-start=\"1004\" data-end=\"1075\">\n<p data-start=\"1006\" data-end=\"1075\"><strong data-start=\"1006\" data-end=\"1029\">Steam &amp; Self Clean:</strong> Choose between high heat or steam cleaning.</p>\n</li>\n<li data-start=\"1076\" data-end=\"1128\">\n<p data-start=\"1078\" data-end=\"1128\"><strong data-start=\"1078\" data-end=\"1096\">ADA Compliant:</strong> Accessible and user-friendly.</p>\n</li>\n</ul>\n<p data-start=\"1130\" data-end=\"1151\"><strong data-start=\"1130\" data-end=\"1149\">Specifications:</strong></p>\n<ul data-start=\"1152\" data-end=\"1577\">\n<li data-start=\"1152\" data-end=\"1213\">\n<p data-start=\"1154\" data-end=\"1213\">Dimensions (W x H x D): <strong data-start=\"1178\" data-end=\"1211\">29 15/16\" x 36 1/4\" x 27 7/8\"</strong></p>\n</li>\n<li data-start=\"1214\" data-end=\"1243\">\n<p data-start=\"1216\" data-end=\"1243\">Capacity: <strong data-start=\"1226\" data-end=\"1241\">6.3 cu. ft.</strong></p>\n</li>\n<li data-start=\"1244\" data-end=\"1304\">\n<p data-start=\"1246\" data-end=\"1304\">Cooktop: <strong data-start=\"1255\" data-end=\"1302\">Smoothtop Ceramic, 5 burners + warming zone</strong></p>\n</li>\n<li data-start=\"1305\" data-end=\"1383\">\n<p data-start=\"1307\" data-end=\"1383\">Burner Outputs: 3,600W (Express Boil), 3,000W, 1,200W (x2), 100W (warming)</p>\n</li>\n<li data-start=\"1384\" data-end=\"1463\">\n<p data-start=\"1386\" data-end=\"1463\">Oven Modes: Bake, Convection Bake/Roast, Broil (Low/High), Proof, Keep Warm</p>\n</li>\n<li data-start=\"1464\" data-end=\"1523\">\n<p data-start=\"1466\" data-end=\"1523\">Connectivity: <strong data-start=\"1480\" data-end=\"1521\">Wi-Fi, SmartThings app, voice-enabled</strong></p>\n</li>\n<li data-start=\"1524\" data-end=\"1577\">\n<p data-start=\"1526\" data-end=\"1577\">Finish: <strong data-start=\"1534\" data-end=\"1575\">Fingerprint Resistant Stainless Steel</strong></p>\n</li>\n</ul>",
+      "published_at": "2025-12-29T11:48:40-05:00",
+      "created_at": "2025-09-26T13:49:44-04:00",
+      "updated_at": "2026-06-05T11:57:11-04:00",
+      "vendor": "SAMSUNG",
+      "product_type": "STOVE",
+      "tags": [
+        "samsung",
+        "stove"
+      ],
+      "variants": [
+        {
+          "id": 44146548047926,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "NSE6DG8700SR",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "1099.99",
+          "grams": 0,
+          "compare_at_price": "1799.99",
+          "position": 1,
+          "product_id": 7948036014134,
+          "created_at": "2025-09-26T13:49:44-04:00",
+          "updated_at": "2026-06-05T11:57:11-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38326204235830,
+          "created_at": "2025-12-29T11:45:27-05:00",
+          "position": 1,
+          "updated_at": "2025-12-29T11:45:56-05:00",
+          "product_id": 7948036014134,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/2174BFB8-D01E-4362-AC8C-92C8AC3D4CB5.jpg?v=1767026756",
+          "width": 646,
+          "height": 646
+        },
+        {
+          "id": 38326204203062,
+          "created_at": "2025-12-29T11:45:27-05:00",
+          "position": 2,
+          "updated_at": "2025-12-29T11:45:56-05:00",
+          "product_id": 7948036014134,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/88708920-35C6-4B4A-BCDF-10A2E33E97F0.jpg?v=1767026756",
+          "width": 1000,
+          "height": 973
+        },
+        {
+          "id": 37005533872182,
+          "created_at": "2025-09-26T13:48:05-04:00",
+          "position": 3,
+          "updated_at": "2025-12-29T11:45:56-05:00",
+          "product_id": 7948036014134,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/nse6dg8700sr_03_dimensions65f2d7567d43f5.webp?v=1767026756",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 37005533937718,
+          "created_at": "2025-09-26T13:48:05-04:00",
+          "position": 4,
+          "updated_at": "2025-12-29T11:45:56-05:00",
+          "product_id": 7948036014134,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/nse6dg8700sr_ready2fit_pc65f2d76971f675.webp?v=1767026756",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 37005533904950,
+          "created_at": "2025-09-26T13:48:05-04:00",
+          "position": 5,
+          "updated_at": "2025-12-29T11:45:56-05:00",
+          "product_id": 7948036014134,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/nse6dg8700sr_05_rcom65de6809cb3475.webp?v=1767026756",
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8125504061494,
+      "title": "BRAND NEW SAMSUNG STOVE (NE63A6311SS) - 6.3 cu. ft. Freestanding Electric  Range with Rapid Boil, WiFi & Self Clean -  Stainless Steel",
+      "handle": "brand-new-samsung-stove-ne63a6511ss-6-3-cu-ft-freestanding-electric-range-with-rapid-boil-wifi-self-clean-stainless-steel",
+      "body_html": "<div style=\"text-align: left;\"><img style=\"float: none; display: block; margin-left: auto; margin-right: auto;\" alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0622/9449/1190/files/ORIGINAL_240x240.png?v=1725737689\"></div>\n<div style=\"text-align: center;\"><br></div>\n<h1 style=\"text-align: center;\"><strong>Signature Features</strong></h1>\n<div style=\"text-align: center;\">\n<br><strong> Large Oven Capacity</strong><br> •  This large 6.3 cu. ft. oven can fit multiple dishes at one time.</div>\n<div style=\"text-align: center;\">\n<br><strong> Rapid Boil™</strong>\n</div>\n<div style=\"text-align: center;\">                            •  Boil water fast with the 3300 W Rapid Boil™ burner.                                                                      <br><strong>Easy to Clean</strong><br> •  Self and Steam Clean keep your oven spotless. The hidden  bake element <br>makes cleaning your oven easy with a seamless cavity interior.</div>\n<p style=\"text-align: center;\"> </p>\n<div style=\"text-align: center;\"><br></div>\n<h1 style=\"text-align: center;\"> Features</h1>\n<div style=\"text-align: center;\">\n<br> • Stainless Steel Design<br> • Large Oven Capacity – 6.3 cu. ft.<br> • Rapid Boil™ 3300 W <br>•  Extra Oven Settings - Bread Proof, Favorite Cook, Keep Warm<br> • Storage Drawer</div>\n<div style=\"text-align: center;\"><br></div>\n<div style=\"text-align: center;\"> • Flexible Cooktop: <br>Five Burner Cooktop</div>\n<div style=\"text-align: center;\">- Two Dual Ring Burners (6\"/9\")</div>\n<div style=\"text-align: center;\">- Two Single Burners (6\")</div>\n<div style=\"text-align: center;\">- Warming Center</div>\n<h1 style=\"text-align: center;\"><br></h1>\n<h1 style=\"text-align: center;\"> Convenience</h1>\n<div style=\"text-align: center;\"><br></div>\n<div style=\"text-align: center;\"> • Wi-Fi Connectivity</div>\n<div style=\"text-align: center;\">• Voice-Enabled</div>\n<div style=\"text-align: center;\"> • SmartThings Cooking<br> • Self &amp; Steam Clean<br> • Hidden Bake Element<br> • Sabbath Mode<br> • Child Safety Lock<br> • Delay Start<br> • Auto Oven Light<br> • Kitchen Timer<br>\n</div>\n<div style=\"text-align: left;\"><br></div>\n<p style=\"margin-bottom: 1rem;\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0622/9449/1190/files/Captura_de_pantalla_7-9-2024_161322.jpg?v=1725740134\" width=\"557\" height=\"43\" style=\"display: block; margin-left: auto; margin-right: auto;\"></p>\n<p><br></p>",
+      "published_at": "2025-12-29T11:30:32-05:00",
+      "created_at": "2025-12-29T11:30:32-05:00",
+      "updated_at": "2026-06-05T11:57:11-04:00",
+      "vendor": "SAMSUNG",
+      "product_type": "STOVE",
+      "tags": [
+        "samsung",
+        "SAMSUNG BRAND NEW",
+        "stove"
+      ],
+      "variants": [
+        {
+          "id": 44640731594806,
+          "title": "Stainlees Steel",
+          "option1": "Stainlees Steel",
+          "option2": null,
+          "option3": null,
+          "sku": "ST-BR-SA-ST96",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 34620318220342,
+            "product_id": 8125504061494,
+            "position": 3,
+            "created_at": "2024-09-07T16:19:26-04:00",
+            "updated_at": "2025-12-29T11:39:48-05:00",
+            "alt": null,
+            "width": 414,
+            "height": 640,
+            "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/1_d7abbe3a-704b-4c5b-9420-1b0bb4e859b2.jpg?v=1767026388",
+            "variant_ids": [
+              44640731594806
+            ]
+          },
+          "available": true,
+          "price": "599.99",
+          "grams": 0,
+          "compare_at_price": "899.99",
+          "position": 1,
+          "product_id": 8125504061494,
+          "created_at": "2025-12-29T11:30:32-05:00",
+          "updated_at": "2026-06-05T11:57:11-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 34620318482486,
+          "created_at": "2024-09-07T16:19:26-04:00",
+          "position": 1,
+          "updated_at": "2025-12-29T11:39:48-05:00",
+          "product_id": 8125504061494,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/9.jpg?v=1767026388",
+          "width": 955,
+          "height": 1047
+        },
+        {
+          "id": 34620318253110,
+          "created_at": "2024-09-07T16:19:26-04:00",
+          "position": 2,
+          "updated_at": "2025-12-29T11:39:48-05:00",
+          "product_id": 8125504061494,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/2_2cad09a0-7430-4a33-84d2-e699e5d8e220.jpg?v=1767026388",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 34620318220342,
+          "created_at": "2024-09-07T16:19:26-04:00",
+          "position": 3,
+          "updated_at": "2025-12-29T11:39:48-05:00",
+          "product_id": 8125504061494,
+          "variant_ids": [
+            44640731594806
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/1_d7abbe3a-704b-4c5b-9420-1b0bb4e859b2.jpg?v=1767026388",
+          "width": 414,
+          "height": 640
+        },
+        {
+          "id": 34620318318646,
+          "created_at": "2024-09-07T16:19:26-04:00",
+          "position": 4,
+          "updated_at": "2025-12-29T11:39:48-05:00",
+          "product_id": 8125504061494,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/4.jpg?v=1767026388",
+          "width": 1113,
+          "height": 900
+        },
+        {
+          "id": 34620318351414,
+          "created_at": "2024-09-07T16:19:26-04:00",
+          "position": 5,
+          "updated_at": "2025-12-29T11:39:48-05:00",
+          "product_id": 8125504061494,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/5.jpg?v=1767026388",
+          "width": 1090,
+          "height": 918
+        },
+        {
+          "id": 34620318384182,
+          "created_at": "2024-09-07T16:19:26-04:00",
+          "position": 6,
+          "updated_at": "2025-12-29T11:39:48-05:00",
+          "product_id": 8125504061494,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/6.jpg?v=1767026388",
+          "width": 1524,
+          "height": 657
+        },
+        {
+          "id": 34620318416950,
+          "created_at": "2024-09-07T16:19:26-04:00",
+          "position": 7,
+          "updated_at": "2025-12-29T11:39:48-05:00",
+          "product_id": 8125504061494,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/7.jpg?v=1767026388",
+          "width": 1038,
+          "height": 964
+        },
+        {
+          "id": 34620318449718,
+          "created_at": "2024-09-07T16:19:26-04:00",
+          "position": 8,
+          "updated_at": "2025-12-29T11:39:48-05:00",
+          "product_id": 8125504061494,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/8.jpg?v=1767026388",
+          "width": 847,
+          "height": 1181
+        },
+        {
+          "id": 34620318515254,
+          "created_at": "2024-09-07T16:19:26-04:00",
+          "position": 9,
+          "updated_at": "2025-12-29T11:39:48-05:00",
+          "product_id": 8125504061494,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/10_441ea07d-5a53-4dff-a5a6-4cb025880a8d.jpg?v=1767026388",
+          "width": 826,
+          "height": 1212
+        },
+        {
+          "id": 34620318548022,
+          "created_at": "2024-09-07T16:19:26-04:00",
+          "position": 10,
+          "updated_at": "2025-12-29T11:39:48-05:00",
+          "product_id": 8125504061494,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/11.jpg?v=1767026388",
+          "width": 1099,
+          "height": 910
+        },
+        {
+          "id": 34620318580790,
+          "created_at": "2024-09-07T16:21:10-04:00",
+          "position": 11,
+          "updated_at": "2025-12-29T11:58:27-05:00",
+          "product_id": 8125504061494,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/STAINLEES_STEEL_5522a5bb-67aa-4721-9eb7-910fd010aef8.jpg?v=1767027507",
+          "width": 800,
+          "height": 600
+        },
+        {
+          "id": 38326183460918,
+          "created_at": "2025-12-29T11:39:27-05:00",
+          "position": 12,
+          "updated_at": "2025-12-29T11:39:48-05:00",
+          "product_id": 8125504061494,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/5AFD9AAE-154F-4C06-8B88-0C5E3225E537.jpg?v=1767026388",
+          "width": 800,
+          "height": 600
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Stainlees Steel"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7655876624438,
+      "title": "BRAND NEW SAMSUNG STOVE (NE63A6511SS) - 30 Inch Freestanding Electric Smart Range with Air fryer and 5 Smoothtop Elements, 6.3 Cu. Ft. Capacity -  Stainless Steel",
+      "handle": "stove-ne63a6311ss-aa-samsung-6-3-cu-ft-freestanding-electric-range-with-rapid-boil-wifi-self-clean-stainless-steel",
+      "body_html": "<div style=\"text-align: left;\"><strong>30 Inch Freestanding Electric Smart Range with 5 Smoothtop Elements</strong></div>\n<div style=\"text-align: left;\">\n<br><span>Samsung Electric Smart Range offers a total capacity of 6.3 Cubic Feet, 5 smoothtop elements with a rapid boil burner, double ring burner, and warming center. This electric range is Wi-Fi connected and voice-enabled, making it easy to make delicious meals for your family. You can preheat, monitor, and adjust your oven's cooking time and temperature right from your smartphone through the SmartThings app, or control your oven with your favorite virtual assistant, whether it's Bixby, Google Assistant &amp; Amazon Alexa. It also provides a range of convenient features to make cooking and cleaning easier such as powerful convection, No Pre-heat Air Fry, Self + Steam Clean, Hidden Bake Element, Sabbath Mode, Auto Oven Light, Child Safety Lock, and Extra Oven Settings - Bread Proof, Dehydrate, Favorite Cook, Keep Warm.</span>\n</div>",
+      "published_at": "2025-12-29T11:22:22-05:00",
+      "created_at": "2024-09-07T16:25:48-04:00",
+      "updated_at": "2026-06-05T11:57:11-04:00",
+      "vendor": "SAMSUNG",
+      "product_type": "STOVE",
+      "tags": [
+        "samsung",
+        "SAMSUNG BRAND NEW",
+        "stove"
+      ],
+      "variants": [
+        {
+          "id": 43033161957430,
+          "title": "Stainlees Steel",
+          "option1": "Stainlees Steel",
+          "option2": null,
+          "option3": null,
+          "sku": "ST-BR-SA-ST96",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 34620318220342,
+            "product_id": 7655876624438,
+            "position": 8,
+            "created_at": "2024-09-07T16:19:26-04:00",
+            "updated_at": "2025-12-29T11:39:48-05:00",
+            "alt": null,
+            "width": 414,
+            "height": 640,
+            "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/1_d7abbe3a-704b-4c5b-9420-1b0bb4e859b2.jpg?v=1767026388",
+            "variant_ids": [
+              43033161957430
+            ]
+          },
+          "available": true,
+          "price": "699.99",
+          "grams": 0,
+          "compare_at_price": "899.99",
+          "position": 1,
+          "product_id": 7655876624438,
+          "created_at": "2024-09-07T16:25:50-04:00",
+          "updated_at": "2026-06-05T11:57:11-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38326183591990,
+          "created_at": "2025-12-29T11:39:27-05:00",
+          "position": 1,
+          "updated_at": "2025-12-29T11:39:48-05:00",
+          "product_id": 7655876624438,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/36ADE794-8FEE-4049-AAB8-AEE45CE59C3D.jpg?v=1767026388",
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "id": 38326183526454,
+          "created_at": "2025-12-29T11:39:27-05:00",
+          "position": 2,
+          "updated_at": "2025-12-29T11:39:48-05:00",
+          "product_id": 7655876624438,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/BA232948-B55A-4078-8D73-E94B35ABF0DB.jpg?v=1767026388",
+          "width": 800,
+          "height": 600
+        },
+        {
+          "id": 38326183559222,
+          "created_at": "2025-12-29T11:39:27-05:00",
+          "position": 3,
+          "updated_at": "2025-12-29T11:39:48-05:00",
+          "product_id": 7655876624438,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/8AF3082C-DF81-4454-AADB-6FC394DB933F.jpg?v=1767026388",
+          "width": 750,
+          "height": 550
+        },
+        {
+          "id": 38326183493686,
+          "created_at": "2025-12-29T11:39:27-05:00",
+          "position": 4,
+          "updated_at": "2025-12-29T11:39:48-05:00",
+          "product_id": 7655876624438,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/8D72D68B-9DC1-43AF-B4D1-382E49E80841.jpg?v=1767026388",
+          "width": 547,
+          "height": 365
+        },
+        {
+          "id": 38326183460918,
+          "created_at": "2025-12-29T11:39:27-05:00",
+          "position": 5,
+          "updated_at": "2025-12-29T11:39:48-05:00",
+          "product_id": 7655876624438,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/5AFD9AAE-154F-4C06-8B88-0C5E3225E537.jpg?v=1767026388",
+          "width": 800,
+          "height": 600
+        },
+        {
+          "id": 34620318482486,
+          "created_at": "2024-09-07T16:19:26-04:00",
+          "position": 6,
+          "updated_at": "2025-12-29T11:39:48-05:00",
+          "product_id": 7655876624438,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/9.jpg?v=1767026388",
+          "width": 955,
+          "height": 1047
+        },
+        {
+          "id": 34620318253110,
+          "created_at": "2024-09-07T16:19:26-04:00",
+          "position": 7,
+          "updated_at": "2025-12-29T11:39:48-05:00",
+          "product_id": 7655876624438,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/2_2cad09a0-7430-4a33-84d2-e699e5d8e220.jpg?v=1767026388",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 34620318220342,
+          "created_at": "2024-09-07T16:19:26-04:00",
+          "position": 8,
+          "updated_at": "2025-12-29T11:39:48-05:00",
+          "product_id": 7655876624438,
+          "variant_ids": [
+            43033161957430
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/1_d7abbe3a-704b-4c5b-9420-1b0bb4e859b2.jpg?v=1767026388",
+          "width": 414,
+          "height": 640
+        },
+        {
+          "id": 34620318318646,
+          "created_at": "2024-09-07T16:19:26-04:00",
+          "position": 9,
+          "updated_at": "2025-12-29T11:39:48-05:00",
+          "product_id": 7655876624438,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/4.jpg?v=1767026388",
+          "width": 1113,
+          "height": 900
+        },
+        {
+          "id": 34620318351414,
+          "created_at": "2024-09-07T16:19:26-04:00",
+          "position": 10,
+          "updated_at": "2025-12-29T11:39:48-05:00",
+          "product_id": 7655876624438,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/5.jpg?v=1767026388",
+          "width": 1090,
+          "height": 918
+        },
+        {
+          "id": 34620318384182,
+          "created_at": "2024-09-07T16:19:26-04:00",
+          "position": 11,
+          "updated_at": "2025-12-29T11:39:48-05:00",
+          "product_id": 7655876624438,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/6.jpg?v=1767026388",
+          "width": 1524,
+          "height": 657
+        },
+        {
+          "id": 34620318416950,
+          "created_at": "2024-09-07T16:19:26-04:00",
+          "position": 12,
+          "updated_at": "2025-12-29T11:39:48-05:00",
+          "product_id": 7655876624438,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/7.jpg?v=1767026388",
+          "width": 1038,
+          "height": 964
+        },
+        {
+          "id": 34620318449718,
+          "created_at": "2024-09-07T16:19:26-04:00",
+          "position": 13,
+          "updated_at": "2025-12-29T11:39:48-05:00",
+          "product_id": 7655876624438,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/8.jpg?v=1767026388",
+          "width": 847,
+          "height": 1181
+        },
+        {
+          "id": 34620318515254,
+          "created_at": "2024-09-07T16:19:26-04:00",
+          "position": 14,
+          "updated_at": "2025-12-29T11:39:48-05:00",
+          "product_id": 7655876624438,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/10_441ea07d-5a53-4dff-a5a6-4cb025880a8d.jpg?v=1767026388",
+          "width": 826,
+          "height": 1212
+        },
+        {
+          "id": 34620318548022,
+          "created_at": "2024-09-07T16:19:26-04:00",
+          "position": 15,
+          "updated_at": "2025-12-29T11:39:48-05:00",
+          "product_id": 7655876624438,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/11.jpg?v=1767026388",
+          "width": 1099,
+          "height": 910
+        },
+        {
+          "id": 34620318580790,
+          "created_at": "2024-09-07T16:21:10-04:00",
+          "position": 16,
+          "updated_at": "2025-12-29T11:58:27-05:00",
+          "product_id": 7655876624438,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/STAINLEES_STEEL_5522a5bb-67aa-4721-9eb7-910fd010aef8.jpg?v=1767027507",
+          "width": 800,
+          "height": 600
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Stainlees Steel"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7656098168886,
+      "title": "BRAND NEW SAMSUNG STOVE (NE63T8511SG) - 6.3 cu. ft. Front Control Slide-in  Electric Range with Air Fry & Wi-Fi",
+      "handle": "stove-ne63a6311sg-aa-samsung-6-3-cu-ft-freestanding-electric-range-with-rapid-boil-wifi-self-clean-black-stainless-steel",
+      "body_html": "<div style=\"text-align: left;\"><img src=\"https://cdn.shopify.com/s/files/1/0622/9449/1190/files/ORIGINAL_240x240.png?v=1725737689\" alt=\"\" style=\"float: none; display: block; margin-left: auto; margin-right: auto;\"></div>\n<div style=\"text-align: center;\"><br></div>\n<h1 style=\"text-align: center;\"><strong>Signature Features</strong></h1>\n<div style=\"text-align: center;\">\n<br><strong> Large Oven Capacity</strong><br> •  This large 6.3 cu. ft. oven can fit multiple dishes at one time.</div>\n<div style=\"text-align: center;\">\n<br><strong> Rapid Boil™</strong>\n</div>\n<div style=\"text-align: center;\">                            •  Boil water fast with the 3300 W Rapid Boil™ burner.                                                                      <br><strong>Easy to Clean</strong><br> •  Self and Steam Clean keep your oven spotless. The hidden  bake element <br>makes cleaning your oven easy with a seamless cavity interior.</div>\n<p style=\"text-align: center;\"> </p>\n<div style=\"text-align: center;\"><br></div>\n<h1 style=\"text-align: center;\"> Features</h1>\n<div style=\"text-align: center;\">\n<br> • Stainless Steel Design<br> • Large Oven Capacity – 6.3 cu. ft.<br> • Rapid Boil™ 3300 W <br>•  Extra Oven Settings - Bread Proof, Favorite Cook, Keep Warm<br> • Storage Drawer</div>\n<div style=\"text-align: center;\"><br></div>\n<div style=\"text-align: center;\"> • Flexible Cooktop: <br>Five Burner Cooktop</div>\n<div style=\"text-align: center;\">- Two Dual Ring Burners (6\"/9\")</div>\n<div style=\"text-align: center;\">- Two Single Burners (6\")</div>\n<div style=\"text-align: center;\">- Warming Center</div>\n<h1 style=\"text-align: center;\"><br></h1>\n<h1 style=\"text-align: center;\"> Convenience</h1>\n<div style=\"text-align: center;\"><br></div>\n<div style=\"text-align: center;\"> • Wi-Fi Connectivity</div>\n<div style=\"text-align: center;\">• Voice-Enabled</div>\n<div style=\"text-align: center;\"> • SmartThings Cooking<br> • Self &amp; Steam Clean<br> • Hidden Bake Element<br> • Sabbath Mode<br> • Child Safety Lock<br> • Delay Start<br> • Auto Oven Light<br> • Kitchen Timer<br>\n</div>\n<div style=\"text-align: left;\"><br></div>\n<p style=\"margin-bottom: 1rem;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" height=\"43\" width=\"557\" src=\"https://cdn.shopify.com/s/files/1/0622/9449/1190/files/Captura_de_pantalla_7-9-2024_161322.jpg?v=1725740134\" alt=\"\"></p>\n<p> </p>",
+      "published_at": "2025-12-29T10:21:18-05:00",
+      "created_at": "2024-09-08T18:13:02-04:00",
+      "updated_at": "2026-06-05T11:57:11-04:00",
+      "vendor": "SAMSUNG",
+      "product_type": "STOVE",
+      "tags": [
+        "samsung",
+        "SAMSUNG BRAND NEW",
+        "stove"
+      ],
+      "variants": [
+        {
+          "id": 43034403864630,
+          "title": "Black Stainless Steel",
+          "option1": "Black Stainless Steel",
+          "option2": null,
+          "option3": null,
+          "sku": "ST-BR-SA-BL47",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 34622720507958,
+            "product_id": 7656098168886,
+            "position": 1,
+            "created_at": "2024-09-08T18:05:19-04:00",
+            "updated_at": "2024-09-08T18:05:20-04:00",
+            "alt": null,
+            "width": 800,
+            "height": 600,
+            "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/1_abec858f-6b32-413f-8215-43cb214fe5ab.webp?v=1725833120",
+            "variant_ids": [
+              43034403864630
+            ]
+          },
+          "available": true,
+          "price": "699.99",
+          "grams": 87997,
+          "compare_at_price": "949.99",
+          "position": 1,
+          "product_id": 7656098168886,
+          "created_at": "2024-09-08T18:13:04-04:00",
+          "updated_at": "2026-06-05T11:57:11-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 34622720507958,
+          "created_at": "2024-09-08T18:05:19-04:00",
+          "position": 1,
+          "updated_at": "2024-09-08T18:05:20-04:00",
+          "product_id": 7656098168886,
+          "variant_ids": [
+            43034403864630
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/1_abec858f-6b32-413f-8215-43cb214fe5ab.webp?v=1725833120",
+          "width": 800,
+          "height": 600
+        },
+        {
+          "id": 34622720540726,
+          "created_at": "2024-09-08T18:05:19-04:00",
+          "position": 2,
+          "updated_at": "2024-09-08T18:05:20-04:00",
+          "product_id": 7656098168886,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/2_6d265fec-1829-4c07-a3a7-fa288a7e50ce.webp?v=1725833120",
+          "width": 800,
+          "height": 600
+        },
+        {
+          "id": 34622720573494,
+          "created_at": "2024-09-08T18:05:19-04:00",
+          "position": 3,
+          "updated_at": "2024-09-08T18:05:20-04:00",
+          "product_id": 7656098168886,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/3_60b63389-72dd-4669-8773-b49c7ffa9bb0.webp?v=1725833120",
+          "width": 800,
+          "height": 600
+        },
+        {
+          "id": 34622720606262,
+          "created_at": "2024-09-08T18:05:19-04:00",
+          "position": 4,
+          "updated_at": "2024-09-08T18:05:20-04:00",
+          "product_id": 7656098168886,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/4_d6d65c8b-6563-49cc-bcb3-663fb8041bf5.webp?v=1725833120",
+          "width": 800,
+          "height": 600
+        },
+        {
+          "id": 34622720639030,
+          "created_at": "2024-09-08T18:05:19-04:00",
+          "position": 5,
+          "updated_at": "2024-09-08T18:05:20-04:00",
+          "product_id": 7656098168886,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/5_7a68c4e7-11c5-4b42-9434-7ed2807fb51d.webp?v=1725833120",
+          "width": 800,
+          "height": 600
+        },
+        {
+          "id": 34622720671798,
+          "created_at": "2024-09-08T18:05:19-04:00",
+          "position": 6,
+          "updated_at": "2024-09-08T18:05:20-04:00",
+          "product_id": 7656098168886,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/6_97f5c20f-16da-44a1-aafc-a3a9f29e197f.webp?v=1725833120",
+          "width": 800,
+          "height": 600
+        },
+        {
+          "id": 34622720704566,
+          "created_at": "2024-09-08T18:05:19-04:00",
+          "position": 7,
+          "updated_at": "2024-09-08T18:05:20-04:00",
+          "product_id": 7656098168886,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/7_04b8f277-7bab-4f2a-822e-92d4d2679d75.webp?v=1725833120",
+          "width": 800,
+          "height": 600
+        },
+        {
+          "id": 34622720737334,
+          "created_at": "2024-09-08T18:11:54-04:00",
+          "position": 8,
+          "updated_at": "2024-09-08T18:11:56-04:00",
+          "product_id": 7656098168886,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/BLACK_STAINLESS_STEEL_1e81ec3b-6d5a-4113-ab4f-d66801c834a0.jpg?v=1725833516",
+          "width": 650,
+          "height": 433
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Black Stainless Steel"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7655878885430,
+      "title": "BRAND NEW SAMSUNG STOVE (NE63T8511SS) 6.3 cu. ft. Front Control Slide-in  Electric Range with Air Fry & Wi-Fi",
+      "handle": "ne63t8511ss-aa-samsung-6-3-cu-ft-front-control-slide-in-electric-range-with-air-fry-wi-fi",
+      "body_html": "<div style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><img src=\"https://cdn.shopify.com/s/files/1/0622/9449/1190/files/ORIGINAL_240x240.png?v=1725737689\" style=\"margin-bottom: 16px; float: none;\" data-mce-style=\"margin-bottom: 16px; float: none;\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0622/9449/1190/files/ORIGINAL_240x240.png?v=1725737689\"></div>\n<h1 style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Signature Features</h1>\n<div style=\"text-align: center;\" data-mce-style=\"text-align: center;\">\n<br><strong> Air Fry</strong>\n</div>\n<div style=\"text-align: center;\" data-mce-style=\"text-align: center;\"> •  Cooking just got healthier with new Air Fry mode.* Using little to no oil, <br>you can quickly prepare your favorite fried foods right in your oven.<br> <strong><em>*Air Fry tray included.</em></strong>\n</div>\n<div style=\"text-align: center;\" data-mce-style=\"text-align: center;\">\n<br> <strong>Convection</strong>\n</div>\n<div style=\"text-align: center;\" data-mce-style=\"text-align: center;\"> •  Powerful convection saves you time by cooking food faster and more evenly. <br>Perfect for baking and roasting.<br> </div>\n<div style=\"text-align: center;\" data-mce-style=\"text-align: center;\">\n<strong>Fingerprint Resistant Finish</strong><br> •  Fingerprint-resistant smudge-free finish for an everyday beautiful appearance.</div>\n<div style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br></div>\n<div style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><strong>Features</strong></div>\n<div style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br></div>\n<div style=\"text-align: center;\" data-mce-style=\"text-align: center;\"> • Air Fry<br> • Fingerprint Resistant Finish<br> • Large Oven Capacity – 6.3 cu. ft.<br> • Rapid Boil™ – 3300W Element<br> • Glass Touch Controls<br> • Ready2Fit™ Guarantee<br> • Storage Drawer</div>\n<div style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br></div>\n<div style=\"text-align: center;\" data-mce-style=\"text-align: center;\">\n<strong> Power Source</strong><br> 240V/208V/60 Hz/40A</div>\n<div style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br></div>\n<h2 style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Product Dimensions &amp; Weight (WxHxD)</h2>\n<div style=\"text-align: center;\" data-mce-style=\"text-align: center;\">\n<br><strong> Oven Interior Dimensions: </strong><br>2413/16\" x 227/16\" x 193/4\"<br><strong> Outside Net Dimensions: </strong><br>2915/16\" x 36-363/4\" (Adjustable) x 2811/16\"<br><strong> Weight: 174 lbs</strong>\n</div>\n<h2 style=\"text-align: center;\" data-mce-style=\"text-align: center;\">\n<br> Shipping Dimensions &amp; Weight (WxHxD)</h2>\n<div style=\"text-align: center;\" data-mce-style=\"text-align: center;\">\n<br><strong> Dimensions: </strong><br>331/16\" x 413/4\" x 305/16\"<br><strong> Weight: 194 lbs</strong>\n</div>\n<div style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br></div>\n<div style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><img height=\"63\" width=\"553\" src=\"https://cdn.shopify.com/s/files/1/0622/9449/1190/files/Captura_de_pantalla_7-9-2024_163552.jpg?v=1725741388\" alt=\"\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0622/9449/1190/files/Captura_de_pantalla_7-9-2024_163552.jpg?v=1725741388\"></div>\n<div style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br></div>",
+      "published_at": "2025-12-29T10:16:02-05:00",
+      "created_at": "2024-09-07T16:44:46-04:00",
+      "updated_at": "2026-06-05T11:57:11-04:00",
+      "vendor": "SAMSUNG",
+      "product_type": "STOVE",
+      "tags": [
+        "samsung",
+        "SAMSUNG BRAND NEW",
+        "stove"
+      ],
+      "variants": [
+        {
+          "id": 43033179422774,
+          "title": "Stainlees Steel",
+          "option1": "Stainlees Steel",
+          "option2": null,
+          "option3": null,
+          "sku": "ST-BR-SA-ST54",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 34620352528438,
+            "product_id": 7655878885430,
+            "position": 1,
+            "created_at": "2024-09-07T16:44:18-04:00",
+            "updated_at": "2024-09-07T16:44:19-04:00",
+            "alt": null,
+            "width": 679,
+            "height": 854,
+            "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/1_54766a8e-3a73-4194-8c4d-5605ebdb8282.jpg?v=1725741859",
+            "variant_ids": [
+              43033179422774
+            ]
+          },
+          "available": true,
+          "price": "699.99",
+          "grams": 0,
+          "compare_at_price": "949.99",
+          "position": 1,
+          "product_id": 7655878885430,
+          "created_at": "2024-09-07T16:44:48-04:00",
+          "updated_at": "2026-06-05T11:57:11-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 34620352528438,
+          "created_at": "2024-09-07T16:44:18-04:00",
+          "position": 1,
+          "updated_at": "2024-09-07T16:44:19-04:00",
+          "product_id": 7655878885430,
+          "variant_ids": [
+            43033179422774
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/1_54766a8e-3a73-4194-8c4d-5605ebdb8282.jpg?v=1725741859",
+          "width": 679,
+          "height": 854
+        },
+        {
+          "id": 34620352561206,
+          "created_at": "2024-09-07T16:44:18-04:00",
+          "position": 2,
+          "updated_at": "2024-09-07T16:44:19-04:00",
+          "product_id": 7655878885430,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/2_903f1b7d-41c9-4371-9f88-22307d5a11ee.jpg?v=1725741859",
+          "width": 679,
+          "height": 762
+        },
+        {
+          "id": 34620352593974,
+          "created_at": "2024-09-07T16:44:18-04:00",
+          "position": 3,
+          "updated_at": "2024-09-07T16:44:20-04:00",
+          "product_id": 7655878885430,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/3_b7bf1e0e-e7b4-429f-9092-ed81ee0904f9.jpg?v=1725741860",
+          "width": 679,
+          "height": 763
+        },
+        {
+          "id": 34620352626742,
+          "created_at": "2024-09-07T16:44:18-04:00",
+          "position": 4,
+          "updated_at": "2024-09-07T16:44:19-04:00",
+          "product_id": 7655878885430,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/4_806b94db-4d32-41d5-bade-e48aca3ca7d8.jpg?v=1725741859",
+          "width": 679,
+          "height": 679
+        },
+        {
+          "id": 34620352659510,
+          "created_at": "2024-09-07T16:44:18-04:00",
+          "position": 5,
+          "updated_at": "2024-09-07T16:44:20-04:00",
+          "product_id": 7655878885430,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/5_2f82d4df-3d93-4303-8c9d-8d1e91ed1a3c.jpg?v=1725741860",
+          "width": 679,
+          "height": 806
+        },
+        {
+          "id": 34620352692278,
+          "created_at": "2024-09-07T16:44:18-04:00",
+          "position": 6,
+          "updated_at": "2024-09-07T16:44:20-04:00",
+          "product_id": 7655878885430,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/6_09ad57e6-597a-407c-98a4-4f590f2679e8.jpg?v=1725741860",
+          "width": 679,
+          "height": 660
+        },
+        {
+          "id": 38326240772150,
+          "created_at": "2025-12-29T11:58:12-05:00",
+          "position": 7,
+          "updated_at": "2025-12-29T11:58:27-05:00",
+          "product_id": 7655878885430,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/6B6FDBA0-6AB2-4C27-9711-DFBE2B0CB488.jpg?v=1767027507",
+          "width": 800,
+          "height": 600
+        },
+        {
+          "id": 34620318580790,
+          "created_at": "2024-09-07T16:21:10-04:00",
+          "position": 8,
+          "updated_at": "2025-12-29T11:58:27-05:00",
+          "product_id": 7655878885430,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/STAINLEES_STEEL_5522a5bb-67aa-4721-9eb7-910fd010aef8.jpg?v=1767027507",
+          "width": 800,
+          "height": 600
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Stainlees Steel"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8125434691638,
+      "title": "BRAND NEW SAMSUNG STOVE (NE63T8711SG) 6.3 cu ft. Smart Slide-in Electric  Range with Smart Dial & Air Fry in Black Stainless Stee",
+      "handle": "brand-new-samsung-stove-ne63t8711sg-6-3-cu-ft-smart-slide-in-electric-range-with-smart-dial-air-fry-in-black-stainless-stee",
+      "body_html": "<p><img src=\"https://cdn.shopify.com/s/files/1/0622/9449/1190/files/ORIGINAL_240x240.png?v=1725737689\" alt=\"\" style=\"float: none; display: block; margin-left: auto; margin-right: auto;\" data-mce-style=\"float: none; display: block; margin-left: auto; margin-right: auto;\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0622/9449/1190/files/ORIGINAL_240x240.png?v=1725737689\"></p>\n<h1 style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Signature Features</h1>\n<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br> <strong>Smart Dial</strong><br> •  The new Smart Dial simplifies oven settings in a single dial <br>and intuitively learns based on your cooking preferences.</p>\n<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br><strong> Air Fry</strong><br> •  Cooking just got healthier* with new Air Fry mode.. Using little <br>to no oil, you can quickly prepare your favorite fried foods right <br>in your oven. Air Fry tray included.<br><strong><em> As compared to deep frying.</em></strong></p>\n<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br><strong> Convection</strong><br> •  Powerful convection saves you time by cooking food fast and more evenly. <br>Perfect for baking and roasting.</p>\n<h2 style=\"text-align: center;\" data-mce-style=\"text-align: center;\"></h2>\n<h2 style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Features</h2>\n<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br> • Smart Dial<br> • Air Fry, Tray Included<br> • Convection<br> • Illuminated Knobs<br> • Fingerprint Resistant Finish<br> • 3600 W Express Boil™<br> • Large Oven Capacity – 6.3 cu. ft.<br> • Ready2Fit™ Guarantee<br> • Temperature Probe<br> • Storage Drawer</p>\n<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">•   Flexible Cooktop:</p>\n<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br> Five Element Cooktop</p>\n<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">One Triple Element (6\"/9\"/12\")</p>\n<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">One Double Element (6\"/9\") </p>\n<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Two Single Elements (6\")</p>\n<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Warming Center</p>\n<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"> </p>\n<h2 style=\"text-align: center;\" data-mce-style=\"text-align: center;\"> Convenience</h2>\n<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br> • Wi-Fi Connectivity <br>• Voice-Enabled<br> • Convection Auto Conversion<br> • Self &amp; Steam Clean<br> • Hidden Bake Element<br> • Child Safety Lock<br> • Delay Start<br> • Auto Oven Light<br> • Kitchen Timer<br> • Sabbath Mode</p>\n<p><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0622/9449/1190/files/Captura_de_pantalla_7-9-2024_161322.jpg?v=1725740134\" width=\"557\" height=\"43\" style=\"display: block; margin-left: auto; margin-right: auto;\"><br></p>",
+      "published_at": "2025-12-29T10:49:43-05:00",
+      "created_at": "2025-12-29T10:49:43-05:00",
+      "updated_at": "2026-06-05T11:57:11-04:00",
+      "vendor": "SAMSUNG",
+      "product_type": "STOVE",
+      "tags": [
+        "samsung",
+        "SAMSUNG BRAND NEW",
+        "stove"
+      ],
+      "variants": [
+        {
+          "id": 44640555270198,
+          "title": "Black Stainless  Steel",
+          "option1": "Black Stainless  Steel",
+          "option2": null,
+          "option3": null,
+          "sku": "ST-BR-SA-ST85",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "999.99",
+          "grams": 91172,
+          "compare_at_price": "2204.99",
+          "position": 1,
+          "product_id": 8125434691638,
+          "created_at": "2025-12-29T10:49:43-05:00",
+          "updated_at": "2026-06-05T11:57:11-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38326062546998,
+          "created_at": "2025-12-29T10:51:12-05:00",
+          "position": 1,
+          "updated_at": "2025-12-29T10:51:13-05:00",
+          "product_id": 8125434691638,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/49AB3A39-81D3-41A7-BA17-4F4C9649842F.webp?v=1767023473",
+          "width": 624,
+          "height": 624
+        },
+        {
+          "id": 38326062514230,
+          "created_at": "2025-12-29T10:51:12-05:00",
+          "position": 2,
+          "updated_at": "2025-12-29T10:51:13-05:00",
+          "product_id": 8125434691638,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/6DFBB438-2751-4F4D-8B65-C3E05698B459.jpg?v=1767023473",
+          "width": 547,
+          "height": 365
+        },
+        {
+          "id": 38326062481462,
+          "created_at": "2025-12-29T10:51:12-05:00",
+          "position": 3,
+          "updated_at": "2025-12-29T10:51:13-05:00",
+          "product_id": 8125434691638,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/7BE07234-6ADD-44AB-9088-8DEC921255EB.jpg?v=1767023473",
+          "width": 471,
+          "height": 424
+        },
+        {
+          "id": 38326062448694,
+          "created_at": "2025-12-29T10:51:12-05:00",
+          "position": 4,
+          "updated_at": "2025-12-29T10:51:13-05:00",
+          "product_id": 8125434691638,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/576FB190-0CBD-43C5-9882-84EAE8E4F660.jpg?v=1767023473",
+          "width": 646,
+          "height": 646
+        },
+        {
+          "id": 38326062415926,
+          "created_at": "2025-12-29T10:51:12-05:00",
+          "position": 5,
+          "updated_at": "2025-12-29T10:51:14-05:00",
+          "product_id": 8125434691638,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/9F0EEFD3-333F-46C9-BAE4-8599F1D1CF8F.jpg?v=1767023474",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "id": 38326062383158,
+          "created_at": "2025-12-29T10:51:12-05:00",
+          "position": 6,
+          "updated_at": "2025-12-29T10:51:13-05:00",
+          "product_id": 8125434691638,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/FF125BF9-30AF-42E0-A8C5-821032BFCD8E.jpg?v=1767023473",
+          "width": 500,
+          "height": 500
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Black Stainless  Steel"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7656100298806,
+      "title": "BRAND NEW SAMSUNG STOVE (NE63T8711SS) 6.3 cu ft. Smart Slide-in Electric  Range with Smart Dial & Air Fry in  Stainless Stee",
+      "handle": "stove-ne63t8711ss-aa-samsung6-3-cu-ft-smart-slide-in-electric-range-with-smart-dial-air-fry-in-stainless-stee",
+      "body_html": "<p><img src=\"https://cdn.shopify.com/s/files/1/0622/9449/1190/files/ORIGINAL_240x240.png?v=1725737689\" alt=\"\" style=\"float: none; display: block; margin-left: auto; margin-right: auto;\" data-mce-style=\"float: none; display: block; margin-left: auto; margin-right: auto;\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0622/9449/1190/files/ORIGINAL_240x240.png?v=1725737689\"></p>\n<h1 style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Signature Features</h1>\n<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br> <strong>Smart Dial</strong><br> •  The new Smart Dial simplifies oven settings in a single dial <br>and intuitively learns based on your cooking preferences.</p>\n<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br><strong> Air Fry</strong><br> •  Cooking just got healthier* with new Air Fry mode.. Using little <br>to no oil, you can quickly prepare your favorite fried foods right <br>in your oven. Air Fry tray included.<br><strong><em> As compared to deep frying.</em></strong></p>\n<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br><strong> Convection</strong><br> •  Powerful convection saves you time by cooking food fast and more evenly. <br>Perfect for baking and roasting.</p>\n<h2 style=\"text-align: center;\" data-mce-style=\"text-align: center;\"></h2>\n<h2 style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Features</h2>\n<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br> • Smart Dial<br> • Air Fry, Tray Included<br> • Convection<br> • Illuminated Knobs<br> • Fingerprint Resistant Finish<br> • 3600 W Express Boil™<br> • Large Oven Capacity – 6.3 cu. ft.<br> • Ready2Fit™ Guarantee<br> • Temperature Probe<br> • Storage Drawer</p>\n<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">•   Flexible Cooktop:</p>\n<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br> Five Element Cooktop</p>\n<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">One Triple Element (6\"/9\"/12\")</p>\n<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">One Double Element (6\"/9\") </p>\n<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Two Single Elements (6\")</p>\n<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Warming Center</p>\n<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"> </p>\n<h2 style=\"text-align: center;\" data-mce-style=\"text-align: center;\"> Convenience</h2>\n<p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><br> • Wi-Fi Connectivity <br>• Voice-Enabled<br> • Convection Auto Conversion<br> • Self &amp; Steam Clean<br> • Hidden Bake Element<br> • Child Safety Lock<br> • Delay Start<br> • Auto Oven Light<br> • Kitchen Timer<br> • Sabbath Mode</p>\n<p><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0622/9449/1190/files/Captura_de_pantalla_7-9-2024_161322.jpg?v=1725740134\" width=\"557\" height=\"43\" style=\"display: block; margin-left: auto; margin-right: auto;\"><br></p>",
+      "published_at": "2025-12-29T10:45:02-05:00",
+      "created_at": "2024-09-08T18:36:25-04:00",
+      "updated_at": "2026-06-05T11:57:11-04:00",
+      "vendor": "SAMSUNG",
+      "product_type": "STOVE",
+      "tags": [
+        "samsung",
+        "SAMSUNG BRAND NEW",
+        "stove"
+      ],
+      "variants": [
+        {
+          "id": 43034418642998,
+          "title": "Stainless  Steel",
+          "option1": "Stainless  Steel",
+          "option2": null,
+          "option3": null,
+          "sku": "ST-BR-SA-ST85",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "999.99",
+          "grams": 91172,
+          "compare_at_price": "2204.99",
+          "position": 1,
+          "product_id": 7656100298806,
+          "created_at": "2024-09-08T18:36:27-04:00",
+          "updated_at": "2026-06-05T11:57:11-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 34622746591286,
+          "created_at": "2024-09-08T18:34:45-04:00",
+          "position": 1,
+          "updated_at": "2024-09-08T18:34:46-04:00",
+          "product_id": 7656100298806,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/1_54205510-c3f6-44e1-bc5c-bc30fe0dcc84.webp?v=1725834886",
+          "width": 800,
+          "height": 600
+        },
+        {
+          "id": 34622746656822,
+          "created_at": "2024-09-08T18:34:45-04:00",
+          "position": 2,
+          "updated_at": "2024-09-08T18:34:46-04:00",
+          "product_id": 7656100298806,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/4_72ca578f-4bf5-4f56-96f5-3f3dd7a61016.webp?v=1725834886",
+          "width": 800,
+          "height": 600
+        },
+        {
+          "id": 34622746689590,
+          "created_at": "2024-09-08T18:34:45-04:00",
+          "position": 3,
+          "updated_at": "2024-09-08T18:34:46-04:00",
+          "product_id": 7656100298806,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/5_31f2b825-a20f-41ce-ac7a-cf4e8d1df8d7.webp?v=1725834886",
+          "width": 800,
+          "height": 600
+        },
+        {
+          "id": 34622746820662,
+          "created_at": "2024-09-08T18:34:45-04:00",
+          "position": 4,
+          "updated_at": "2024-09-08T18:34:46-04:00",
+          "product_id": 7656100298806,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/9.webp?v=1725834886",
+          "width": 800,
+          "height": 600
+        },
+        {
+          "id": 34622746722358,
+          "created_at": "2024-09-08T18:34:45-04:00",
+          "position": 5,
+          "updated_at": "2024-09-08T18:34:46-04:00",
+          "product_id": 7656100298806,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/6_84a1a4a0-537b-41ab-8655-cfdf5590a755.webp?v=1725834886",
+          "width": 800,
+          "height": 600
+        },
+        {
+          "id": 34622746624054,
+          "created_at": "2024-09-08T18:34:45-04:00",
+          "position": 6,
+          "updated_at": "2024-09-08T18:34:46-04:00",
+          "product_id": 7656100298806,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/2_9bdce56e-6161-4b9e-87af-75a0b936edd5.webp?v=1725834886",
+          "width": 800,
+          "height": 600
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Stainless  Steel"
+          ]
+        }
+      ]
+    }
+  ]
+}

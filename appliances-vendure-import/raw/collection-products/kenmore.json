@@ -1,0 +1,18 @@
+{
+  "collection": {
+    "id": 287245434934,
+    "title": "KENMORE",
+    "handle": "kenmore",
+    "description": "<p> </p>\n<p> </p>\n<p> </p>",
+    "published_at": "2024-09-17T08:08:22-04:00",
+    "updated_at": "2026-06-03T21:28:13-04:00",
+    "image": {
+      "id": 1611592990774,
+      "created_at": "2024-09-17T16:46:15-04:00",
+      "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/collections/KENMORE.jpg?v=1726605976",
+      "alt": null
+    },
+    "products_count": 2
+  },
+  "products": []
+}

@@ -1,0 +1,413 @@
+{
+  "collection": {
+    "id": 287249039414,
+    "title": "FRIDGE",
+    "handle": "frezzer",
+    "description": "",
+    "published_at": "2024-09-17T09:59:15-04:00",
+    "updated_at": "2026-06-03T21:28:17-04:00",
+    "image": {
+      "id": 1611592958006,
+      "created_at": "2024-09-17T16:45:51-04:00",
+      "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/collections/FRIDGE_PNG_ICON_2.png?v=1726605952",
+      "alt": null
+    },
+    "products_count": 33
+  },
+  "products": [
+    {
+      "id": 7656102821942,
+      "title": "BRAND NEW SAMSUNG FRIDGE (RF24BB6900AC) - BESPOKE 24 cu. ft. French  Door Counter Depth Smart Refrigerator  with Family Hub - Custom Panel Ready",
+      "handle": "fridge-rf24bb6900ac-aa-samsung-bespoke-24-cu-ft-french-door-counter-depth-smart-refrigerator-with-family-hub-custom-panel-ready",
+      "body_html": "<p><img style=\"float: none; display: block; margin-left: auto; margin-right: auto;\" alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0622/9449/1190/files/ORIGINAL_240x240.png?v=1725737689\"></p>\n<p><br></p>\n<h1 style=\"text-align: center;\">Signature Features</h1>\n<p style=\"text-align: center;\"><br> <strong>Customizable Door Colors</strong></p>\n<p style=\"text-align: center;\"> Customize the design of your refrigerator with changeable door panels. <br>Choose from a variety of colors and two finishes to create a space that  <br>fits your style</p>\n<p style=\"text-align: center;\"><br><strong> Family Hub™</strong></p>\n<p style=\"text-align: center;\"> Samsung’s Family Hub™ refrigerator helps you connect to what’s most <br>important: your family and home. Family Hub™ lets you see inside your <br>refrigerator, manage your family’s calendars, stream music, see who’s  <br>at the front door and much more, all right from your fridge.<br></p>\n<p style=\"text-align: center;\"> <strong>Beverage Center™</strong></p>\n<p style=\"text-align: center;\"> Quick access to refreshingly cool, filtered water two ways. Choose from  <br>an internal dispenser or a built-in pitcher that automatically refills, with  <br>the option to infuse with a flavor.</p>\n<p style=\"text-align: center;\"><br> <strong>Dual Ice Maker with Ice Bites</strong></p>\n<p style=\"text-align: center;\"> Enjoy your favorite beverage with your choice of ice. Select from cubed ice  <br>or Ice Bites that chill your drink faster. Makes up to 5.3 lbs per day, stores up  <br>to 7.3 lbs total.</p>\n<p style=\"text-align: center;\"><strong>Design</strong><br> • Customizable Door Colors<br> • Modern Design<br> • Recessed Handle</p>\n<p style=\"text-align: center;\"><strong>Technology</strong><br> •  Family Hub™<br> •Beverage Center™<br> •  Wi-Fi Enabled  </p>\n<p style=\"text-align: center;\"><strong>Performance</strong><br> •  Dual Ice Maker with Ice Bites<br> •  24 cu. ft. Capacity <br>• Twin Cooling Plus</p>\n<p style=\"text-align: center;\"> </p>\n<p style=\"text-align: center;\"><strong> Total Capacity: 23.6 cu. ft.</strong><br><strong> Refrigerator: 16.8 cu. ft.</strong><br> • 4 Tempered Glass Spill-Proof Shelves<br> • 2 Clear Drawers, Including Crisper+<br> • 2 Large Pantry Drawers<br> • 8 Door Bins<br> Right: 1 Gallon Bin, 3 Regular Bins<br> Left: 4 Regular Bins<br> • Surface Lighting</p>\n<p style=\"text-align: center;\"><br> <strong>Freezer: 6.8 cu. ft.</strong><br> • Dual Ice Maker in Freezer (Cubed Ice AND Ice Bites)<br> • Ice Bucket with Cover and 1 Scoop<br> • Produces up to 5.3 lbs ice/day, stores up to 7.3 lbs <br>• High Efficiency LED Lighting</p>\n<p style=\"text-align: center;\"><br> <strong>Accessories</strong><br> Water Filter: HAF-QIN</p>\n<p style=\"text-align: center;\"> <strong>Product Dimensions</strong><br> Dimensions (WxHxD with hinges and doors): <br>353/4\" x 70\" x 283/4\"<br> Dimensions (WxHxD without hinges and door): <br>353/4\" x 687/8\" x 24\"</p>\n<p style=\"text-align: center;\"><br> <strong>Shipping Dimensions (WxHxD)</strong><br> Dimensions: 381/4\" x 753/4\" x 305/8\" </p>",
+      "published_at": "2025-12-30T12:02:24-05:00",
+      "created_at": "2024-09-08T18:57:27-04:00",
+      "updated_at": "2026-06-05T12:01:29-04:00",
+      "vendor": "SAMSUNG",
+      "product_type": "FRIDGE",
+      "tags": [
+        "frezzer",
+        "samsung",
+        "SAMSUNG BRAND NEW"
+      ],
+      "variants": [
+        {
+          "id": 43034429489206,
+          "title": "Charcoal Glass",
+          "option1": "Charcoal Glass",
+          "option2": null,
+          "option3": null,
+          "sku": "FR-BR-SA-CH97",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 34622776508470,
+            "product_id": 7656102821942,
+            "position": 1,
+            "created_at": "2024-09-08T18:57:00-04:00",
+            "updated_at": "2024-09-08T18:57:01-04:00",
+            "alt": null,
+            "width": 1000,
+            "height": 1000,
+            "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/2_c426826d-39f3-44dd-aca6-400dc1c08774.jpg?v=1725836221",
+            "variant_ids": [
+              43034429489206
+            ]
+          },
+          "available": true,
+          "price": "1899.99",
+          "grams": 150003,
+          "compare_at_price": "3352.99",
+          "position": 1,
+          "product_id": 7656102821942,
+          "created_at": "2024-09-08T18:57:29-04:00",
+          "updated_at": "2026-06-05T12:01:29-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 34622776508470,
+          "created_at": "2024-09-08T18:57:00-04:00",
+          "position": 1,
+          "updated_at": "2024-09-08T18:57:01-04:00",
+          "product_id": 7656102821942,
+          "variant_ids": [
+            43034429489206
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/2_c426826d-39f3-44dd-aca6-400dc1c08774.jpg?v=1725836221",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 34622776541238,
+          "created_at": "2024-09-08T18:57:00-04:00",
+          "position": 2,
+          "updated_at": "2024-09-08T18:57:01-04:00",
+          "product_id": 7656102821942,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/4_1d5dd12f-bb19-4813-8f33-3efd27218c90.jpg?v=1725836221",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 34622776574006,
+          "created_at": "2024-09-08T18:57:00-04:00",
+          "position": 3,
+          "updated_at": "2024-09-08T18:57:01-04:00",
+          "product_id": 7656102821942,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/6_a192f8f4-e373-4cd7-a18b-e966273dee55.jpg?v=1725836221",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 34622776606774,
+          "created_at": "2024-09-08T18:57:01-04:00",
+          "position": 4,
+          "updated_at": "2024-09-08T18:57:02-04:00",
+          "product_id": 7656102821942,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/3_76269652-a39a-4bb4-b842-7f0dc54b551c.jpg?v=1725836222",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 34622776639542,
+          "created_at": "2024-09-08T18:57:01-04:00",
+          "position": 5,
+          "updated_at": "2024-09-08T18:57:02-04:00",
+          "product_id": 7656102821942,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/7_6b8ec4ff-06f8-4dca-b5db-fe50d6e5a492.jpg?v=1725836222",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 34622776672310,
+          "created_at": "2024-09-08T18:57:01-04:00",
+          "position": 6,
+          "updated_at": "2024-09-08T18:57:02-04:00",
+          "product_id": 7656102821942,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/9_580dd379-1677-4e95-8d92-19a16f005759.jpg?v=1725836222",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "id": 34622776705078,
+          "created_at": "2024-09-08T18:55:48-04:00",
+          "position": 7,
+          "updated_at": "2024-09-08T18:55:49-04:00",
+          "product_id": 7656102821942,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/Charcoal_Glass.png?v=1725836149",
+          "width": 111,
+          "height": 86
+        },
+        {
+          "id": 34670181679158,
+          "created_at": "2024-09-16T19:25:43-04:00",
+          "position": 8,
+          "updated_at": "2024-09-16T19:25:45-04:00",
+          "product_id": 7656102821942,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/10_6e61447f-7f27-43f0-930b-a453b2a71cb3.jpg?v=1726529145",
+          "width": 550,
+          "height": 636
+        },
+        {
+          "id": 34670181711926,
+          "created_at": "2024-09-16T19:25:43-04:00",
+          "position": 9,
+          "updated_at": "2024-09-16T19:25:45-04:00",
+          "product_id": 7656102821942,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/11_962370fd-775f-4a25-9746-64748652928d.jpg?v=1726529145",
+          "width": 249,
+          "height": 452
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Charcoal Glass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7678225252406,
+      "title": "BRAND NEW SAMSUNG FRIDGE (RF29A9071SR) 29 cu. ft. Smart 4-Door Flex™ Refrigerator with AutoFill Water Pitcher and Dual Ice Maker",
+      "handle": "open-box-fridge-rf29a9071sr-29-cu-ft-smart-4-door-flex™-refrigerator-with-autofill-water-pitcher-and-dual-ice-maker",
+      "body_html": "<div style=\"text-align: center;\"></div>\n<h1 style=\"text-align: center;\"></h1>\n<h1 style=\"text-align: center;\">Signature Features</h1>\n<div style=\"text-align: center;\">\n<br><strong>AutoFill Water Pitcher</strong><br>A built-in pitcher that automatically refills with filtered water<br>and the option to infuse with a flavor of your choice.</div>\n<div style=\"text-align: center;\">\n<br><strong>Dual Ice Maker with Ice Bites</strong><br>The Dual Ice Maker produces two types of ice per day: cubed ice<br>and Ice Bites, smaller nugget ice that chills your drink faster.<br>Makes up to 6 lbs per day, stores up to 9 lbs total.</div>\n<div style=\"text-align: center;\">\n<br><strong>FlexZone™</strong><br>Versatile, lower-right storage that can convert from fridge to freezer<br>temperatures. With five customizable temperature settings, it offers<br>superior flexibility to meet your family’s food storage needs.</div>\n<div style=\"text-align: center;\"></div>\n<div style=\"text-align: center;\"><strong>Total Capacity: 29.2 cu. ft.</strong></div>\n<div style=\"text-align: center;\">\n<br><strong> Refrigerator: 17.6 cu. ft.</strong><br>  4 Tempered Glass Spill-Proof Shelves<br>  2 Clear Drawers: FlexCrisper and Crisper+<br>  6 Door Bins<br> Right: 1 Gallon Bin, 2 Regular Bins<br> Left: 1 Gallon Bin, 2 Regular Bins<br> </div>\n<div style=\"text-align: center;\"><strong> LED Lighting</strong></div>\n<div style=\"text-align: center;\"></div>\n<div style=\"text-align: center;\">\n<strong> Freezer: 11.6 cu. ft.</strong><br>  Dual Ice Maker in Freezer (Cubed Ice or Ice Bites) <br>2 Ice Buckets with Cover and 1 Scoop<br>  3 Slide-Out Shelves<br>6 Door Bins<br><br><strong> Accessories</strong><br> Water Filter: HAF-QIN </div>\n<div style=\"text-align: center;\"></div>\n<div style=\"text-align: center;\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0622/9449/1190/files/Captura_de_pantalla_11-10-2024_102544.jpg?v=1728656797\"></div>\n<div style=\"text-align: center;\"></div>\n<div style=\"text-align: center;\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0622/9449/1190/files/samsung.png?v=1725837006\"></div>\n<div style=\"text-align: center;\"></div>\n<div style=\"text-align: center;\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0622/9449/1190/files/Captura_de_pantalla_11-10-2024_10277.jpg?v=1728656841\"></div>",
+      "published_at": "2025-12-30T12:09:12-05:00",
+      "created_at": "2024-10-11T10:30:57-04:00",
+      "updated_at": "2026-06-05T12:01:29-04:00",
+      "vendor": "SAMSUNG",
+      "product_type": "FRIDGE",
+      "tags": [
+        "Brand new",
+        "frezzer",
+        "fridge",
+        "samsung",
+        "SAMSUNG BRAND NEW"
+      ],
+      "variants": [
+        {
+          "id": 43118776451126,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "FR-OP-SA-ST16",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "1299.99",
+          "grams": 140160,
+          "compare_at_price": "2399.99",
+          "position": 1,
+          "product_id": 7678225252406,
+          "created_at": "2024-10-11T10:30:59-04:00",
+          "updated_at": "2026-06-05T12:01:29-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38331918581814,
+          "created_at": "2025-12-30T12:07:11-05:00",
+          "position": 1,
+          "updated_at": "2025-12-30T12:07:36-05:00",
+          "product_id": 7678225252406,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/47C6F2E6-42B8-43CE-BC48-594297D1A70F.jpg?v=1767114456",
+          "width": 646,
+          "height": 646
+        },
+        {
+          "id": 34790434766902,
+          "created_at": "2024-10-11T10:28:05-04:00",
+          "position": 2,
+          "updated_at": "2025-12-30T12:07:36-05:00",
+          "product_id": 7678225252406,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/3_4aff1bdb-13c1-46db-b966-807e55fb4b90.jpg?v=1767114456",
+          "width": 679,
+          "height": 833
+        },
+        {
+          "id": 34790434832438,
+          "created_at": "2024-10-11T10:28:05-04:00",
+          "position": 3,
+          "updated_at": "2025-12-30T12:07:36-05:00",
+          "product_id": 7678225252406,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/5_88fd824f-f0ff-46de-b00f-abcbde503780.jpg?v=1767114456",
+          "width": 679,
+          "height": 679
+        },
+        {
+          "id": 34790434865206,
+          "created_at": "2024-10-11T10:28:05-04:00",
+          "position": 4,
+          "updated_at": "2025-12-30T12:07:36-05:00",
+          "product_id": 7678225252406,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/6_964341a7-89cc-4b73-8c3e-f272b6e8390e.jpg?v=1767114456",
+          "width": 586,
+          "height": 942
+        },
+        {
+          "id": 34790434897974,
+          "created_at": "2024-10-11T10:28:05-04:00",
+          "position": 5,
+          "updated_at": "2025-12-30T12:07:36-05:00",
+          "product_id": 7678225252406,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/7_1b4a8de2-adc1-47b0-abf3-cc6c72b117c0.jpg?v=1767114456",
+          "width": 679,
+          "height": 617
+        },
+        {
+          "id": 34790434799670,
+          "created_at": "2024-10-11T10:28:05-04:00",
+          "position": 6,
+          "updated_at": "2025-12-30T12:07:36-05:00",
+          "product_id": 7678225252406,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/4_f5818b4f-866b-4b2d-8cf0-e0e2a7c2d517.jpg?v=1767114456",
+          "width": 577,
+          "height": 876
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8126466129974,
+      "title": "BRAND NEW Samsung FRIDGE (RS28CB7600QL)\n36 Inch Freestanding Side by Side Smart Refrigerator with 28 cu. ft. Capacity,Beverage Center, Dual Ice Maker, Auto Open Door, Internal Water Dispenser",
+      "handle": "brande-new-samsung-fridge-rs28cb7600ql-36-inch-freestanding-side-by-side-smart-refrigerator-with-28-cu-ft-capacity-beverage-center-dual-ice-maker-auto-open-door-internal-water-dispenser",
+      "body_html": "<h2 class=\"border-bottom mt2\">Description</h2>\n<div class=\"mb2\"><strong>36 Inch Freestanding Side by Side Smart Refrigerator</strong></div>\n<div class=\"mb2\">\n<br>Samsung's large capacity Side-by-Side Refrigerator with Beverage Center is beautifully designed with a modern look that blends seamlessly into your kitchen and a finish that withstands everyday smudges. The built-in smart connectivity provides temperature controls and monitoring directly from your phone. The fingerprint-resistant finish adds to the beautiful design and the sleek built-in look is sure to be a great fit in any kitchen. All-Around Cooling provides strategic ventilation that efficiently cools all areas of the refrigerator. Bright LED lighting and ADA Compliant controls help make the entire unit easily accessible for everyone.</div>",
+      "published_at": "2025-12-30T12:27:34-05:00",
+      "created_at": "2025-12-30T12:21:45-05:00",
+      "updated_at": "2026-06-05T12:01:29-04:00",
+      "vendor": "SAMSUNG",
+      "product_type": "FRIDGE",
+      "tags": [
+        "Brand new",
+        "frezzer",
+        "fridge",
+        "samsung",
+        "SAMSUNG BRAND NEW"
+      ],
+      "variants": [
+        {
+          "id": 44643412639798,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "1199.99",
+          "grams": 0,
+          "compare_at_price": "1799.99",
+          "position": 1,
+          "product_id": 8126466129974,
+          "created_at": "2025-12-30T12:21:46-05:00",
+          "updated_at": "2026-06-05T12:01:29-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 38331984085046,
+          "created_at": "2025-12-30T12:24:59-05:00",
+          "position": 1,
+          "updated_at": "2025-12-30T12:25:00-05:00",
+          "product_id": 8126466129974,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/7C730BF1-98E6-405C-97BA-86B06624D411.jpg?v=1767115500",
+          "width": 800,
+          "height": 600
+        },
+        {
+          "id": 38331984052278,
+          "created_at": "2025-12-30T12:24:59-05:00",
+          "position": 2,
+          "updated_at": "2025-12-30T12:25:00-05:00",
+          "product_id": 8126466129974,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/985EA90D-7778-4123-A23A-D3A2FCE2BFB4.jpg?v=1767115500",
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "id": 38331984019510,
+          "created_at": "2025-12-30T12:24:59-05:00",
+          "position": 3,
+          "updated_at": "2025-12-30T12:25:00-05:00",
+          "product_id": 8126466129974,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/37A087E2-3B17-4E5D-B320-638FFE410F44.jpg?v=1767115500",
+          "width": 976,
+          "height": 1000
+        },
+        {
+          "id": 38331983986742,
+          "created_at": "2025-12-30T12:24:59-05:00",
+          "position": 4,
+          "updated_at": "2025-12-30T12:25:00-05:00",
+          "product_id": 8126466129974,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/C46AED0D-686B-4888-B428-F0356D1A377B.jpg?v=1767115500",
+          "width": 646,
+          "height": 646
+        },
+        {
+          "id": 38331983953974,
+          "created_at": "2025-12-30T12:24:59-05:00",
+          "position": 5,
+          "updated_at": "2025-12-30T12:25:00-05:00",
+          "product_id": 8126466129974,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/F5D11EE8-088C-40E5-944F-04F3C41D1311.png?v=1767115500",
+          "width": 720,
+          "height": 488
+        },
+        {
+          "id": 38331983921206,
+          "created_at": "2025-12-30T12:24:59-05:00",
+          "position": 6,
+          "updated_at": "2025-12-30T12:25:00-05:00",
+          "product_id": 8126466129974,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0622/9449/1190/files/6B6F010B-D4FB-44AE-8984-7FDB0C072949.jpg?v=1767115500",
+          "width": 646,
+          "height": 646
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    }
+  ]
+}
