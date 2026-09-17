@@ -55,7 +55,7 @@ export function MobileNav({collections}: MobileNavProps) {
             <SheetContent side="left" className="w-full sm:max-w-sm overflow-y-auto">
                 <SheetHeader>
                     <SheetTitle className="flex items-center">
-                        <img src="/brand/logo.svg" alt={BRAND.name} width={160} height={40} className="h-8 w-auto" />
+                        <img src="/brand/logo.webp" alt={BRAND.name} width={171} height={60} className="h-8 w-auto" />
                         <span className="sr-only">{t('menu')}</span>
                     </SheetTitle>
                 </SheetHeader>
