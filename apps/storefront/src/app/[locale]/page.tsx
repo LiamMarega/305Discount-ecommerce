@@ -55,7 +55,7 @@ export async function generateMetadata(): Promise<Metadata> {
             type: "website",
             locale: ogLocale,
             url: buildCanonicalUrl(`/${locale}`),
-            images: [{url: '/brand/logo.svg', alt: `${BRAND.name} logo`}],
+            images: [{url: '/brand/logo.webp', alt: `${BRAND.name} logo`}],
         },
     };
 }
