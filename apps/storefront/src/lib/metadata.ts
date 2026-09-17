@@ -1,8 +1,8 @@
 import type { Metadata } from 'next';
 import {BRAND} from '@/lib/brand';
 
-export const SITE_NAME = process.env.NEXT_PUBLIC_SITE_NAME || 'Vendure Store';
-export const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://example.com';
+export const SITE_NAME = process.env.NEXT_PUBLIC_SITE_NAME || BRAND.name;
+export const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || `https://${BRAND.domain}`;
 
 export interface BreadcrumbJsonLdItem {
   name: string;
@@ -22,7 +22,6 @@ export function truncateDescription(
 
   if (cleanText.length <= maxLength) return cleanText;
 
-  // Find the last space before maxLength to avoid cutting words
   const truncated = cleanText.substring(0, maxLength);
   const lastSpaceIndex = truncated.lastIndexOf(' ');
 
@@ -36,11 +35,9 @@ export function stripHtml(text: string | null | undefined): string {
   return text.replace(/<[^>]*>/g, '').replace(/\s+/g, ' ').trim();
 }
 
-/**
- * Build a canonical URL for a given path.
- */
+/** Build a canonical URL for a given path. */
 export function buildCanonicalUrl(path: string): string {
-  const baseUrl = SITE_URL.replace(/\/$/, ''); // Remove trailing slash
+  const baseUrl = SITE_URL.replace(/\/$/, '');
   const cleanPath = path.startsWith('/') ? path : `/${path}`;
   return `${baseUrl}${cleanPath}`;
 }
@@ -51,9 +48,7 @@ export function buildAbsoluteUrl(url: string | null | undefined): string | undef
   return buildCanonicalUrl(url);
 }
 
-/**
- * Build Open Graph image array from an image URL.
- */
+/** Build Open Graph image array from an image URL. */
 export function buildOgImages(
   imageUrl: string | null | undefined,
   alt?: string
@@ -68,9 +63,7 @@ export function buildOgImages(
   ];
 }
 
-/**
- * Create noindex/nofollow robots config for protected pages.
- */
+/** Create noindex/nofollow robots config for protected pages. */
 export function noIndexRobots(): Metadata['robots'] {
   return {
     index: false,
@@ -96,6 +89,8 @@ export function buildBreadcrumbJsonLd(items: BreadcrumbJsonLdItem[]) {
 }
 
 export function buildLocalBusinessJsonLd() {
+  const sameAs = Object.values(BRAND.social).filter(Boolean);
+
   return {
     '@context': 'https://schema.org',
     '@type': 'Store',
@@ -103,14 +98,18 @@ export function buildLocalBusinessJsonLd() {
     description: BRAND.tagline,
     url: SITE_URL,
     telephone: BRAND.phoneDisplay,
-    email: BRAND.email,
+    ...(BRAND.email ? {email: BRAND.email} : {}),
     address: {
       '@type': 'PostalAddress',
       addressLocality: 'Miami',
       addressRegion: 'FL',
       addressCountry: 'US',
-      streetAddress: BRAND.addressLine,
     },
-    sameAs: [BRAND.mapsDirections, BRAND.mapsReviews].filter(Boolean),
+    areaServed: {
+      '@type': 'City',
+      name: 'Miami',
+    },
+    ...(BRAND.mapsDirections ? {hasMap: BRAND.mapsDirections} : {}),
+    ...(sameAs.length ? {sameAs} : {}),
   };
 }

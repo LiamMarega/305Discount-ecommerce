@@ -26,7 +26,7 @@ function catalogShopApiGuard(
     res: {status: (statusCode: number) => {json: (body: unknown) => void}},
     next: () => void
 ) {
-    if (getServerStoreMode() === 'catalog' && typeof req.body?.query === 'string' && /\\bmutation\\b/i.test(req.body.query)) {
+    if (getServerStoreMode() === 'catalog' && typeof req.body?.query === 'string' && /\bmutation\b/i.test(req.body.query)) {
         res.status(403).json({
             errors: [{message: 'Ecommerce mutations are disabled while STORE_MODE=catalog'}],
         });
@@ -56,7 +56,6 @@ function getPublicUrl(): string {
     return `http://localhost:${serverPort}`;
 }
 
-
 function getEmailTransport() {
     if (process.env.SMTP_HOST) {
         return {
@@ -80,7 +79,7 @@ const emailBaseOptions = {
     handlers: defaultEmailHandlers,
     templateLoader: new FileBasedTemplateLoader(path.join(__dirname, '../static/email/templates')),
     globalTemplateVars: {
-        fromAddress: process.env.EMAIL_FROM_ADDRESS || '"easy-home-appliance" <noreply@example.com>',
+        fromAddress: process.env.EMAIL_FROM_ADDRESS || '"305 Discount" <noreply@305discount.com>',
         verifyEmailAddressUrl: `${storefrontUrl}/verify`,
         passwordResetUrl: `${storefrontUrl}/password-reset`,
         changeEmailAddressUrl: `${storefrontUrl}/verify-email-address-change`,

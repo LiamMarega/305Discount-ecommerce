@@ -1,83 +1,65 @@
-# easy-home-appliance
+# 305 Discount Ecommerce
 
-A full-stack e-commerce application built with [Vendure](https://www.vendure.io/) and [Next.js](https://nextjs.org/).
+Full-stack ecommerce/catalog application for **305 Discount** (`305discount.com`), built with [Vendure](https://www.vendure.io/) and [Next.js](https://nextjs.org/).
 
-## Project Structure
+The project keeps the same commerce architecture and performance-oriented implementation inherited from the Easy Home template while using an independent 305 Discount brand layer, SEO metadata, contact data and visual system.
 
-This is a monorepo using npm workspaces:
+## Storefront scope
 
-```
-easy-home-appliance/
+- Furniture
+- Appliances
+- Mattresses
+- Miami, FL inventory
+- Catalog or full ecommerce mode
+- WhatsApp product inquiries
+- Localized storefront (`en` / `es`)
+- Dynamic sitemap, robots metadata and structured data
+
+## Project structure
+
+```text
+305Discount-ecommerce/
 ├── apps/
-│   ├── server/       # Vendure backend (GraphQL API, Admin Dashboard)
-│   └── storefront/   # Next.js frontend
-└── package.json      # Root workspace configuration
+│   ├── server/       # Vendure backend, worker and Dashboard
+│   └── storefront/   # Next.js storefront
+├── scripts/
+└── package.json
 ```
 
-## Getting Started
+## Development
 
-### Development
-
-Start both the server and storefront in development mode:
+Start server + storefront:
 
 ```bash
 npm run dev
 ```
 
-Or run them individually:
+Or separately:
 
 ```bash
-# Start only the server
 npm run dev:server
-
-# Start only the storefront
 npm run dev:storefront
 ```
 
-### Access Points
+Local endpoints:
 
-- **Vendure Dashboard**: http://localhost:3000/dashboard
-- **Shop GraphQL API**: http://localhost:3000/shop-api
-- **Admin GraphQL API**: http://localhost:3000/admin-api
-- **Storefront**: http://localhost:3001
+- Vendure Dashboard: `http://localhost:3000/dashboard`
+- Shop GraphQL API: `http://localhost:3000/shop-api`
+- Admin GraphQL API: `http://localhost:3000/admin-api`
+- Storefront: `http://localhost:3001`
 
-### Admin Credentials
-
-Use these credentials to log in to the Vendure Dashboard:
-
-- **Username**: superadmin
-- **Password**: superadmin
-
-## Production Build
-
-Build all packages:
+## Production build
 
 ```bash
 npm run build
-```
-
-Start the production server:
-
-```bash
 npm run start
 ```
 
-## Learn More
+## Railway — Vendure backend
 
-- [Vendure Documentation](https://docs.vendure.io)
-- [Next.js Documentation](https://nextjs.org/docs)
-- [Vendure Discord Community](https://vendure.io/community)
+Deploy the repository root. `railway.json` builds the server workspace and starts Vendure server + worker.
 
-
-## Deployment
-
-### Railway: Vendure backend + dashboard
-
-Railway should deploy the repository root. `railway.json` builds only the server workspace and starts only Vendure server + worker.
-
-Leave the service's **Pre-deploy Command** and **Start Command** empty in the Railway dashboard. `railway.json` already sets both, and a dashboard pre-deploy command that runs `npm run build` rebuilds the Vendure dashboard a second time after the image build and exhausts the Node heap. `npm run start` must stay the start command: it boots the server and the worker, so replacing it with `node ./dist/index.js` would silently drop the worker (email delivery and search indexing).
-
-Required Railway variables:
+Recommended production variables:
 
 ```bash
 APP_ENV=production
@@ -86,25 +68,37 @@ COOKIE_SECRET=<strong random secret>
 SUPERADMIN_USERNAME=<admin username>
 SUPERADMIN_PASSWORD=<strong admin password>
 VENDURE_DISABLE_TELEMETRY=true
-STOREFRONT_URL=https://<your-vercel-domain>
+STOREFRONT_URL=https://305discount.com
 PUBLIC_URL=https://<your-railway-domain>
 ASSET_URL_PREFIX=https://<your-railway-domain>/assets/
 DATABASE_URL=<provided by Railway Postgres>
+STORE_MODE=catalog
 ```
 
-Attach a Railway Postgres service so `DATABASE_URL` exists. Without `DATABASE_URL`, the backend falls back to local SQLite for development only.
+Attach Railway Postgres so `DATABASE_URL` exists. Without it, the server falls back to local SQLite for development.
 
-### Vercel: Next.js storefront
+## Vercel — Next.js storefront
 
-Create the Vercel project with **Root Directory** set to `apps/storefront`. Vercel will auto-detect Next.js from that app root.
+Set **Root Directory** to `apps/storefront`.
 
-Required Vercel variables:
+Recommended variables:
 
 ```bash
 VENDURE_SHOP_API_URL=https://<your-railway-domain>/shop-api
 VENDURE_CHANNEL_TOKEN=__default_channel__
-NEXT_PUBLIC_SITE_URL=https://<your-vercel-domain>
-NEXT_PUBLIC_SITE_NAME=easy-home-appliance
+NEXT_PUBLIC_SITE_URL=https://305discount.com
+NEXT_PUBLIC_SITE_NAME=305 Discount
 NEXT_PUBLIC_VENDURE_ASSET_HOST=<your-railway-domain>
+NEXT_PUBLIC_STORE_MODE=catalog
 REVALIDATION_SECRET=<strong random secret>
 ```
+
+## Brand source of truth
+
+Store identity and contact data live in:
+
+```text
+apps/storefront/src/lib/brand.ts
+```
+
+The repository intentionally does **not** publish an inherited Easy Home email, street address, social profile, Google review set or dealer claim. Add those only when verified 305 Discount details are available.

@@ -2,7 +2,7 @@ import {defineDashboardExtension} from '@vendure/dashboard';
 import './styles.css';
 
 const brand = {
-    name: 'Easy Home Appliance',
+    name: '305 Discount',
     logo: './brand/logo.svg',
     logoLight: './brand/logo-light.svg',
     logoSingle: './brand/logo_single.svg',
@@ -20,7 +20,7 @@ function BrandLoginLogo() {
 function BrandLoginIntro() {
     return (
         <div className="eha-login-intro">
-            <p className="eha-login-intro__eyebrow">Admin dashboard</p>
+            <p className="eha-login-intro__eyebrow">305 Discount · Admin dashboard</p>
         </div>
     );
 }

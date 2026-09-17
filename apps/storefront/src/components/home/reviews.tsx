@@ -18,6 +18,8 @@ function Stars({n, size = 4}: {n: number; size?: number}) {
 }
 
 export function Reviews() {
+    if (!REVIEWS.length || AGGREGATE.count === 0) return null;
+
     return (
         <section className="bg-background py-10 md:py-14" id="reviews">
             <div className="eh-wrap">
@@ -25,7 +27,6 @@ export function Reviews() {
                     <h2 className="text-[clamp(22px,2.6vw,30px)] font-extrabold tracking-tight">
                         What our customers say
                     </h2>
-                    {/* Aggregate badge */}
                     <div className="mt-5 inline-flex items-center gap-3 rounded-2xl border border-brand-line bg-white px-5 py-3 shadow-brand-sm">
                         <span className="text-[clamp(26px,2.6vw,32px)] font-extrabold tracking-tight text-brand-ink">
                             {AGGREGATE.rating.toFixed(1)}
@@ -53,9 +54,7 @@ export function Reviews() {
                             <div className="mt-5 flex items-center justify-between border-t border-brand-line pt-4">
                                 <div>
                                     <div className="font-bold text-brand-ink">{r.author}</div>
-                                    {r.when && (
-                                        <div className="text-xs text-brand-muted">{r.when}</div>
-                                    )}
+                                    {r.when && <div className="text-xs text-brand-muted">{r.when}</div>}
                                 </div>
                                 <Stars n={r.rating} size={14} />
                             </div>
@@ -63,17 +62,19 @@ export function Reviews() {
                     ))}
                 </div>
 
-                <Reveal as="div" delay={80} className="mt-8 text-center">
-                    <a
-                        href={BRAND.mapsReviews}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="inline-flex items-center gap-2.5 rounded-full border border-brand-line bg-white px-6 py-3 text-sm font-bold text-brand-ink shadow-brand-sm transition-transform hover:-translate-y-0.5"
-                    >
-                        Read all {AGGREGATE.count} reviews on Google
-                        <ArrowUpRight className="size-4 text-brand-blue" />
-                    </a>
-                </Reveal>
+                {BRAND.mapsReviews && (
+                    <Reveal as="div" delay={80} className="mt-8 text-center">
+                        <a
+                            href={BRAND.mapsReviews}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="inline-flex items-center gap-2.5 rounded-full border border-brand-line bg-white px-6 py-3 text-sm font-bold text-brand-ink shadow-brand-sm transition-transform hover:-translate-y-0.5"
+                        >
+                            Read all {AGGREGATE.count} reviews on Google
+                            <ArrowUpRight className="size-4 text-brand-blue" />
+                        </a>
+                    </Reveal>
+                )}
             </div>
         </section>
     );

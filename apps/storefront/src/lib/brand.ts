@@ -1,33 +1,34 @@
 /**
- * Easy Home Appliances — business identity & contact details.
+ * 305 Discount — business identity & contact details.
  * Single source of truth reused across navbar, footer, contact and SEO.
- * Mirrors the values in the original design prototype.
  */
 export const BRAND = {
-    name: "Easy Home Appliances",
-    tagline: "Quality Appliances, Easy Financing",
-    phoneDisplay: "(305) 216-3996",
-    phoneHref: "tel:+13052163996",
-    whatsappNumber: "13052163996",
-    whatsappHref: "https://wa.me/13052163996",
-    email: "easyhome.ap@gmail.com",
-    emailHref: "mailto:easyhome.ap@gmail.com",
-    addressLine: "Suite 104 · Miami, FL",
-    mapsDirections: "https://maps.app.goo.gl/m5Bea8wNguae3yZH8",
-    mapsReviews: "https://maps.app.goo.gl/YgrtxQ3zuRS2QYkP9",
-    mapEmbed: "https://www.google.com/maps?q=Easy+Home+Appliances+Miami+FL&output=embed",
-    promise: ["Financing", "Approval", "Delivery"] as const,
-    hours: [
-        {day: "Monday – Friday", value: "9:00 AM – 7:00 PM", closed: false},
-        {day: "Saturday", value: "9:00 AM – 6:00 PM", closed: false},
-        {day: "Sunday", value: "Closed", closed: true},
-    ],
+    name: "305 Discount",
+    shortName: "305Discount",
+    domain: "305discount.com",
+    tagline: "Furniture · Appliances · Mattresses · Miami, FL",
+    phoneDisplay: "(954) 254-0056",
+    phoneHref: "tel:+19542540056",
+    whatsappNumber: "19542540056",
+    whatsappHref: "https://wa.me/19542540056",
+    // No public email or exact street address has been supplied yet. Keep these
+    // values intentionally empty/generic so we never publish inherited Easy Home data.
+    email: "",
+    emailHref: "",
+    locationLabel: "Miami, FL",
+    addressLine: "Miami, FL",
+    mapsDirections: "https://www.google.com/maps/search/?api=1&query=Miami%2C+FL",
+    mapsReviews: "",
+    mapEmbed: "https://www.google.com/maps?q=Miami%2C+FL&output=embed",
+    promise: ["Furniture", "Appliances", "Mattresses"] as const,
+    hours: [] as readonly {day: string; value: string; closed: boolean}[],
     social: {
-        facebook: "#",
-        instagram: "#",
-        tiktok: "#",
+        facebook: "",
+        instagram: "",
+        tiktok: "",
     },
-    brands: ["SAMSUNG", "LG", "Whirlpool", "GE", "Frigidaire", "Bosch", "Maytag"],
+    // Populate only with brands that 305 Discount can verify it currently carries.
+    brands: [] as readonly string[],
 } as const;
 
 interface WhatsAppInquiryOptions {
@@ -56,7 +57,7 @@ export function whatsappInquiry(productOrOptions?: string | WhatsAppInquiryOptio
 
     const base = options.productName
         ? `Hi! I'm interested in the ${options.productName}. Is it available?`
-        : "Hi! I'd like to ask about your appliances.";
+        : "Hi! I'd like to ask about furniture, appliances, or mattresses at 305 Discount.";
 
     const text = encodeURIComponent(details.length ? `${base}\n\n${details.join('\n')}` : base);
     return `${BRAND.whatsappHref}?text=${text}`;

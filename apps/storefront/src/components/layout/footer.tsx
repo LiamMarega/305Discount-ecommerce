@@ -15,26 +15,23 @@ export async function Footer() {
     return (
         <footer className="mt-auto bg-brand-ink text-white/70">
             <div className="eh-wrap grid gap-8 py-14 md:grid-cols-2 lg:grid-cols-[1.6fr_1fr_1fr_1.3fr] lg:gap-12">
-                {/* Brand */}
                 <div>
                     <NavigationLink href="/" className="mb-5 inline-block">
-                        <img src="/brand/logo-light.svg" alt={BRAND.name} width={192} height={48} className="h-11 w-auto" />
+                        <img src="/brand/logo-light.svg" alt={BRAND.name} width={220} height={77} className="h-14 w-auto" />
                     </NavigationLink>
-                    <p className="max-w-[36ch] text-sm leading-relaxed text-white/55">
-                        Your trusted South Florida home for quality appliances and easy financing — top brands, honest
-                        prices, and approval for every budget.
+                    <p className="max-w-[38ch] text-sm leading-relaxed text-white/55">
+                        Miami discount destination for furniture, appliances and mattresses. Browse current inventory and contact us directly for availability and pricing.
                     </p>
                     <div className="mt-6 flex flex-wrap items-center gap-x-5 gap-y-1.5">
                         {BRAND.promise.map((word) => (
                             <span key={word} className="text-sm font-extrabold italic">
-                                <span className="text-[#6f97ff]">easy</span>{' '}
+                                <span className="text-[#58a9ff]">305</span>{' '}
                                 <span className="text-brand-red">{word}</span>
                             </span>
                         ))}
                     </div>
                 </div>
 
-                {/* Shop (Vendure collections) */}
                 <div>
                     <h4 className="mb-5 text-xs font-bold uppercase tracking-[0.14em] text-white">Shop</h4>
                     <ul className="space-y-3 text-sm">
@@ -49,57 +46,62 @@ export async function Footer() {
                             </li>
                         ))}
                         <li>
-                            <NavigationLink href="/search" className="transition-colors hover:text-white">
+                            <NavigationLink href="/search?sort=price-asc" className="transition-colors hover:text-white">
                                 Deals &amp; Clearance
                             </NavigationLink>
                         </li>
                     </ul>
                 </div>
 
-                {/* Services */}
                 <div>
-                    <h4 className="mb-5 text-xs font-bold uppercase tracking-[0.14em] text-white">Services</h4>
+                    <h4 className="mb-5 text-xs font-bold uppercase tracking-[0.14em] text-white">Help</h4>
                     <ul className="space-y-3 text-sm">
-                        <li><NavigationLink href="/search" className="transition-colors hover:text-white">Financing</NavigationLink></li>
-                        <li><NavigationLink href="/search" className="transition-colors hover:text-white">Delivery &amp; Install</NavigationLink></li>
-                        <li><span className="cursor-default">Warranty</span></li>
-                        <li><span className="cursor-default">Old Unit Haul-Away</span></li>
+                        <li><a href={BRAND.whatsappHref} target="_blank" rel="noopener noreferrer" className="transition-colors hover:text-white">Ask About Financing</a></li>
+                        <li><a href={BRAND.whatsappHref} target="_blank" rel="noopener noreferrer" className="transition-colors hover:text-white">Delivery Options</a></li>
+                        <li><a href={BRAND.whatsappHref} target="_blank" rel="noopener noreferrer" className="transition-colors hover:text-white">Product Availability</a></li>
                         {storeFeatures.orders && (
                             <li><NavigationLink href="/account/orders" className="transition-colors hover:text-white">Your Orders</NavigationLink></li>
                         )}
                     </ul>
                 </div>
 
-                {/* Contact */}
                 <div>
                     <h4 className="mb-5 text-xs font-bold uppercase tracking-[0.14em] text-white">Contact</h4>
                     <ul className="space-y-3.5 text-sm">
                         <li className="flex items-start gap-3">
                             <MapPin className="mt-0.5 size-[17px] shrink-0 text-brand-gold-lite" />
-                            <a href={BRAND.mapsDirections} target="_blank" rel="noopener noreferrer" className="hover:text-white">{BRAND.addressLine}</a>
+                            <a href={BRAND.mapsDirections} target="_blank" rel="noopener noreferrer" className="hover:text-white">{BRAND.locationLabel}</a>
                         </li>
                         <li className="flex items-start gap-3">
                             <Phone className="mt-0.5 size-[17px] shrink-0 text-brand-gold-lite" />
-                            <a href={BRAND.phoneHref} className="hover:text-white">+1 {BRAND.phoneDisplay}</a>
+                            <a href={BRAND.phoneHref} className="hover:text-white">{BRAND.phoneDisplay}</a>
                         </li>
-                        <li className="flex items-start gap-3">
-                            <Mail className="mt-0.5 size-[17px] shrink-0 text-brand-gold-lite" />
-                            <a href={BRAND.emailHref} className="hover:text-white">{BRAND.email}</a>
-                        </li>
+                        {BRAND.email && (
+                            <li className="flex items-start gap-3">
+                                <Mail className="mt-0.5 size-[17px] shrink-0 text-brand-gold-lite" />
+                                <a href={BRAND.emailHref} className="hover:text-white">{BRAND.email}</a>
+                            </li>
+                        )}
                     </ul>
                     <div className="mt-6 flex gap-2.5">
-                        <a href={BRAND.social.facebook} aria-label="Facebook" className="grid size-10 place-items-center rounded-xl bg-white/[0.07] transition-all hover:-translate-y-0.5 hover:bg-brand-blue">
-                            <FacebookIcon className="size-[18px] text-white" />
-                        </a>
-                        <a href={BRAND.social.instagram} aria-label="Instagram" className="grid size-10 place-items-center rounded-xl bg-white/[0.07] transition-all hover:-translate-y-0.5 hover:bg-brand-blue">
-                            <InstagramIcon className="size-[18px] text-white" />
-                        </a>
+                        {BRAND.social.facebook && (
+                            <a href={BRAND.social.facebook} aria-label="Facebook" className="grid size-10 place-items-center rounded-xl bg-white/[0.07] transition-all hover:-translate-y-0.5 hover:bg-brand-blue">
+                                <FacebookIcon className="size-[18px] text-white" />
+                            </a>
+                        )}
+                        {BRAND.social.instagram && (
+                            <a href={BRAND.social.instagram} aria-label="Instagram" className="grid size-10 place-items-center rounded-xl bg-white/[0.07] transition-all hover:-translate-y-0.5 hover:bg-brand-blue">
+                                <InstagramIcon className="size-[18px] text-white" />
+                            </a>
+                        )}
                         <a href={BRAND.whatsappHref} target="_blank" rel="noopener noreferrer" aria-label="WhatsApp" className="grid size-10 place-items-center rounded-xl bg-white/[0.07] transition-all hover:-translate-y-0.5 hover:bg-brand-blue">
                             <WhatsAppIcon className="size-[18px] text-white" />
                         </a>
-                        <a href={BRAND.social.tiktok} aria-label="TikTok" className="grid size-10 place-items-center rounded-xl bg-white/[0.07] transition-all hover:-translate-y-0.5 hover:bg-brand-blue">
-                            <TikTokIcon className="size-[18px] text-white" />
-                        </a>
+                        {BRAND.social.tiktok && (
+                            <a href={BRAND.social.tiktok} aria-label="TikTok" className="grid size-10 place-items-center rounded-xl bg-white/[0.07] transition-all hover:-translate-y-0.5 hover:bg-brand-blue">
+                                <TikTokIcon className="size-[18px] text-white" />
+                            </a>
+                        )}
                     </div>
                 </div>
             </div>

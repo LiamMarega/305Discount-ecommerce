@@ -11,7 +11,7 @@ import {HeaderShell} from '@/components/layout/navbar/header-shell';
 import {NavbarUserSkeleton} from '@/components/shared/skeletons/navbar-user-skeleton';
 import {SearchInputSkeleton} from '@/components/shared/skeletons/search-input-skeleton';
 import {WhatsAppIcon} from '@/components/brand/icons';
-import {Phone, Tag, Truck, Mail, LayoutGrid} from 'lucide-react';
+import {Phone, Tag, MapPin, LayoutGrid} from 'lucide-react';
 import {BRAND} from '@/lib/brand';
 import {storeFeatures} from '@/config/store-mode';
 
@@ -19,28 +19,26 @@ export function Navbar() {
     const topBar = (
         <>
             <p className="flex items-center gap-2 text-white/85">
-                <Truck className="size-[15px] text-brand-gold-lite" />
-                <span className="font-semibold">Free delivery and haul-away</span>
-                <span className="text-white/70">on qualifying orders</span>
+                <Tag className="size-[15px] text-brand-gold-lite" />
+                <span className="font-semibold">Furniture · Appliances · Mattresses</span>
+                <span className="hidden text-white/70 md:inline">discount inventory in Miami</span>
             </p>
             <div className="flex items-center gap-5">
                 <a href={BRAND.phoneHref} className="inline-flex items-center gap-1.5 text-white/85 transition-colors hover:text-white">
                     <Phone className="size-[14px]" />
                     {BRAND.phoneDisplay}
                 </a>
-                <a href={BRAND.emailHref} className="hidden items-center gap-1.5 text-white/85 transition-colors hover:text-white lg:inline-flex">
-                    <Mail className="size-[14px]" />
-                    {BRAND.email}
-                </a>
-                <span className="hidden text-white/70 xl:inline">Mon to Sat, 9am to 7pm</span>
+                <span className="hidden items-center gap-1.5 text-white/70 lg:inline-flex">
+                    <MapPin className="size-[14px]" />
+                    {BRAND.locationLabel}
+                </span>
             </div>
         </>
     );
 
     const logo = (
         <NavigationLink href="/" aria-label={`${BRAND.name} home`} className="inline-flex items-center">
-            {/* SVG wordmark from the brand kit */}
-            <img src="/brand/logo.svg" alt={BRAND.name} width={176} height={44} className="h-8 w-auto sm:h-9" />
+            <img src="/brand/logo.svg" alt={BRAND.name} width={220} height={77} className="h-10 w-auto sm:h-11" />
         </NavigationLink>
     );
 
@@ -50,7 +48,7 @@ export function Navbar() {
                 href={BRAND.whatsappHref}
                 target="_blank"
                 rel="noopener noreferrer"
-                aria-label="Chat with us on WhatsApp"
+                aria-label={`Chat with ${BRAND.name} on WhatsApp`}
                 className="inline-flex size-10 items-center justify-center gap-2 rounded-full bg-brand-whatsapp text-sm font-bold text-white transition-transform duration-200 ease-[var(--ease-brand-out)] hover:-translate-y-px active:scale-[0.97] sm:size-auto sm:px-4 sm:py-2.5"
             >
                 <WhatsAppIcon className="size-[18px]" />

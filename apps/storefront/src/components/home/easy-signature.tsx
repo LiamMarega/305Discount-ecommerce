@@ -1,23 +1,23 @@
-import {CreditCard, BadgeCheck, ShoppingCart, Wallet, Truck} from 'lucide-react';
+import {Search, BadgeDollarSign, MessageCircle, ShoppingCart, Truck} from 'lucide-react';
 
 const steps = [
-    {icon: CreditCard, word: 'Financing', desc: 'Monthly plans built around your budget. Apply in minutes.'},
-    {icon: BadgeCheck, word: 'Approval', desc: 'All credit types welcome. We focus on getting you a yes.'},
-    {icon: ShoppingCart, word: 'Buy', desc: 'Browse in store or online and check out in a few taps.'},
-    {icon: Wallet, word: 'Payments', desc: 'Card, transfer or in store, on the schedule you choose.'},
-    {icon: Truck, word: 'Delivery', desc: 'Careful delivery, install, and haul-away of your old unit.'},
+    {icon: Search, word: 'Browse', desc: 'Furniture, appliances and mattresses in one catalog.'},
+    {icon: BadgeDollarSign, word: 'Compare', desc: 'Start with the current deals and prices available online.'},
+    {icon: MessageCircle, word: 'Ask', desc: 'Message the team to confirm stock, options and details.'},
+    {icon: ShoppingCart, word: 'Choose', desc: 'Pick what fits your home and complete the next step.'},
+    {icon: Truck, word: 'Deliver', desc: 'Ask us about delivery options available for your order.'},
 ];
 
-export function EasySignature() {
+export function DiscountSignature() {
     return (
-        <section className="border-t border-brand-line bg-white py-10 md:py-14" id="easy">
+        <section className="border-t border-brand-line bg-white py-10 md:py-14" id="why-305">
             <div className="eh-wrap">
-                <div className="mb-7 max-w-[54ch] md:mb-9">
+                <div className="mb-7 max-w-[58ch] md:mb-9">
                     <h2 className="text-[clamp(22px,2.6vw,30px)] font-extrabold leading-tight tracking-tight">
-                        Five reasons it is just… <span className="italic text-brand-red">easy</span>
+                        Five simple steps with <span className="italic text-brand-red">305 Discount</span>
                     </h2>
                     <p className="mt-2 text-[15px] text-brand-muted">
-                        From the first hello to delivery day, every step is built to be simple.
+                        Browse the catalog, compare the deal, and contact us when you are ready.
                     </p>
                 </div>
 
@@ -38,7 +38,7 @@ export function EasySignature() {
                                 strokeWidth={1.8}
                             />
                             <p className="mt-3.5 text-[15px] font-extrabold leading-none">
-                                <span className="italic text-brand-blue">easy</span>{' '}
+                                <span className="italic text-brand-blue">305</span>{' '}
                                 <span className="uppercase tracking-tight text-brand-red">{s.word}</span>
                             </p>
                             <p className="mt-2 text-[13px] leading-relaxed text-brand-muted">{s.desc}</p>

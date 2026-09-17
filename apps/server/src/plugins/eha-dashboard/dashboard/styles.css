@@ -1,9 +1,9 @@
 :root {
-    --eha-blue: #2f51a3;
-    --eha-orange: #f36229;
-    --eha-ink: #111827;
+    --eha-blue: #016ada;
+    --eha-orange: #f96812;
+    --eha-ink: #011c50;
     --eha-muted: #667085;
-    --eha-line: rgba(47, 81, 163, 0.14);
+    --eha-line: rgba(1, 28, 80, 0.14);
     --eha-ease-out: cubic-bezier(0.23, 1, 0.32, 1);
 }
 
@@ -18,11 +18,11 @@
     width: 4.5rem;
     height: 4.5rem;
     border-radius: 1.25rem;
-    box-shadow: 0 18px 50px rgba(47, 81, 163, 0.18);
+    box-shadow: 0 18px 50px rgba(1, 106, 218, 0.18);
 }
 
 .eha-login-logo__wordmark {
-    width: min(15rem, 76vw);
+    width: min(17rem, 80vw);
     height: auto;
 }
 
