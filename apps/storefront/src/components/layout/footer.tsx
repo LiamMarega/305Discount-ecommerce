@@ -17,7 +17,7 @@ export async function Footer() {
             <div className="eh-wrap grid gap-8 py-14 md:grid-cols-2 lg:grid-cols-[1.6fr_1fr_1fr_1.3fr] lg:gap-12">
                 <div>
                     <NavigationLink href="/" className="mb-5 inline-block">
-                        <img src="/brand/logo-light.svg" alt={BRAND.name} width={220} height={77} className="h-14 w-auto" />
+                        <img src="/brand/logo.webp" alt={BRAND.name} width={285} height={100} className="h-14 w-auto" />
                     </NavigationLink>
                     <p className="max-w-[38ch] text-sm leading-relaxed text-white/55">
                         Miami discount destination for furniture, appliances and mattresses. Browse current inventory and contact us directly for availability and pricing.
