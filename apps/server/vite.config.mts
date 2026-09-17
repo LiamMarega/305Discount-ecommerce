@@ -3,17 +3,15 @@ import { join, resolve } from 'path';
 import { pathToFileURL } from 'url';
 import { createLogger, defineConfig } from 'vite';
 
-
-
-function easyHomeDashboardBranding() {
+function discount305DashboardBranding() {
     return {
-        name: 'easy-home-dashboard-branding',
+        name: '305discount-dashboard-branding',
         enforce: 'post' as const,
         transformIndexHtml(html: string) {
             return html
                 .replace(/<link rel="icon"[^>]*>/, '<link rel="icon" type="image/svg+xml" href="brand/logo_single_bg.svg" />')
-                .replace('Vendure Admin Dashboard', 'Easy Home Appliance Dashboard')
-                .replace('content="Vendure"', 'content="Easy Home Appliance"');
+                .replace('Vendure Admin Dashboard', '305 Discount Dashboard')
+                .replace('content="Vendure"', 'content="305 Discount"');
         },
     };
 }
@@ -33,7 +31,6 @@ function stripBrokenDependencySourcemaps() {
         },
     };
 }
-
 
 const viteLogger = createLogger();
 const shouldSuppressViteMessage = (message: string) =>
@@ -62,31 +59,17 @@ export default defineConfig({
     },
     plugins: [
         stripBrokenDependencySourcemaps(),
-        easyHomeDashboardBranding(),
+        discount305DashboardBranding(),
         vendureDashboardPlugin({
-            // The vendureDashboardPlugin will scan your configuration in order
-            // to find any plugins which have dashboard extensions, as well as
-            // to introspect the GraphQL schema based on any API extensions
-            // and custom fields that are configured.
             vendureConfigPath: pathToFileURL('./src/vendure-config.ts'),
-            // Points to the location of your Vendure server.
-            // In production, 'auto' lets the dashboard derive the API URL from the
-            // server that serves it. In development, we use explicit defaults so that
-            // the Vite dev server can reach the Vendure backend.
             api: process.env.NODE_ENV === 'production'
                 ? { host: 'auto', port: 'auto' }
                 : { host: 'http://localhost', port: 3000 },
-            // When you start the Vite server, your Admin API schema will
-            // be introspected and the types will be generated in this location.
-            // These types can be used in your dashboard extensions to provide
-            // type safety when writing queries and mutations.
             gqlOutputPath: './src/gql',
         }),
     ],
     resolve: {
         alias: {
-            // This allows all plugins to reference a shared set of
-            // GraphQL types.
             '@/gql': resolve(__dirname, './src/gql/graphql.ts'),
         },
     },

@@ -1,7 +1,7 @@
 import type {Metadata, Viewport} from "next";
 import {hasLocale, NextIntlClientProvider} from "next-intl";
 import {Plus_Jakarta_Sans, Geist_Mono} from "next/font/google";
-import {getMessages, getTranslations, setRequestLocale} from "next-intl/server";
+import {getMessages, setRequestLocale} from "next-intl/server";
 import {notFound} from "next/navigation";
 import {routing} from "@/i18n/routing";
 import {toOgLocale} from "@/i18n/locale-utils";
@@ -10,7 +10,8 @@ import {Toaster} from "@/components/ui/sonner";
 import {Navbar} from "@/components/layout/navbar";
 import {Footer} from "@/components/layout/footer";
 import {ThemeProvider} from "@/components/providers/theme-provider";
-import {SITE_NAME, SITE_URL} from "@/lib/metadata";
+import {SITE_NAME, SITE_URL, buildCanonicalUrl} from "@/lib/metadata";
+import {BRAND} from "@/lib/brand";
 import "./globals.css";
 import {connection} from "next/server";
 import {Analytics} from "@vercel/analytics/next";
@@ -32,10 +33,16 @@ export function generateStaticParams() {
     return routing.locales.map((locale) => ({locale}));
 }
 
+function siteDescription(locale: string) {
+    return locale.startsWith('es')
+        ? 'Compra muebles, electrodomésticos y colchones en 305 Discount en Miami, FL. Consulta inventario, precios y disponibilidad con nuestro equipo.'
+        : 'Shop furniture, appliances and mattresses at 305 Discount in Miami, FL. Browse current inventory and contact our team for pricing and availability.';
+}
+
 export async function generateMetadata(): Promise<Metadata> {
     const locale = await getRouteLocale();
     const ogLocale = toOgLocale(locale);
-    const t = await getTranslations({locale, namespace: 'Common'});
+    const description = siteDescription(locale);
 
     return {
         metadataBase: new URL(SITE_URL),
@@ -43,21 +50,28 @@ export async function generateMetadata(): Promise<Metadata> {
             default: SITE_NAME,
             template: `%s | ${SITE_NAME}`,
         },
-        description: t('siteDescription', {siteName: SITE_NAME}),
+        description,
+        applicationName: BRAND.name,
+        category: 'shopping',
         icons: {
-            icon: [
-                {url: '/brand/logo_single_bg.svg', type: 'image/svg+xml'},
-            ],
+            icon: [{url: '/brand/logo_single_bg.svg', type: 'image/svg+xml'}],
             shortcut: '/brand/logo_single_bg.svg',
             apple: '/brand/logo_single_bg.svg',
         },
         openGraph: {
             type: "website",
             siteName: SITE_NAME,
+            title: SITE_NAME,
+            description,
             locale: ogLocale,
+            url: buildCanonicalUrl(`/${locale}`),
+            images: [{url: '/brand/logo.webp', alt: `${BRAND.name} logo`}],
         },
         twitter: {
             card: "summary_large_image",
+            title: SITE_NAME,
+            description,
+            images: ['/brand/logo.webp'],
         },
         robots: {
             index: true,
@@ -84,7 +98,7 @@ export const viewport: Viewport = {
     maximumScale: 5,
     themeColor: [
         {media: "(prefers-color-scheme: light)", color: "#ffffff"},
-        {media: "(prefers-color-scheme: dark)", color: "#000000"},
+        {media: "(prefers-color-scheme: dark)", color: "#011c50"},
     ],
 };
 

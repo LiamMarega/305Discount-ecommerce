@@ -3,13 +3,12 @@
 @import "shadcn/tailwind.css";
 
 /* =================================================================
-   EASY HOME APPLIANCES — brand design system
-   Brand: easy(red #F36229) home(blue #2F51A3), navy #101B38, gold #F8915A
-   Type:  Plus Jakarta Sans · Light-only brand identity
+   305 DISCOUNT — brand design system
+   Brand: orange/yellow 305 + bright/deep blue DISCOUNT + navy outline
+   Type: Plus Jakarta Sans · light-first retail identity
    ================================================================= */
 
 @theme inline {
-  /* shadcn semantic tokens → brand */
   --color-background: var(--background);
   --color-foreground: var(--foreground);
   --font-sans: var(--font-sans);
@@ -44,7 +43,7 @@
   --color-card-foreground: var(--card-foreground);
   --color-card: var(--card);
 
-  /* Brand palette (use as bg-brand-red, text-brand-blue, etc.) */
+  /* Keep existing utility names so the template layout/logic stays untouched. */
   --color-brand-red: var(--brand-red);
   --color-brand-red-dark: var(--brand-red-dark);
   --color-brand-blue: var(--brand-blue);
@@ -68,9 +67,9 @@
   --radius-xl: calc(var(--radius) + 6px);
   --radius-2xl: calc(var(--radius) + 14px);
 
-  --shadow-brand-sm: 0 1px 2px rgba(15, 20, 28, 0.06), 0 1px 1px rgba(15, 20, 28, 0.04);
-  --shadow-brand: 0 6px 20px -6px rgba(15, 20, 28, 0.16), 0 2px 6px rgba(15, 20, 28, 0.05);
-  --shadow-brand-lg: 0 24px 60px -16px rgba(15, 20, 28, 0.3), 0 8px 20px -8px rgba(15, 20, 28, 0.14);
+  --shadow-brand-sm: 0 1px 2px rgba(1, 28, 80, 0.06), 0 1px 1px rgba(1, 28, 80, 0.04);
+  --shadow-brand: 0 6px 20px -6px rgba(1, 28, 80, 0.16), 0 2px 6px rgba(1, 28, 80, 0.05);
+  --shadow-brand-lg: 0 24px 60px -16px rgba(1, 28, 80, 0.3), 0 8px 20px -8px rgba(1, 28, 80, 0.14);
 
   --ease-brand: cubic-bezier(0.22, 0.61, 0.36, 1);
   --ease-brand-out: cubic-bezier(0.16, 1, 0.3, 1);
@@ -80,57 +79,56 @@
 }
 
 :root {
-  --radius: 0.875rem; /* 14px */
+  --radius: 0.875rem;
 
-  /* raw brand */
-  --brand-red: #f36229;
-  --brand-red-dark: #c44d14;
-  --brand-blue: #2f51a3;
-  --brand-blue-mid: #3d63c0;
-  --brand-blue-deep: #1e3a7a;
-  --brand-navy: #101b38;
-  --brand-gold: #e0631f;
-  --brand-gold-lite: #f8915a;
-  --brand-ink: #0f141c;
-  --brand-ink-2: #2a323f;
-  --brand-muted: #6b7280;
-  --brand-muted-2: #9aa3af;
+  /* 305 Discount palette sampled from the supplied logo artwork */
+  --brand-red: #f96812;
+  --brand-red-dark: #de4308;
+  --brand-blue: #016ada;
+  --brand-blue-mid: #0195fd;
+  --brand-blue-deep: #023675;
+  --brand-navy: #011c50;
+  --brand-gold: #fcb41c;
+  --brand-gold-lite: #fdba04;
+  --brand-ink: #0a183c;
+  --brand-ink-2: #26324a;
+  --brand-muted: #687386;
+  --brand-muted-2: #98a2b3;
   --brand-surface: #ffffff;
-  --brand-surface-2: #fafbfc;
-  --brand-line: rgba(15, 20, 28, 0.09);
+  --brand-surface-2: #f8faff;
+  --brand-line: rgba(1, 28, 80, 0.10);
 
-  /* shadcn semantic → brand mapping */
-  --background: #f5f6f8;
-  --foreground: #0f141c;
+  --background: #f6f8fb;
+  --foreground: #0a183c;
   --card: #ffffff;
-  --card-foreground: #0f141c;
+  --card-foreground: #0a183c;
   --popover: #ffffff;
-  --popover-foreground: #0f141c;
-  --primary: #f36229;
+  --popover-foreground: #0a183c;
+  --primary: #f96812;
   --primary-foreground: #ffffff;
-  --secondary: #fafbfc;
-  --secondary-foreground: #0f141c;
-  --muted: #eef0f3;
-  --muted-foreground: #6b7280;
-  --accent: #eef1f7;
-  --accent-foreground: #2f51a3;
+  --secondary: #f8faff;
+  --secondary-foreground: #0a183c;
+  --muted: #eef3fa;
+  --muted-foreground: #687386;
+  --accent: #edf6ff;
+  --accent-foreground: #016ada;
   --destructive: oklch(0.577 0.245 27.325);
-  --border: rgba(15, 20, 28, 0.09);
-  --input: rgba(15, 20, 28, 0.12);
-  --ring: #2f51a3;
-  --chart-1: #f36229;
-  --chart-2: #2f51a3;
-  --chart-3: #f8915a;
-  --chart-4: #1e3a7a;
-  --chart-5: #e0631f;
+  --border: rgba(1, 28, 80, 0.10);
+  --input: rgba(1, 28, 80, 0.14);
+  --ring: #016ada;
+  --chart-1: #f96812;
+  --chart-2: #016ada;
+  --chart-3: #fdba04;
+  --chart-4: #023675;
+  --chart-5: #0195fd;
   --sidebar: #ffffff;
-  --sidebar-foreground: #0f141c;
-  --sidebar-primary: #f36229;
+  --sidebar-foreground: #0a183c;
+  --sidebar-primary: #f96812;
   --sidebar-primary-foreground: #ffffff;
-  --sidebar-accent: #eef1f7;
-  --sidebar-accent-foreground: #2f51a3;
-  --sidebar-border: rgba(15, 20, 28, 0.09);
-  --sidebar-ring: #2f51a3;
+  --sidebar-accent: #edf6ff;
+  --sidebar-accent-foreground: #016ada;
+  --sidebar-border: rgba(1, 28, 80, 0.10);
+  --sidebar-ring: #016ada;
 }
 
 @layer base {
@@ -152,17 +150,12 @@
   }
 }
 
-/* =================================================================
-   Brand helpers
-   ================================================================= */
 @layer components {
-  /* page width container matching the design (max 1240, fluid padding) */
   .eh-wrap {
     max-width: 1400px;
     margin-inline: auto;
     padding-inline: clamp(16px, 3.5vw, 40px);
   }
-  /* dashed image placeholder used where real photography isn't supplied */
   .eh-ph {
     position: relative;
     overflow: hidden;
@@ -170,14 +163,11 @@
     place-items: center;
     background:
       repeating-linear-gradient(135deg, rgba(255, 255, 255, 0.05) 0 12px, rgba(255, 255, 255, 0.02) 12px 24px),
-      #131d3a;
+      #011c50;
     color: rgba(255, 255, 255, 0.5);
   }
 }
 
-/* =================================================================
-   Animations
-   ================================================================= */
 @keyframes fade-up {
   from { opacity: 0; transform: translateY(8px); }
   to { opacity: 1; transform: translateY(0); }
@@ -189,12 +179,11 @@
   50% { transform: translateY(-10px); }
 }
 @keyframes pulse-ring {
-  0% { box-shadow: 0 0 0 0 rgba(248, 145, 90, 0.6); }
-  70% { box-shadow: 0 0 0 10px rgba(248, 145, 90, 0); }
-  100% { box-shadow: 0 0 0 0 rgba(248, 145, 90, 0); }
+  0% { box-shadow: 0 0 0 0 rgba(249, 104, 18, 0.6); }
+  70% { box-shadow: 0 0 0 10px rgba(249, 104, 18, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(249, 104, 18, 0); }
 }
 
-/* scroll reveal (paired with IntersectionObserver in <Reveal/>) */
 .eh-reveal { opacity: 0; transform: translateY(26px); transition: opacity 0.7s var(--ease-brand-out), transform 0.7s var(--ease-brand-out); }
 .eh-reveal[data-in="true"] { opacity: 1; transform: none; }
 

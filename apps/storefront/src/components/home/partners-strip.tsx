@@ -2,11 +2,13 @@ import {Reveal} from '@/components/brand/reveal';
 import {BRAND} from '@/lib/brand';
 
 export function PartnersStrip() {
+    if (!BRAND.brands.length) return null;
+
     return (
         <section className="border-b border-brand-line/60 bg-brand-surface">
             <div className="eh-wrap py-7 md:py-9">
                 <Reveal as="p" className="mb-6 text-center text-[12px] font-bold uppercase tracking-[0.22em] text-brand-muted-2">
-                    Authorized Dealer For
+                    Brands in our catalog
                 </Reveal>
                 <Reveal
                     as="div"

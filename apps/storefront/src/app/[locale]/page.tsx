@@ -9,26 +9,40 @@ import {PromoBanners} from "@/components/home/promo-banners";
 import {FeaturedProducts} from "@/components/commerce/featured-products";
 import {PartnersStrip} from "@/components/home/partners-strip";
 import {TrustBand} from "@/components/home/trust-band";
-import {EasySignature} from "@/components/home/easy-signature";
+import {DiscountSignature} from "@/components/home/easy-signature";
 import {Reviews} from "@/components/home/reviews";
 import {LocationContact} from "@/components/home/location-contact";
 import {Newsletter} from "@/components/home/newsletter";
 import {SITE_NAME, buildCanonicalUrl, buildLocalBusinessJsonLd} from "@/lib/metadata";
-import {getTranslations} from 'next-intl/server';
 import {toOgLocale} from '@/i18n/locale-utils';
 import {routing} from '@/i18n/routing';
 import {JsonLd} from '@/components/seo/json-ld';
+import {BRAND} from '@/lib/brand';
+
+function homeSeo(locale: string) {
+    if (locale.startsWith('es')) {
+        return {
+            title: 'Muebles, Electrodomésticos y Colchones en Miami',
+            description: 'Compra muebles, electrodomésticos y colchones en 305 Discount en Miami, FL. Consulta inventario, precios y disponibilidad directamente con nuestro equipo.',
+        };
+    }
+
+    return {
+        title: 'Furniture, Appliances & Mattresses in Miami',
+        description: 'Shop furniture, appliances and mattresses at 305 Discount in Miami, FL. Browse current discount inventory and contact us for pricing and availability.',
+    };
+}
 
 export async function generateMetadata(): Promise<Metadata> {
     const locale = await getRouteLocale();
-    const t = await getTranslations({locale, namespace: 'Home'});
     const ogLocale = toOgLocale(locale);
+    const seo = homeSeo(locale);
 
     return {
         title: {
-            absolute: `${SITE_NAME} - ${t('pageTitle')}`,
+            absolute: `${SITE_NAME} | ${seo.title}`,
         },
-        description: t('description'),
+        description: seo.description,
         alternates: {
             canonical: buildCanonicalUrl(`/${locale}`),
             languages: Object.fromEntries(
@@ -36,11 +50,12 @@ export async function generateMetadata(): Promise<Metadata> {
             ),
         },
         openGraph: {
-            title: `${SITE_NAME} - ${t('pageTitle')}`,
-            description: t('ogDescription'),
+            title: `${SITE_NAME} | ${seo.title}`,
+            description: seo.description,
             type: "website",
             locale: ogLocale,
             url: buildCanonicalUrl(`/${locale}`),
+            images: [{url: '/brand/logo.webp', alt: `${BRAND.name} logo`}],
         },
     };
 }
@@ -64,7 +79,7 @@ export default function Home() {
             </Suspense>
             <PartnersStrip />
             <TrustBand />
-            <EasySignature />
+            <DiscountSignature />
             <Reviews />
             <LocationContact />
             <Newsletter />
