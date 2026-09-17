@@ -38,7 +38,7 @@ export function Navbar() {
 
     const logo = (
         <NavigationLink href="/" aria-label={`${BRAND.name} home`} className="inline-flex items-center">
-            <img src="/brand/logo.svg" alt={BRAND.name} width={220} height={77} className="h-10 w-auto sm:h-11" />
+            <img src="/brand/logo.webp" alt={BRAND.name} width={285} height={100} className="h-10 w-auto sm:h-11" />
         </NavigationLink>
     );
 
