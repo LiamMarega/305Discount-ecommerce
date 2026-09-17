@@ -3,8 +3,8 @@ import './styles.css';
 
 const brand = {
     name: '305 Discount',
-    logo: './brand/logo.svg',
-    logoLight: './brand/logo-light.svg',
+    logo: './brand/logo.webp',
+    logoLight: './brand/logo.webp',
     logoSingle: './brand/logo_single.svg',
     logoSingleBg: './brand/logo_single_bg.svg',
 };
