@@ -65,13 +65,13 @@ export async function generateMetadata(): Promise<Metadata> {
             description,
             locale: ogLocale,
             url: buildCanonicalUrl(`/${locale}`),
-            images: [{url: '/brand/logo.svg', alt: `${BRAND.name} logo`}],
+            images: [{url: '/brand/logo.webp', alt: `${BRAND.name} logo`}],
         },
         twitter: {
             card: "summary_large_image",
             title: SITE_NAME,
             description,
-            images: ['/brand/logo.svg'],
+            images: ['/brand/logo.webp'],
         },
         robots: {
             index: true,
